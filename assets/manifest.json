@@ -1,0 +1,296 @@
+{
+  "schema": "ai_gijinka_zipzippipe_public_reference_archive.v1",
+  "archive_date": "2026-10-18",
+  "archive_root": ".",
+  "repository": "Tests4gptplay/ai-gijinka-art-world",
+  "branch": "main",
+  "scope": "public_attributed_noncommercial_reference_previews_no_relicensing",
+  "collection_claim": "12 physical low-resolution previews corresponding to 11 ZipZipPipe characters; original full-res files are linked by source and sha256, NOT archived here",
+  "main_author": {
+    "name": "ZipZipPipe",
+    "pixiv_author_id": "18604994",
+    "bilibili_space": "https://space.bilibili.com/4168597",
+    "pixiv_collection": "https://www.pixiv.net/artworks/148186519"
+  },
+  "upstream_snapshots": {
+    "shuaizenge/ai-girls": "2c2c029ac4c59e1ebc909788a64ce75df0cbe711",
+    "SelinLee/ai-moe-atlas": "018bc3ca6c8d946006dacfc0bca7bf65a6dff4d6"
+  },
+  "assets": [
+    {
+      "id": "gpt-jpg",
+      "character_id": "gpt",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/gpt.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/gpt-adult-zipzippipe-pixiv-148186519-p03.jpg",
+      "source_blob_sha": "590c413001da12832b2b3a5f4075f78a883983a2",
+      "archive_blob_sha": "590c413001da12832b2b3a5f4075f78a883983a2",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 3,
+      "pixiv_page_number": 4,
+      "pixiv_origin_sha256": "c47948cd25efcf7ad4a5179288c8452445d57d6dfc379fb27ab6e809a6970157",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p3.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "deepseek-jpg",
+      "character_id": "deepseek",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/deepseek.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/deepseek-adult-zipzippipe-pixiv-148186519-p00.jpg",
+      "source_blob_sha": "1ffe1515d2ab5451c00213d4167bf213bb1d4541",
+      "archive_blob_sha": "1ffe1515d2ab5451c00213d4167bf213bb1d4541",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 0,
+      "pixiv_page_number": 1,
+      "pixiv_origin_sha256": "73264faff3511347b1b9668d5d937cbb3f2402f8bb03cc158fc8a81bfc2d077c",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p0.jpg",
+      "author_lineage": [
+        "上善无形 - original whale-person character",
+        "ZipZipPipe - DeepSeek themed maid derivative"
+      ],
+      "license_note": "CC BY-NC-SA 4.0 on whale-girl design; attribute upstream and derivative authors",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "deepseek-variant-jpg",
+      "character_id": "deepseek",
+      "role": "creator_original_variant_thumbnail",
+      "relative_path": "assets/references/deepseek-variant.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/deepseek-adult-zipzippipe-pixiv-148186519-p01-variant.jpg",
+      "source_blob_sha": "d44eb0b0611e8cf66ce379262b1975bf86ca3390",
+      "archive_blob_sha": "d44eb0b0611e8cf66ce379262b1975bf86ca3390",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 1,
+      "pixiv_page_number": 2,
+      "pixiv_origin_sha256": "4cee881c03347ce2b77218a2f984ab4938c1c53cbcfd47f3aa7b939fda905c4d",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p1.jpg",
+      "author_lineage": [
+        "上善无形 - original whale-person character",
+        "ZipZipPipe - DeepSeek themed maid derivative"
+      ],
+      "license_note": "CC BY-NC-SA 4.0 on whale-girl design; attribute upstream and derivative authors",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "gemini-jpg",
+      "character_id": "gemini",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/gemini.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/gemini-adult-zipzippipe-pixiv-148186519-p04.jpg",
+      "source_blob_sha": "b9451b8cd395b373f2de5256452c4fe4d5840abb",
+      "archive_blob_sha": "b9451b8cd395b373f2de5256452c4fe4d5840abb",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 4,
+      "pixiv_page_number": 5,
+      "pixiv_origin_sha256": "1353cf80c62b1841f0b59671a693aef945a297c586c9ad32f1a36efc5e3e15ab",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p4.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "claude-jpg",
+      "character_id": "claude",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/claude.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/claude-adult-zipzippipe-pixiv-148186519-p02.jpg",
+      "source_blob_sha": "361c11bf15e63e03491bcbbdd2a11916f68285f2",
+      "archive_blob_sha": "361c11bf15e63e03491bcbbdd2a11916f68285f2",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 2,
+      "pixiv_page_number": 3,
+      "pixiv_origin_sha256": "6fb3d6568ccd23cea1437226947276ab052bcdd47d6b7d55d8b5ca148c779782",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p2.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "grok-jpg",
+      "character_id": "grok",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/grok.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/grok-adult-zipzippipe-pixiv-148186519-p07.jpg",
+      "source_blob_sha": "b6348a48955d57cc9dc5824bedcc8180168ba5f1",
+      "archive_blob_sha": "b6348a48955d57cc9dc5824bedcc8180168ba5f1",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 7,
+      "pixiv_page_number": 8,
+      "pixiv_origin_sha256": "a5a4b4c95f905034b64bf80237f1b859ade0e6e31cadf4db40f9642124e171bb",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p7.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "glm-jpg",
+      "character_id": "glm",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/glm.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/glm-adult-zipzippipe-pixiv-148186519-p06.jpg",
+      "source_blob_sha": "0fe8b2b5db180a4bc151c0350c60c68b8cce1e46",
+      "archive_blob_sha": "0fe8b2b5db180a4bc151c0350c60c68b8cce1e46",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 6,
+      "pixiv_page_number": 7,
+      "pixiv_origin_sha256": "b15ddcb0cc9308087182da75e65e77b3ed14b8d20278b36f76e4712d2df965b8",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p6.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "kimi-jpg",
+      "character_id": "kimi",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/kimi.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/kimi-adult-zipzippipe-pixiv-148186519-p05.jpg",
+      "source_blob_sha": "67caa06b09ce4c0b4b699f70aa35dce54bf6346e",
+      "archive_blob_sha": "67caa06b09ce4c0b4b699f70aa35dce54bf6346e",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 5,
+      "pixiv_page_number": 6,
+      "pixiv_origin_sha256": "14eb96127c1c7233d3b649f946decdfd8eebb169da2b357b928dd301624186a7",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p5.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "qwen-jpg",
+      "character_id": "qwen",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/qwen.jpg",
+      "source_repository": "shuaizenge/ai-girls",
+      "source_path": "previews/qwen-adult-zipzippipe-pixiv-148186519-p12.jpg",
+      "source_blob_sha": "021e22fd6b27caba7dc7f5ccd7f2a93c9a98670a",
+      "archive_blob_sha": "021e22fd6b27caba7dc7f5ccd7f2a93c9a98670a",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 12,
+      "pixiv_page_number": 13,
+      "pixiv_origin_sha256": "3dfe6fafc0531d1bf3fd0a72556c91d53253b377ac52355bb127e54020d55114",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p12.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "llama-webp",
+      "character_id": "llama",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/llama.webp",
+      "source_repository": "SelinLee/ai-moe-atlas",
+      "source_path": "public/collected/zipzippipe-llama/portrait/preview.webp",
+      "source_blob_sha": "982841268e3c32b8236e4891f99cb2669a55dd30",
+      "archive_blob_sha": "982841268e3c32b8236e4891f99cb2669a55dd30",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 13,
+      "pixiv_page_number": 14,
+      "pixiv_origin_sha256": "efe928d775e432353cd9067a54f4fe4cf5a5bf7a9dd3611b27fb9f2b3867a120",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p13.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "minimax-webp",
+      "character_id": "minimax",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/minimax.webp",
+      "source_repository": "SelinLee/ai-moe-atlas",
+      "source_path": "public/collected/zipzippipe-minimax/portrait/preview.webp",
+      "source_blob_sha": "fcd2b107cf82dedc1b78920017e77c43c5f0b9fd",
+      "archive_blob_sha": "fcd2b107cf82dedc1b78920017e77c43c5f0b9fd",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 15,
+      "pixiv_page_number": 16,
+      "pixiv_origin_sha256": "04febfc86453a5668d20cf2f2bc8ec5e80c5baeb4260df52f705a7926f9001a5",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p15.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "doubao-webp",
+      "character_id": "doubao",
+      "role": "creator_original_portrait_thumbnail",
+      "relative_path": "assets/references/doubao.webp",
+      "source_repository": "SelinLee/ai-moe-atlas",
+      "source_path": "public/collected/zipzippipe-doubao/portrait/preview.webp",
+      "source_blob_sha": "61bdd874d397075382fa25fff776167b75e74cb7",
+      "archive_blob_sha": "61bdd874d397075382fa25fff776167b75e74cb7",
+      "source_git_bytes_preserved": true,
+      "pixiv_page_index": 10,
+      "pixiv_page_number": 11,
+      "pixiv_origin_sha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce",
+      "pixiv_origin_url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p10.jpg",
+      "author_lineage": [
+        "ZipZipPipe - creator-published character illustration"
+      ],
+      "license_note": "Attribution required, no commercial use per author; no automatic CC0/MIT or blanket adaptation license",
+      "image_kind": "low_resolution_technical_preview_not_original_full_size",
+      "public_display_in_this_repository": true,
+      "repository_does_not_grant_new_reuse_rights": true
+    }
+  ],
+  "excluded_conflicted_asset": {
+    "path_in_other_catalog": "previews/gemini-adult-zipzippipe-pixiv-148186519-p10-variant.jpg",
+    "reason": "Other catalog marks Pixiv p10 (full SHA256 a923dd...) Gemini variant, while independent Pixiv page audit and visible SEED motifs map that exact file to Doubao/Seed. Excluded as Gemini; source comparison needed.",
+    "original_sha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
+  },
+  "chibi_video": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+  "chibi_video_frames_archived": false,
+  "full_originals_archived": false,
+  "publication_notes": "Metadata and attributed small previews published in this repository; third-party authors retain rights. Individual reuse must follow origin declarations. The private predecessor is no longer a source of canonical URLs."
+}
