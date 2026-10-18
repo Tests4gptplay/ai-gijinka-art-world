@@ -1,2 +1,2 @@
-# ai-gijinka-art-world-bible-20261018
+# ai-gijinka-art-world
 AI 娘二创视觉设定与世界观资料库
