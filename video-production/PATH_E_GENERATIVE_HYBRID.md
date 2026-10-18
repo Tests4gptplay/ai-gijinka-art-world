@@ -21,6 +21,13 @@
 
 ## 使用的权利与部署边界
 
+### 《千本樱》案例：静态人物图也是有价值的影视资产
+
+在 [实际作者说明](CASE_STUDY_SENBONZAKURA_OPUS_20261017.md)中，**ComfyUI 的 Anima 负责初音角色图，GPT Image 负责抠图/修图，Remotion 负责最终逐帧合成**。这正是 E 作为**资产轨道**而不是把图像生成模型当作整个影片时间轴的例子。Anima 有官方 [ComfyUI 工作流蓝图](https://github.com/Comfy-Org/ComfyUI/blob/master/blueprints/Text%20to%20Image%20%28Anima%29.json)，其 [CircleStone Labs 模型卡](https://huggingface.co/circlestone-labs/Anima)将权重许可与输出物条件分开；后者亦不代表第三方角色设计/音乐自动获授权。
+
+GPT Image 具有[编辑、图像参考和遮罩能力](https://developers.openai.com/api/docs/guides/image-generation)，但对发丝、衣物、翼/尾边缘的抠图仍需视觉检验。此例不是“全程不使用图像模型”的纯程序 MV；后续发布时应据实列出演示中的所有 AI 参与环节。
+
+
 - ComfyUI **应用仓库本身是 GPL-3.0**；模型权重、不同节点、外部服务还有**各自**的许可，不能用 ComfyUI 的许可证替代整套管线权利审核。
 - Wan2.2 官方 README 描述其模型受 Apache-2.0，具体权重/附加限制应对当前模型版本逐一复核。
 - 下载模型、安装大型创作工具、购买在线生成额度或发送受保护的音乐/人物资产到外部服务之前，必须按实际用户授权执行；本研究不启动相关依赖。

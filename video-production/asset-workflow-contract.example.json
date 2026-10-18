@@ -1,0 +1,77 @@
+{
+  "schema": "ai-gijinka.video-production.asset-workflow-example.v1",
+  "status": "proposed_schema_only_not_implemented",
+  "scope": "public_method_only_no_secrets_no_copyrighted_source_assets",
+  "project": "UNSPECIFIED_future_consented_project",
+  "production": {
+    "art_brief": "visual brief and verifiable on-screen action, not prose-only",
+    "fps": 30,
+    "shot": {
+      "id": "example-shot-001",
+      "global_start_frame": 0,
+      "duration_frames": 240,
+      "source_audio_cue_ref": "local licensed/owned cue metadata only",
+      "layer_order": [
+        "background",
+        "world_3d",
+        "character_2d",
+        "foreground_fx",
+        "captions"
+      ],
+      "approval_state": "EXPERIMENT_PENDING"
+    }
+  },
+  "assets": [
+    {
+      "asset_id": "environment-001",
+      "kind": "offline_rendered_3d_scene",
+      "creator_tool": "Blender / optional MCP provider after authorization",
+      "source_sha256": "UNSET",
+      "file_path": "authorized task-local future path",
+      "format": "RGBA/EXR or video with declared alpha",
+      "camera_focal_length": "unknown until produced",
+      "license_status": "NOT_CLEARED",
+      "art_review": "NOT_SEEN"
+    },
+    {
+      "asset_id": "character-001",
+      "kind": "generated_or_licensed_character_layers",
+      "creator_tool": "optional ComfyUI Anima or original layer creation",
+      "retouch_tool": "optional GPT Image editing after authorization",
+      "character_reference": "explicit original artist, universe, permission, and source",
+      "source_sha256": "UNSET",
+      "image_model_id": "NOT_PROVEN",
+      "seed": null,
+      "alpha_verified": false,
+      "style_match_approved": false,
+      "license_status": "NOT_CLEARED"
+    },
+    {
+      "asset_id": "captions-001",
+      "kind": "vector_typography",
+      "font_license": "UNVERIFIED",
+      "source_audio_cue_ref": "noncopyrighted metadata ref only",
+      "safe_area_verified": false
+    }
+  ],
+  "compositor": {
+    "candidate": "Remotion / alternative approved renderer",
+    "frame_clock": "global_frame_index / fps",
+    "arbitrary_seek_tested": false,
+    "audio_source": "locally approved source; not copied into this repo",
+    "final_encoded_video_tested": false
+  },
+  "proofs": {
+    "actual_motion_clip_sha256": "UNSET",
+    "encoded_frames_reviewed": false,
+    "perceived_full_video_and_audio_reviewed": false,
+    "art_verdict": "NOT_TESTED",
+    "tech_verdict": "NOT_TESTED"
+  },
+  "security": {
+    "plugin_executable_permissions": "review independently",
+    "credentials": "NEVER_STORE_IN_GIT",
+    "source_media_to_external_api": "requires source-specific permission",
+    "professional_software_install": "requires explicit approval"
+  }
+}

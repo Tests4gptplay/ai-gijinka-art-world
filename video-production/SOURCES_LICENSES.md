@@ -28,6 +28,14 @@
 
 ## 本地视频版权与 AI 娘素材
 
+## 第三方混合制作案例（作者公开信息，非复现报告）
+
+- **[Bilibili BV16MJY6yEKq《[opus5.5]一句话让claude花30亿token制作的千本樱mv》](https://www.bilibili.com/video/BV16MJY6yEKq/)**：2026-10-17 页面，作者公开说明 **Remotion 合成 7574 帧 / 4:12**、**Blender 制作凌云阁等场景**、**ComfyUI 的 Anima 生成人物图**、**GPT Image 抠图/修图**，作者评论描述本地音乐/字幕、现成工作流以及已装 Blender MCP。评论中包含私人网关配置，本仓**不复制/引用网关 URL、key、匿名化凭据样例**。
+- 模型事实核验入口： [Remotion 官方核心机制](https://www.remotion.dev/docs/idea)，[第三方 Blender MCP 的一种实现](https://github.com/ahujasid/mcp-for-blender)（并非作者披露的确切插件），[ComfyUI Anima 官方工作流蓝图](https://github.com/Comfy-Org/ComfyUI/blob/master/blueprints/Text%20to%20Image%20%28Anima%29.json)，[Anima 模型卡/许可](https://huggingface.co/circlestone-labs/Anima)，[GPT Image 官方图像编辑](https://developers.openai.com/api/docs/guides/image-generation)。
+- 限制：标题“30亿 token”未有账单/日志级独立证据；未获作者源码/生成谱系/实测音画文件；没有将投稿描述换算成稳定生产成本，也不宣称已完整观看全片。**角色图使用生成模型，因此不能把本案例归为“无图像生成的纯程序绘制”。**
+- 研究全文：[《千本樱》技术案例记录](CASE_STUDY_SENBONZAKURA_OPUS_20261017.md)，迁移方向见 [资产先行 + 统一时间轴](PRODUCTION_PATTERN_ASSET_FIRST_COMPOSITE.md)。
+
+
 本仓现有 [RIGHTS](../RIGHTS.md) 包含 ZipZipPipe 角色非商业/署名边界以及 DeepSeek 上善无形 CC BY-NC-SA 4.0 链。任何新角色 PV 仍需按真实素材与改编条件处理。第三方音乐如 Mili `world.execute(me);` 的使用也必须单独核对官方版权规约：
 
 https://projectmili.com/copyright-guidelines

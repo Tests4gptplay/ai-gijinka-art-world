@@ -22,6 +22,12 @@
 
 配套： [角色制作链](CHARACTER_ANIMATION_PIPELINE.md) · [跨路线决策矩阵](COMPARISON.md) · [强制真实动态审片](QUALITY_GATE.md) · [小样片实验任务书](PILOT_SPEC.md) · [官方出处与许可](SOURCES_LICENSES.md) · [示例帧协议](frame-contract.example.json)。
 
+## 最近新增的真实制作案例：资产先行混合合成
+
+- **[《千本樱》Claude / Remotion + Blender + ComfyUI + GPT Image 案例](CASE_STUDY_SENBONZAKURA_OPUS_20261017.md)**：2026-10-17 投稿页和作者评论可核对，作者自述 4 分 12 秒 / 7574 帧；不是“全部视觉由几何代码从零作画”，而是角色图生成与修图、3D 场景、程序化视频时间轴的合作模式。标题中的“30亿 token”未有独立计量证据。
+- **[高表现力资产先行 + 统一时间轴合成生产模式](PRODUCTION_PATTERN_ASSET_FIRST_COMPOSITE.md)**：记录这条跨 A/C/E 的资产契约、美术协同和审片闸门。**这是已有五条工具路线的组合方法，不是第六套独立渲染引擎**。
+- [素材与镜头契约示例](asset-workflow-contract.example.json) 仅供未来单独立项研究，不表示已安装 Blender MCP、Anima 或已获得图片网关访问权。
+
 ## 防止重蹈此前的问题
 
 1. **先验证“表现风格”再烧完整全曲。** 同一段自有/获许可音频或合成节拍上，做若干 8–12 秒有意义的多镜头样片，观看真实 MP4 而非文字设想或 4 张海报。

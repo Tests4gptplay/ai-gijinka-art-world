@@ -53,6 +53,9 @@ song/cues/shot-manifest.json      （只在获授权工程内存放音频）
 一条 **8–12 秒** 1080p30 实际 MP4：至少 3 个真正不同的镜头（UI → 3D 深度变化 → 角色/歌词或真实设计的收束画面），3 层以上可读视觉层级，正确合成有权使用的音频/合成节拍；提供原始渲染时间戳、无头 GPU 后端记录、真实视频 contact sheet + 短片连续审片记录。
 
 **官方文档**
+**实际制作案例启示**：可先由 Blender 输出 3D 场景 / ComfyUI 输出人物 / GPT Image 修整素材，再统一送进 Remotion，而不要求每层都用 WebGL 在运行时重算。详见 [《千本樱》案例](CASE_STUDY_SENBONZAKURA_OPUS_20261017.md)与[资产先行模式](PRODUCTION_PATTERN_ASSET_FIRST_COMPOSITE.md)。角色图若是静态，仍需在 Remotion 时间轴中有真正的表演/机位/分层运动，避免贴纸感。
+
+
 - [Remotion ThreeCanvas](https://www.remotion.dev/docs/three-canvas)
 - [Remotion render CLI](https://www.remotion.dev/docs/render)
 - [Remotion OpenGL 后端](https://www.remotion.dev/docs/options/gl)
