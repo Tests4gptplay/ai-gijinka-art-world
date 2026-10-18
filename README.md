@@ -8,6 +8,8 @@ AI 娘二创视觉设定与世界观资料库
 
 ## 从哪里开始
 
+**视频制作方法研究：** [高品质 AI 辅助视频与 MV 制作方案库](video-production/README.md)（Remotion / Three.js、Motion Canvas / PixiJS、Blender、Godot、生成式素材辅助；目前为待实验方案，尚未宣称画质验收成功）。
+
 1. [角色图鉴 CHARACTER_ATLAS.md](CHARACTER_ATLAS.md)：11 位角色辨识特征、GPT 白龙娘和 Qwen 的排错要点。
 2. [美术语言与参考使用 ART_DIRECTION.md](ART_DIRECTION.md)：服装、色彩、材质、造型识别，未来封面保持圈内视觉的一致性。
 3. [世界观层级 WORLDVIEW_AND_FANON.md](WORLDVIEW_AND_FANON.md)：ZipZipPipe 原始人物 / 「大 AI 与小 AI」 / 后续同人剧情的分层与作者关系。

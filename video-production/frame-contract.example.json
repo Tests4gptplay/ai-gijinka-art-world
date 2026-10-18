@@ -1,0 +1,67 @@
+{
+  "schema": "ai-gijinka.video-research.frame-contract.example.v1",
+  "status": "illustrative_not_implemented",
+  "generation": {
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "total_frames_example": 300,
+    "time_expression": "t_seconds = frame_index / fps",
+    "first_frame_index": 0,
+    "last_frame_index_inclusive": 299
+  },
+  "input": {
+    "frame_index": 0,
+    "seed": "fixed per shot",
+    "shot_id": "opening-console",
+    "shot_manifest_id": "original per-work project artifact",
+    "asset_manifest_id": "licensed or originally created only",
+    "cue_list": "source-timed normalized metadata; do not embed copyrighted lyrics/audio in this public example"
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "shader_or_scene",
+      "order": 0
+    },
+    {
+      "id": "character",
+      "type": "licensed_split_layers_or_original_proxy",
+      "order": 10
+    },
+    {
+      "id": "interface",
+      "type": "dom_svg_or_vector_design",
+      "order": 20
+    },
+    {
+      "id": "captions",
+      "type": "single_authoritative_caption_compositor",
+      "order": 30
+    },
+    {
+      "id": "grade",
+      "type": "color_transform_with_safe_text_overrides",
+      "order": 40
+    }
+  ],
+  "requirements": [
+    "all animations derive from frame_index and immutable inputs; no wallclock deltas",
+    "shader reset / state reconstruction for random frame seeks",
+    "sRGB/alpha/typography verified in final encoded MP4",
+    "on model or library version change re-run semantic/visual comparisons",
+    "no claims of bitwise cross-GPU determinism without observed proof",
+    "write output evidence in task-owned project, never to CAH Git or public song repo"
+  ],
+  "output": {
+    "video": "actually encoded MP4",
+    "evidence": [
+      "ffprobe",
+      "source_sha",
+      "actual_encoded_frames_contact",
+      "continuity_clip",
+      "audible_playback_review_or_explicit_unverified"
+    ],
+    "art_gate": "human_or_independent_model_review_of_actual_video"
+  }
+}
