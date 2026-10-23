@@ -8,6 +8,8 @@ AI 娘二创视觉设定与世界观资料库
 
 ## 从哪里开始
 
+**原创私设：** [我们自己的角色与故事](私设/README.md)——首位角色为 [星璃 · Stella](私设/星璃/README.md)。原创区与原作考据、社区共性分开，收录不等于加入 Kujira 默认预设。
+
 **视频制作方法研究：** [高品质 AI 辅助视频与 MV 制作方案库](video-production/README.md)（Remotion / Three.js、Motion Canvas / PixiJS、Blender、Godot、生成式素材辅助；目前为待实验方案，尚未宣称画质验收成功）。
 
 1. [角色图鉴 CHARACTER_ATLAS.md](CHARACTER_ATLAS.md)：11 位角色辨识特征、GPT 白龙娘和 Qwen 的排错要点。
