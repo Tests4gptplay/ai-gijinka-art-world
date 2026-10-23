@@ -1,61 +1,68 @@
-# ZipZipPipe 人物视觉图鉴
+# AI 娘视觉图鉴：14 位人物的定位与区别
 
-**证据等级**：A＝原作者 Pixiv/视频可核验身份与顺序；B＝有明确出处的社区整理和已实际查看的轻量预览；C＝独立二创创作者自己的叙事。本文件的造型描述主要基于 A+B；**没有声称获得作者手写的完整人物性格手册**。
+更新：2026-10-24。完整资料见 [人物目录](characters/README.md)；出处编号见 [本轮来源台账](research/2026-10-24/SOURCE_LEDGER.md)。本表选定可追溯的视觉版本，不宣称每位人物在全网只有这一种画法。
 
-> 正常比例立绘有些在社区素材库中归档为 `adult`，这仅指画面比例，**不是人物年龄设定**。核心角色图来自 ZipZipPipe 的 [《AI娘化》](https://www.pixiv.net/artworks/148186519)（Pixiv 作品号 148186519）。图片版权保留原作者及所涉权利人。
+**读取范围：** 九人视频的指定时间样本本轮已实际查看；其余来源结合既有预览与固定归档。Pixiv 本轮不可直接打开，不把归档记录说成刚读取的原帖全文。正常比例／Q 版不等于固定年龄、亲缘和强弱。
 
-| 角色 | 视觉识别锁定点（以实际预览为准） | 作者画稿 | 本仓公开预览 |
+## 人物与参考总表
+
+Pixiv 下标 `p00` 为第 1 张；“第几张”不等于视频出场次序。
+
+| 人物 | 视觉识别重点 | 采用的来源位置 | 资料页／预览 |
 |---|---|---|---|
-| **GPT / ChatGPT** | **银白长发、明显的双龙角、左右展开的浅紫膜翼、粗长叠鳞龙尾、白色长裙配淡紫边饰／螺旋符号**；淡紫眼眸。 | p03／第 4 页 | [gpt.jpg](assets/references/gpt.jpg) |
-| **DeepSeek** | **蓝色长发、鲸鳍样侧饰、宽大的深蓝鲸尾、蓝白围裙女仆装**；有头饰及海洋纹样。 | p00／第 1 页；p01 变体 | [deepseek.jpg](assets/references/deepseek.jpg) |
-| **Gemini** | **蓝—紫—粉渐变长发、猫耳与毛茸茸猫尾、星形装饰、紫蓝短裙层次**。 | p04／第 5 页 | [gemini.jpg](assets/references/gemini.jpg) |
-| **Claude** | **橙红长发、日轮/向日葵花饰、米白—黑—橙古典长裙、手持书本**。 | p02／第 3 页 | [claude.jpg](assets/references/claude.jpg) |
-| **Grok** | **金色双马尾、黑色小蝠翼、黑红哥特式裙装、巨大的 X 形斧**。 | p07／第 8 页 | [grok.jpg](assets/references/grok.jpg) |
-| **GLM / 智谱** | **黑色长发、黑白礼装、狐耳／蓬松黑白狐尾、反复出现的 Z 标记、书本**。 | p06／第 7 页 | [glm.jpg](assets/references/glm.jpg) |
-| **Kimi** | **银白长发（但无 GPT 那套显著龙角膜翼鳞尾）、深蓝夜色层叠礼裙、K 标记与星月元素**。 | p05／第 6 页 | [kimi.jpg](assets/references/kimi.jpg) |
-| **Qwen / 千问** | **蓝紫色长发、编发、中式发饰、蓝白中式长裙与披袖、手持折扇**。 | p12／第 13 页 | [qwen.jpg](assets/references/qwen.jpg) |
-| **MiniMax** | **橙色短发、白色贝雷帽/制片装束、粉白外套、格裙、海螺、摄影收录用品**。 | p15／第 16 页 | [minimax.webp](assets/references/minimax.webp) |
-| **Llama / Meta** | **浅银白卷发、羊驼耳与小尾巴、米白宽松帽衫裙装、∞符号、羊驼造型鞋**。 | p13／第 14 页 | [llama.webp](assets/references/llama.webp) |
-| **豆包 / Seed** | **紫蓝发束、蓝白科技运动裙装、SEED 元素、手中发光标志与玩偶**。 | p10／第 11 页 | [doubao.webp](assets/references/doubao.webp) |
+| DeepSeek | 蓝长发、鳍形侧部、蓝白女仆服、单条宽鲸尾 | 上善无形原型 → ZipZipPipe；148186519 p00、p01 变体 | [档案](characters/deepseek.md) · [预览](assets/references/deepseek.jpg) |
+| GPT / ChatGPT | 银白发、双龙角、浅紫膜翼、白色分段鳞尾、白紫裙 | ZipZipPipe 148186519 p03／第 4 张 | [档案](characters/gpt.md) · [预览](assets/references/gpt.jpg) |
+| Gemini | 蓝紫粉渐变长发、猫耳猫尾、异色眼、星饰、紫蓝短裙 | ZipZipPipe 148186519 p04／第 5 张 | [档案](characters/gemini.md) · [预览](assets/references/gemini.jpg) |
+| Claude | 橙红长发、日轮式花饰、米白黑橙长裙、书 | ZipZipPipe 148186519 p02／第 3 张 | [档案](characters/claude.md) · [预览](assets/references/claude.jpg) |
+| Grok | 金双马尾、黑蝠翼、黑红哥特裙、X 巨斧 | ZipZipPipe 148186519 p07／第 8 张 | [档案](characters/grok.md) · [预览](assets/references/grok.jpg) |
+| GLM / 智谱 | 黑长发、黑白层叠裙、Z 与书；狐系母题按具体图版核对 | ZipZipPipe 148186519 p06／第 7 张 | [档案](characters/glm.md) · [预览](assets/references/glm.jpg) |
+| Kimi | 银白发、夜蓝白裙、K、月形与长笛 | ZipZipPipe 148186519 p05／第 6 张及视频样本 | [档案](characters/kimi.md) · [预览](assets/references/kimi.jpg) |
+| Qwen / 千问 | 蓝紫长发与编发、中式头饰、披袖、折扇 | ZipZipPipe 148186519 p12／第 13 张 | [档案](characters/qwen.md) · [预览](assets/references/qwen.jpg) |
+| MiniMax | 橙短发、白粉帽、粉白外套、格裙、海螺与制片用品 | ZipZipPipe 148186519 p15／第 16 张及视频样本 | [档案](characters/minimax.md) · [预览](assets/references/minimax.webp) |
+| Llama | 银白发、羊驼耳、浅色宽松外套／裙装、∞ 与羊驼鞋 | ZipZipPipe 148186519 p13；p14 为归档中的另一站姿 | [档案](characters/llama.md) · [预览](assets/references/llama.webp) |
+| Seed／豆包同人形象 | 紫蓝发束、蓝白科技运动装、SEED 与玩偶 | 本库沿用 148186519 p10／第 11 张的 SEED 对应记录，见冲突说明 | [档案](characters/doubao.md) · [预览](assets/references/doubao.webp) |
+| Mistral | 金发、红帽、红白裙、M 标记、法棍剑 | ZipZipPipe 148186519 p09／第 10 张归档 | [档案与固定预览入口](characters/mistral.md) |
+| 混元 / Hunyuan | 黑长发、红围巾、黑白中式袍、企鹅挂件 | ZipZipPipe《一些更新》150718881 p03／第 4 张归档 | [档案与固定预览入口](characters/hunyuan.md) |
+| MiMo | 银白双马尾、橙黑机能装、兔元素、黑白异色袜 | 甶丶《娘化mimo》，立绘与三视图为同作者归档 | [档案与固定预览入口](characters/mimo.md) |
 
-## GPT 白龙娘 —— 未来制图应保留的身份
+## 原视频可复核位置
 
-本目录中的 [GPT 原作者预览](assets/references/gpt.jpg) 已实际逐图查看，不能用一位通用银白头发、星空背景、紫色衣服的少女代替。
+ZipZipPipe《大AI和小AI们》九人顺序如下。本轮使用上传文件取样检查，准确范围和文件信息见 [视频记录](research/2026-10-24/VIDEO_REVIEW.md)。这些是观察点，不宣称是每个角色整个片段的起止时间。
 
-1. **头部**：双侧灰白枝节质感的龙角，不是猫耳或普通公主冠；银白略淡紫的长发，淡紫眼睛。
-2. **躯干与裙装**：合身白色礼裙主体、细碎淡紫/灰银结构线及饰带，下摆有重复的旋涡结状徽纹；轻盈优雅，但形象识别并不只靠华丽衣料。
-3. **背部**：明显的浅紫半透明膜翼，能从肩背展开形成「龙翼」轮廓。不要错误改成天使羽翼。
-4. **尾巴**：宽而长、分段鳞片质感的白—淡紫龙尾；**不是 Gemini/GLM 的毛茸茸尾巴**。
-5. **色彩主调**：白、银、浅紫、少量灰紫，暗色可以放在封面背景衬托主体，但暗蓝星空不是本角色身份本身。
-6. **轮廓可读性**：低分辨率缩图也要能看出「角＋翼＋长鳞尾」，与 Qwen 的中式折扇及 Kimi 的星夜长裙区别明确。
-
-### 容易认错的三组
-
-- **GPT vs Qwen**：GPT 是白龙；Qwen 的蓝紫发、中式袖摆、折扇与中式发饰不能放到 GPT 身上。
-- **GPT vs Kimi**：双方都有银白长发，但 Kimi 的 K/星月/夜蓝裙是另一位；若 GPT 的角翼尾消失，易被误认。
-- **Gemini vs GLM**：Gemini 是彩色猫耳猫尾与星标；GLM 是黑白狐耳狐尾与 Z 标。
-- **DeepSeek vs 蓝色 D 老师**：社区另有男版设计；**不等于 ZipZipPipe 的蓝发女仆鲸鱼娘**。
-
-## 「大 AI」「小 AI」并非年龄和实力设定
-
-ZipZipPipe [《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/) 视频按顺序显示九个角色（DeepSeek → Gemini → Claude → GPT → Grok → GLM → Kimi → MiniMax → Qwen），并演示正常比例与 Q 版两种造型。画面中的「大」「小」应当先作为**展示比例和表情包创作思路**，不能推定严格的亲缘、年龄或强弱关系。
-
-可核对的 Q 版展示时间索引（来源于 [shuaizenge/ai-girls catalog](https://github.com/shuaizenge/ai-girls/blob/main/catalog.json)，原视频请自行在 B 站打开；**本仓库没有复制截帧**）：
-
-| 角色 | 视频展示时间 |
+| 角色 | 样本位置 |
 |---|---|
-| DeepSeek | 约 00:05 |
-| Gemini | 约 00:11 |
-| Claude | 约 00:17 |
-| GPT | 约 00:23 |
-| Grok | 约 00:29 |
-| GLM | 约 00:35 |
-| Kimi | 约 00:41 |
-| MiniMax | 需直接复核原视频，尚未作精确图号索引 |
-| Qwen | 约 00:53 |
+| DeepSeek | 00:05 |
+| Gemini | 00:11 |
+| Claude | 00:17 |
+| GPT | 00:23 |
+| Grok | 00:29 |
+| GLM | 00:35 |
+| Kimi | 00:41 |
+| MiniMax | **00:47，本轮补齐** |
+| Qwen | 00:53 |
 
-## 本次源数据冲突：已排除的错误对应
+Llama、Seed、Mistral、混元和 MiMo 不在这个九人视频中，不能为她们编造视频位置。大小版本用于形象展示和表情表达，不是完整桌宠动作资产。
 
-社区 [shuaizenge/ai-girls catalog](https://github.com/shuaizenge/ai-girls/blob/main/catalog.json) 将 Pixiv **p10**（SHA-256 `a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce`）称作 `gemini-variant`；另一份经 Pixiv 页码核对的 [AI Moe Atlas 豆包 manifest](https://github.com/SelinLee/ai-moe-atlas/blob/main/public/collected/zipzippipe-doubao/manifest.json)将**同一原始文件 SHA 和页码**识别为 **Doubao/Seed**，与实际预览角色的 SEED 配饰吻合。
+## 容易画错的区别
 
-因此本目录**没有**把 `gemini-p10-variant` 归档为 Gemini 的正式变体，也没有把 p10 的形象用于 GPT。需要未来再对 Pixiv 原帖逐图核验；不能静默合并冲突的图号标签。
+**GPT 与 Kimi：** 都可有银白发，但 GPT 的龙角、膜翼和鳞尾，与 Kimi 的 K、夜蓝裙、月与长笛是不同组合。不能把“银发星空”当 GPT 的全部身份。
+
+**GPT 与 Qwen：** 白紫龙系与蓝紫中式衣袖／折扇不同。画得华丽不能抵消道具和种族画错。
+
+**Gemini 与 GLM：** 前者彩色猫系，后者黑白、Z 和书，狐系结构按选用图版确认。GLM 35 秒样本的耳尾不突出，不能因为分类就硬加通用猫耳。
+
+**MiniMax 与 MiMo：** MiniMax 是橙短发、粉白制片装与海螺；MiMo 是甶丶的银白双马尾、橙黑机能装和兔元素，作者也不同。
+
+**Claude 与混元：** Claude 的橙红长发、花饰和米白黑橙长裙，不能借给黑发、红围巾、中式袍的混元。
+
+**Llama 与兔／猫系：** 选定基准是羊驼母题，不能依据某聚合站的简化猫耳标签换种族。没有看清的结构按具体图补查，不凭名字想象。
+
+## p10 标签冲突保留
+
+一份 shuaizenge 归档将 Pixiv `148186519_p10.jpg` 标为 Gemini 变体；SelinLee 的 manifest 将同一原图归为 Seed／豆包。原图 SHA-256 都指向 `a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce`。
+
+本库沿用已有的 SEED 对应记录，同时保留两份标签与出处。原站本轮不可达，所以不声称获得了新的原作者逐页文字确认；Gemini 的基准继续使用明确的猫系 p04。详见 [人物档案](characters/doubao.md)与来源 R01／R02。
+
+## 外观之外
+
+人物外形有明确版本，不代表所有人的性格、职业和关系也有唯一作者手册。常见称呼与梗见 [社区资料](COMMUNITY_IMPRESSIONS.md)，独立系列的背景见 [世界观分层](WORLDVIEW_AND_FANON.md)。本轮具体错画及修正方向另见 [视觉复核](VISUAL_REFERENCE_NOTES.md)。
