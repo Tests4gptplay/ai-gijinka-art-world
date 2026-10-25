@@ -1,16 +1,24 @@
-# 已保存的图片材料（公开非商用研究参考）
+# 已保存的图片材料
 
-本目录有 **12 份真实图像预览**，覆盖 11 位 AI 角色（DeepSeek 加一张正常比例立绘变体）。
+本目录保存 **15 张图片**：12 张既有技术预览，另加 2026-10-25 用户提供的 3 张 DeepSeek 长短裙参考图。图片信息见 [manifest.json](manifest.json)，许可证与署名见 [RIGHTS.md](../RIGHTS.md)。
 
-- **不是本次 AI 新生成**；图像是原作者已发表作品在第三方素材档案中的技术缩图/格式转换。
-- 对每个文件，Git Blob SHA 与提供预览的来源仓库中的 Blob SHA **逐字节一致**，文件名称/上游出处见 [manifest.json](manifest.json)。
-- **高分辨率原图没有整体拷贝**：可通过本清单准确追到作者 [Pixiv《AI娘化》](https://www.pixiv.net/artworks/148186519)原图位置和记录的 SHA-256；原图、缩图不能混称。
-- Q 版「小 AI」仅保存 [B 站原视频](https://www.bilibili.com/video/BV1tE9XBbErS/)及时间索引，不转载视频帧。
-- 原始图像的使用条件见 [../RIGHTS.md](../RIGHTS.md)。本仓库公开展示有署名的非商业研究缩略图，并不向下游重新许可；转载、商用和衍生制作仍须逐项遵守来源条款。
+## DeepSeek 长短裙参考图
 
-## 打开图片
+三张图按上传文件原样保存，采用 **CC BY-NC-SA 4.0**。角色设计署名：**上善无形（鲸鱼娘原型） → ZipZipPipe（DeepSeek 女仆二创）**。
 
-| 角色 | 图片 | 版权归属 |
+| 图片 | 尺寸 | 文件 |
+|---|---|---|
+| 短裙彩色立绘 | 1024 × 1536 | [deepseek-short-dress-color.png](deepseek/deepseek-short-dress-color.png) |
+| 长短裙黑白对照 | 1536 × 1024 | [deepseek-short-long-dress-monochrome.png](deepseek/deepseek-short-long-dress-monochrome.png) |
+| 长裙彩色立绘 | 1024 × 1536 | [deepseek-long-dress-color.png](deepseek/deepseek-long-dress-color.png) |
+
+集中展示见 [DeepSeek 人物档案](../characters/deepseek.md#长短裙参考图)。
+
+## 既有技术预览
+
+以下 12 张预览覆盖 11 位 AI 角色。它们来自原作者已发表作品的技术缩图或格式转换；各文件与来源仓库对应 Git Blob 的字节保持一致。清单保留上游路径、Pixiv 图号和原图 SHA-256，可追溯到作者 [Pixiv《AI娘化》](https://www.pixiv.net/artworks/148186519)。Q 版资料另见 [B 站原视频](https://www.bilibili.com/video/BV1tE9XBbErS/)及人物页时间索引。
+
+| 角色 | 图片 | 作者署名 |
 |---|---|---|
 | GPT 白龙娘 | [gpt.jpg](references/gpt.jpg) | ZipZipPipe |
 | DeepSeek 鲸鱼女仆 | [deepseek.jpg](references/deepseek.jpg) | 上善无形（原型）＋ZipZipPipe（二创） |
@@ -23,6 +31,6 @@
 | Qwen / 千问 | [qwen.jpg](references/qwen.jpg) | ZipZipPipe |
 | Llama | [llama.webp](references/llama.webp) | ZipZipPipe |
 | MiniMax | [minimax.webp](references/minimax.webp) | ZipZipPipe |
-| 豆包 / Seed | [doubao.webp](references/doubao.webp) | ZipZipPipe（非豆包官方头像） |
+| 豆包 / Seed | [doubao.webp](references/doubao.webp) | ZipZipPipe（豆包同人形象） |
 
-不要将独立收藏项目中标签不一致的 `gemini p10 variant` 用作 Gemini；见 [图鉴核对](../CHARACTER_ATLAS.md#本次源数据冲突已排除的错误对应)。
+Pixiv p10 的角色对应沿用本库的 Seed／豆包记录；索引差异见 [图鉴核对](../CHARACTER_ATLAS.md#本次源数据冲突已排除的错误对应)。

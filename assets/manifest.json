@@ -4,8 +4,11 @@
   "archive_root": ".",
   "repository": "Tests4gptplay/ai-gijinka-art-world",
   "branch": "main",
-  "scope": "public_attributed_noncommercial_reference_previews_no_relicensing",
-  "collection_claim": "12 physical low-resolution previews corresponding to 11 ZipZipPipe characters; original full-res files are linked by source and sha256, NOT archived here",
+  "updated_date": "2026-10-25",
+  "repository_license": "CC-BY-NC-SA-4.0",
+  "repository_license_file": "LICENSE",
+  "scope": "attributed_noncommercial_reference_archive",
+  "collection_claim": "15 images: 12 existing technical previews covering 11 characters and 3 user-supplied DeepSeek dress references preserved in their original uploaded files",
   "main_author": {
     "name": "ZipZipPipe",
     "pixiv_author_id": "18604994",
@@ -282,6 +285,75 @@
       "image_kind": "low_resolution_technical_preview_not_original_full_size",
       "public_display_in_this_repository": true,
       "repository_does_not_grant_new_reuse_rights": true
+    },
+    {
+      "id": "deepseek-short-dress-color-png",
+      "character_id": "deepseek",
+      "role": "user_supplied_character_reference",
+      "variant": "short_dress_color",
+      "relative_path": "assets/deepseek/deepseek-short-dress-color.png",
+      "source_type": "user_upload",
+      "received_date": "2026-10-25",
+      "character_design_lineage": [
+        "上善无形 - 鲸鱼娘原型",
+        "ZipZipPipe - DeepSeek 女仆二创"
+      ],
+      "source_note": "用户提供的参考图；按上传文件原样保存。",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "source_bytes_preserved": true,
+      "sha256": "5ccef0646a84d6f3c03101bf1443bf795d27ca303f8b7becd29cd83d419434a7",
+      "bytes": 1839917,
+      "width": 1024,
+      "height": 1536,
+      "format": "PNG",
+      "public_display_in_this_repository": true
+    },
+    {
+      "id": "deepseek-short-long-dress-monochrome-png",
+      "character_id": "deepseek",
+      "role": "user_supplied_character_reference",
+      "variant": "short_and_long_dress_monochrome_comparison",
+      "relative_path": "assets/deepseek/deepseek-short-long-dress-monochrome.png",
+      "source_type": "user_upload",
+      "received_date": "2026-10-25",
+      "character_design_lineage": [
+        "上善无形 - 鲸鱼娘原型",
+        "ZipZipPipe - DeepSeek 女仆二创"
+      ],
+      "source_note": "用户提供的参考图；按上传文件原样保存。",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "source_bytes_preserved": true,
+      "sha256": "68821e8c5cd56db6fffc287be2dc1d46212aeecc29c43daed2d9322e812e7df5",
+      "bytes": 2233624,
+      "width": 1536,
+      "height": 1024,
+      "format": "PNG",
+      "public_display_in_this_repository": true
+    },
+    {
+      "id": "deepseek-long-dress-color-png",
+      "character_id": "deepseek",
+      "role": "user_supplied_character_reference",
+      "variant": "long_dress_color",
+      "relative_path": "assets/deepseek/deepseek-long-dress-color.png",
+      "source_type": "user_upload",
+      "received_date": "2026-10-25",
+      "character_design_lineage": [
+        "上善无形 - 鲸鱼娘原型",
+        "ZipZipPipe - DeepSeek 女仆二创"
+      ],
+      "source_note": "用户提供的参考图；按上传文件原样保存。",
+      "license": "CC-BY-NC-SA-4.0",
+      "license_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "source_bytes_preserved": true,
+      "sha256": "47fcf0ec7b558f9507730f5c7a1b76158602b142436c8bd110a3907df99d0f59",
+      "bytes": 2094623,
+      "width": 1024,
+      "height": 1536,
+      "format": "PNG",
+      "public_display_in_this_repository": true
     }
   ],
   "excluded_conflicted_asset": {
@@ -291,6 +363,7 @@
   },
   "chibi_video": "https://www.bilibili.com/video/BV1tE9XBbErS/",
   "chibi_video_frames_archived": false,
-  "full_originals_archived": false,
-  "publication_notes": "Metadata and attributed small previews published in this repository; third-party authors retain rights. Individual reuse must follow origin declarations. The private predecessor is no longer a source of canonical URLs."
+  "pixiv_full_originals_archived": false,
+  "user_supplied_original_files_archived": 3,
+  "publication_notes": "Repository material is shared under CC-BY-NC-SA-4.0, with asset-specific author declarations retained in each entry and RIGHTS.md. DeepSeek design attribution: 上善无形 -> ZipZipPipe. User-supplied images are archived byte-for-byte."
 }

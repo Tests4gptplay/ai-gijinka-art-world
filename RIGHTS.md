@@ -1,24 +1,31 @@
-# 素材来源、作者署名与非商业边界
+# 许可证与作者署名
 
-**本仓库现为 PUBLIC。这里展示带来源和署名的非商业研究缩略图，未收录完整高清原作；本仓库对第三方作品不享有重新许可权。公开存放缩略图并不等于批准任何下游商业用途、改编或不署名转载。**
+本仓库采用 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International（CC BY-NC-SA 4.0，知识共享 署名—非商业性使用—相同方式共享 4.0 国际）**。
 
-## 两种不同的版权/许可链
+- [许可证全文](LICENSE)
+- [Creative Commons 官方中文说明](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)
 
-1. **ZipZipPipe 自己设计的非 DeepSeek 角色（GPT、Gemini、Claude、Grok、GLM、Kimi、Qwen、Llama、MiniMax、Doubao/Seed）**：作者 Pixiv《AI娘化》的声明由 [AI Moe Atlas RIGHTS](https://github.com/SelinLee/ai-moe-atlas/blob/main/RIGHTS.md)保存为“作为保存用，方便所有人取用，需要标注作者，不可商用”。作者 B 站《“亿万”身家的她们》也表达了允许分享/再创作的意愿。**这不是 CC0、MIT、公众商用许可，也不应由本档案替作者扩大改编范围**。拟公开发布新生成的角色二创，尤其将内容用于引流、广告、商业化视频之前，应核查真实使用方式是否符合作者声明，必要时征求原作者确认。
-2. **DeepSeek 蓝鲸女仆**：视觉链是上善无形原鲸鱼娘 → ZipZipPipe 的 DeepSeek 女仆二创。作者在《大AI和小AI们》简介中写明遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)。使用时需要**完整署名、非商业、改编标明、相同方式共享**。不能只写 ZipZipPipe 而漏掉上善，也不能将 DeepSeek 的 CC 自动套给其它角色。
-3. **其他作者独立 Q 版/MMD/桌宠/视觉小说**：拥有自己的美术和授权；视频/歌曲/表情包转录不自动包含在角色原图授权内。大多数视频标注“未经作者授权，禁止转载”，所以本库**不直接复制视频帧和原视频**。
+## 使用方式
 
-## 归档的是什么
+在保留署名、注明修改、非商业使用并以相同方式共享的条件下，可以分享和改编本仓库适用该许可证的内容。仓库原创文字、资料编排、原创创作及本次收录的 DeepSeek 参考图采用该许可证；另有作者声明的外部素材按对应条目记载的许可使用。
 
-- `assets/references/*` 是来源明确的**人物原图缩略展示副本**，其中 JPEG 原图由 shuaizenge/ai-girls 等比缩小，WebP 由 SelinLee/ai-moe-atlas 技术转换；不是透明立绘、独立创作授权的可用生产资产。
-- `assets/manifest.json` 对每项写出发布者、变体、来源 Pixiv 图号、上游公开仓路径、Git blob SHA 等，可回到原作者页面。
-- 所有预览只供学习辨认。要在 B 站图文或视频直接嵌入某张外部作者图，应**单独核对公开展示权和署名**，不可将本仓库的公开展示当作对第三方作品的再许可。未来由自己生成的派生画面也需要核对底图与角色设计许可条件。
-- 原始 Pixiv 大图还留在外部出处；不把十几 MB 的原图当作无许可自由资产批量搬到本仓库。可访问完整图需看 [原帖](https://www.pixiv.net/artworks/148186519)。
+## DeepSeek 署名链
 
-## 不可擅自做的推断
+**上善无形（鲸鱼娘原型） → ZipZipPipe（DeepSeek 女仆二创）**。
 
-- GPT/DeepSeek/Claude/Qwen 名称和 Logo 的商标权并未因此成为原插画作者的新许可。
-- 非官方同人角色不代表 AI 公司认可任何产品性格、竞争力、世界观。
-- 作者使用 AI 生图不等于无著作权，不等于任意商用或不需署名。
-- 数据索引的“原图”“可下载”不等于来源许可被覆盖；社区发现的额外三视图作者仍要查实。
-- 视频署名允许「形象参考」不等于可复制整段视频、字幕和配乐。
+DeepSeek 的形象创作遵循 CC BY-NC-SA 4.0。请保留两位创作者的署名、来源和许可证链接；制作改编作品时注明自己的改动。
+
+来源入口：
+
+- [上善无形原鲸鱼娘许可动态](https://www.bilibili.com/opus/1231977657712771073)
+- [ZipZipPipe DeepSeek 二创许可动态](https://t.bilibili.com/1231980045693616162)
+- [ZipZipPipe《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/)
+
+2026-10-25 收录的三张图由用户提供，原样保存在 [assets/deepseek](assets/deepseek/)：短裙彩色立绘、长短裙黑白对照、长裙彩色立绘。图片展示见 [DeepSeek 人物档案](characters/deepseek.md#长短裙参考图)，尺寸、文件大小和 SHA-256 见 [素材清单](assets/manifest.json)。
+
+## 其他素材的作者与来源
+
+- **ZipZipPipe 的其他角色插画**：保留 ZipZipPipe 署名，并遵循作者关于署名、非商业使用的发布说明。入口为 [Pixiv《AI娘化》](https://www.pixiv.net/artworks/148186519)、[《“亿万”身家的她们》](https://www.bilibili.com/video/BV1bARXBYEZz/)及 [AI Moe Atlas 保存的作者说明](https://github.com/SelinLee/ai-moe-atlas/blob/main/RIGHTS.md)。
+- **MiMo**：本库选用的立绘和三视图作者为甶丶，具体来源见 [MiMo 人物档案](characters/mimo.md)。其他独立作者的作品在各人物页和来源台账中署名。
+- **既有预览图**：保存在 [assets/references](assets/references/)，来源仓库、图号和文件记录见 [素材清单](assets/manifest.json)。
+- **视频、音乐及外部链接**：按各自作者的发布条件使用，原帖和作者记录见 [SOURCES.md](SOURCES.md)及 [来源台账](research/2026-10-24/SOURCE_LEDGER.md)。

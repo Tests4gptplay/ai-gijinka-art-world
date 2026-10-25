@@ -4,6 +4,22 @@
 
 ![DeepSeek 原作参考缩略图](../assets/references/deepseek.jpg)
 
+## 长短裙参考图
+
+2026-10-25 收录用户提供的三张参考图，保留上传文件的原始尺寸与内容。角色设计署名：**上善无形（鲸鱼娘原型） → ZipZipPipe（DeepSeek 女仆二创）**。本组图片采用 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)，文件记录见 [素材清单](../assets/manifest.json)。
+
+### 短裙彩色立绘
+
+![DeepSeek 短裙彩色立绘](../assets/deepseek/deepseek-short-dress-color.png)
+
+### 长短裙黑白对照
+
+![DeepSeek 长短裙黑白对照](../assets/deepseek/deepseek-short-long-dress-monochrome.png)
+
+### 长裙彩色立绘
+
+![DeepSeek 长裙彩色立绘](../assets/deepseek/deepseek-long-dress-color.png)
+
 ## 来源与外观
 
 采用上善无形的鲸鱼角色原型，经 ZipZipPipe 加入 DeepSeek 和女仆元素的版本；不是把女仆版全部归为单一作者原创。原视频作者简介可核对这条来源链。[A01、A02]
