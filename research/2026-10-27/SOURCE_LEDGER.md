@@ -102,3 +102,11 @@
 |---|---|---|---|
 | N39 | **冬冰，2026-09-18 起；2026-10-18 检索到第 16 集** | [冬冰作者空间](https://space.bilibili.com/44748304)，[《AI 中转站公寓》合集](https://space.bilibili.com/44748304/channel/collectiondetail?sid=9126374)，[首集《新室友DeepSeek报到！五个AI住一起会发生什么》](https://www.bilibili.com/video/BV1eMeS6SETU/)，[2026-10-18《压力一只大肥鱼？》](https://www.bilibili.com/video/BV1t6nu6bEsf/) | **作者 B 站公开合集边栏**列 16 集标题、顺序及时长，第三方 [前 12 集直达索引](https://genderswapai.com/zh-CN/ai-gijinka/fanworks?collection=apartment)补齐 BV 号。明确的单集日期有 9/23、9/27、9/28、9/30、10/8、10/12、10/14、10/16、10/18；其他日期没有擅自补填。冬冰视频注明角色视觉参考上善无形、ZipZipPipe、这个刀子真甜；**故事设定、角色性格与对白属冬冰自己创作**。本轮核对网页文本，不宣称观看全 16 集画面 |
 | N40 | **用户指定的 UP 主入口，2026-10-27 提供** | [「萤火之森QWQ」个人空间，用户提供的 b23.tv/NTPJXL1](https://b23.tv/NTPJXL1) | 此次短链无法被网页工具展开，精确空间 UID、账号视频列表及其与冬冰《AI 中转站公寓》的实际联系**均未核实**；保留来源入口等待逐作品定位，**不将冬冰作品误署给这位作者** |
+
+## 用户补充的《AI GIRLS》合集入口（N41）
+
+《AI GIRLS》与原有 **冬冰《AI 中转站公寓》16 集（N39）** 分开索引；具体内容、证据层级和后续增补位置见 [《AI GIRLS》独立资料页](AI_GIRLS_YINGHUO_COLLECTION.md)。
+
+| ID | 来源身份 | 原始链接及核对情况 |
+|---|---|---|
+| N41 | **用户提供的《AI GIRLS》B 站合集** | [合集《AI GIRLS》](https://b23.tv/SPHLE4s)；用户先前另提供 [「萤火之森QWQ」主页](https://b23.tv/NTPJXL1)（N40）。**已确认的是用户分享的合集标题和入口**，当前短链无法在检索工具中展开成 `sid`、合集具体分集／时长／发布日期，故不编造。辅助检索：[B 站「千问」搜索索引](https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE)出现《千问也有不会的事》及「萤火之森QWQ」作者名；[B 站话题页](https://www.bilibili.com/v/topic/detail/?topic_id=43798)摘要显示该昵称 10 月 14 日另一条投稿，但无法核实上述短片是否在合集内。与冬冰系列的关联尚无证据，**二者独立归档**。 |
