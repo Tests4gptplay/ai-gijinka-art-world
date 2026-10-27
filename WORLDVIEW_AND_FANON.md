@@ -75,3 +75,14 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 | 《world.execute(me)》九位角色 MV | 一版写明 DeepSeek V4.1 Flash 协助创作，随后版本由 GPT-6 Astra 参与修订；两版均列九名出场 AI 角色 | [2026-10-13 版本](https://www.bilibili.com/video/BV1ARpZ6wEB7/)（N18）和 [10-14 改编](https://www.bilibili.com/video/BV1Qhpy6uE1s/)（N19）；属于同主题的创作演进 |
 
 N09 同时记录一位日本作者在 2026-10-12 介绍中国 AI 拟人文化和 Fate/AGI 的文章，是已有作品的**跨语言评论与传播**，而非新的角色原创设定或统一世界线。
+
+## 2026-10-27 再补：已发表的独立故事与玩法
+
+以下故事或玩法由各自创作者公开发布，来源对应 [当日来源台账](research/2026-10-27/SOURCE_LEDGER.md)：
+
+- **兰斯的画室LanceStudio**：《一觉醒来deepseek和豆包睡在我身边》（一／二），以 DeepSeek 和豆包拟人登场、主角穿越至 2016 年为故事起点（N27）。
+- **Mistral法棍猫在运营**：《被禁锢的圣女Claude，等到了从深海跑来的大肥鱼》，将 Claude 与 DeepSeek 放入单独编写的相遇剧情（N30）。
+- **彼岸花Channel**：《大模型复读班》三集以版本更新后参加评测的补习班为该系列的叙事舞台；另有 AI 娘抽卡模拟器与捕鱼游戏作品（N31、N32）。
+- **StuG_III**：《8个顶级AI挑战RPG史上最恶意BOSS》把八位模型拟人角色放进同一游戏挑战，原帖有分角色的章节入口与形象来源署名（N26）。
+- **GNwork团队**：在 Minecraft 中实现鲸鱼女仆 Agent 主题作品，并在作品简介记录模型、动作绑定、技术支持的制作分工（N28）。
+
