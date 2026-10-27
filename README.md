@@ -8,7 +8,7 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 
 本库研究已存在的 AI 拟人化作品，以 ZipZipPipe 的《大AI和小AI们》和《AI娘化》等作为主要视觉基准，另行注明其他作者的作品。这里不是某一厂商的官方人设，也不把各位创作者的剧情拼成唯一正史。
 
-**Support / 赞助：** [Ko-fi](https://ko-fi.com/kou392350) · [Patreon](https://www.patreon.com/cw/Kou848) · [爱发电 / Afdian](https://afdian.com/a/kkt_ifd1) · [支付宝 / Alipay](SPONSOR.md)
+**Support / 赞助：** [GitHub Sponsors](https://github.com/sponsors/Tests4gptplay) · [Ko-fi](https://ko-fi.com/kou392350) · [Patreon](https://www.patreon.com/cw/Kou848) · [爱发电 / Afdian](https://afdian.com/a/kkt_ifd1) · [支付宝 / Alipay](SPONSOR.md)
 
 ## 从哪里开始
 
