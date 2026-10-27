@@ -93,3 +93,12 @@
 | ID | 来源类别 | 可复核原始材料及来源边界 |
 |---|---|---|
 | N38 | **原曲／传播链／公开作品索引** | **原曲：** [Mili 2016-06-12 官方 MV](https://www.youtube.com/watch?v=ESx_hy1n7HA)、[《Miracle Milk》专辑曲目](https://music.apple.com/us/song/1158609134)及[官方二创指引](https://projectmili.com/copyright-guidelines)；**可追溯早期传播：** [野生大K 2026-09-25 GPT6-Astra PV](https://www.bilibili.com/video/BV1Jwhy6BEMJ/) → [西西弗斯的风车 09-28 DSH 鲸鱼女仆 PV](https://www.bilibili.com/video/BV1xCai6aE9g/)（后者在投稿及 [源码仓](https://github.com/MisakaZentai/world-execute-me-dsh-pv)明确致谢前者），另有 [南辰燏炚 09-26 Claude MV](https://www.bilibili.com/video/BV1vthX6XEwm/)与 [真寻Mahiro 10-06 Claude 4K60 版](https://www.bilibili.com/video/BV186pc65E68/)；**不同模型作品：** [Gemini 09-26](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV14uho6HErh)、[Kimi 09-29](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV16YaW6SEMk)、[Qwen 10-02](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV1jPaU62Evk)、[混元 10-02](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV1aWaC6tEbm)、[GLM 10-03](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV194HB69EfT)、[MiMo 10-03](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV11VHh6nEe4)；**多人群像：** N18/N19 明确九位角色登场。每条作品的证据范围在专题表中分别注明，不能把赛事索引标题当作完整逐帧观看结果。 |
+
+## AI 娘中转站系列与作者入口核查（N39–N40）
+
+本次对现有世界观资料中的 **冬冰《AI 中转站公寓》** 做整套作品查证，也收到用户指定的另一位 UP 主「萤火之森QWQ」的主页短链。二者**目前没有核实到直接同一人／同一作品的证据**，因此分别编号、分别保存。16 集具体条目、各集 BV 号、作者署名及证据层级在 [中转站公寓完整专题](AI_RELAY_STATION_APARTMENT.md)。
+
+| ID | 来源／发布日期 | 查证到的确切事实与作品入口 | 读取范围与归属说明 |
+|---|---|---|---|
+| N39 | **冬冰，2026-09-18 起；2026-10-18 检索到第 16 集** | [冬冰作者空间](https://space.bilibili.com/44748304)，[《AI 中转站公寓》合集](https://space.bilibili.com/44748304/channel/collectiondetail?sid=9126374)，[首集《新室友DeepSeek报到！五个AI住一起会发生什么》](https://www.bilibili.com/video/BV1eMeS6SETU/)，[2026-10-18《压力一只大肥鱼？》](https://www.bilibili.com/video/BV1t6nu6bEsf/) | **作者 B 站公开合集边栏**列 16 集标题、顺序及时长，第三方 [前 12 集直达索引](https://genderswapai.com/zh-CN/ai-gijinka/fanworks?collection=apartment)补齐 BV 号。明确的单集日期有 9/23、9/27、9/28、9/30、10/8、10/12、10/14、10/16、10/18；其他日期没有擅自补填。冬冰视频注明角色视觉参考上善无形、ZipZipPipe、这个刀子真甜；**故事设定、角色性格与对白属冬冰自己创作**。本轮核对网页文本，不宣称观看全 16 集画面 |
+| N40 | **用户指定的 UP 主入口，2026-10-27 提供** | [「萤火之森QWQ」个人空间，用户提供的 b23.tv/NTPJXL1](https://b23.tv/NTPJXL1) | 此次短链无法被网页工具展开，精确空间 UID、账号视频列表及其与冬冰《AI 中转站公寓》的实际联系**均未核实**；保留来源入口等待逐作品定位，**不将冬冰作品误署给这位作者** |
