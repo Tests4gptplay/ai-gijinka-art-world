@@ -29,6 +29,5 @@ Kimi 是清楚的模型名；星月和夜色是强视觉联想。“温柔、安
 ## 新增跨角色作品用例（2026-10-27）
 
 - [《Fate/AGI dawn》OP1（2026-10-02）](https://www.bilibili.com/video/BV1xPam6ZEpc/)：作品简介将 Kimi 与 RWKV 同列 Assassin 阵营。这是该片自己的情节／角色配置（N07）。
-- [顺达祥瑞《DeepSeek 在 Claude 家睡觉，千问和 GPT 玩疯了》（2026-10-09）](https://www.bilibili.com/video/BV19dps6nEC9/)：作者 AI 娘日常系列的关联角色中包括 Kimi，属于这套日常系列（N17）。
 
-来源台账：[N07、N17](../research/2026-10-27/SOURCE_LEDGER.md)。
+来源台账：[N07](../research/2026-10-27/SOURCE_LEDGER.md)。
