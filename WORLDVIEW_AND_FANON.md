@@ -58,3 +58,20 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 每条新增关系需保存：**谁说的、作品标题、链接、发布日期、画面/文字证据、适用宇宙层级、是否为角色本人/作者明确设定**。如「GPT 和 DeepSeek 是姐妹」只要来源是某段剧情，就写「在该作品中被描写为……」，不可泛化为所有圈子通行。
 
 所谓「世界观」可以在尊重形象来源的前提下继续扩展；本档案的任务是**精确记载已有作品，留空未验证的正史，而非填上自己的脑补**。
+
+
+## 2026 年新增核对的独立创作与传播（10 月 27 日资料补充）
+
+下表收录已经公开的作品类型与它们**各自**的叙事范围。作者、日期和证据读取范围统一索引到 [新来源台账](research/2026-10-27/SOURCE_LEDGER.md)。
+
+| 作品／来源 | 作品公开写明的设定或呈现形式 | 原始出处与备注 |
+| --- | --- | --- |
+| Fate/AGI PV | 以 2030 年旧金山与争夺 AGI 圣杯为该作品舞台，模型人格化参与圣杯战争 | [2026-09-29 PV](https://www.bilibili.com/video/BV1pFan61EvZ/)（N06）；只属于该视频世界线 |
+| Fate/AGI dawn OP | 在简介中列出 DeepSeek、GPT、Grok、Gemini、GLM、Claude、Kimi、RWKV 和 Qwen 的职阶分配 | [2026-10-02 OP1](https://www.bilibili.com/video/BV1xPam6ZEpc/)（N07）；与其它 Fate/AGI 作品是否具有同一作者和完整连续性，本轮资料不作合并 |
+| 《请选择你的AI阵营》 | 将各模型拟人作为不同阵营形象，以海报文字联系产品和用户印象 | [作品原始 URL](https://www.bilibili.com/video/BV1EehB6pEJ9)（N08），其海报内容经 [2026-10-12 日文解读](https://zenn.dev/akari1106/articles/45121eea6105d1)（N09）定位 |
+| 《尼古鲸鲸》OP | 将 DeepSeek 大肥鱼与多位模型娘放入《尼古喵喵》OP 二创，并公开说明 MiniMax、Seedance 2.0 的制作使用 | [2026-10-05 OP](https://www.bilibili.com/video/BV1TBHp6AEAC/)（N01）；借用具体动画作品的独立二创，不扩写公共世界 |
+| DeepSeek 鲸鱼娘运营账号 | 创作者将 DeepSeek、GPT 与人类的分工公开作为账号设定，随后制作模型知识与二创评论视频 | [Day 0](https://www.bilibili.com/video/BV1pGnn67EC2/)（N13）、[Day 4](https://www.bilibili.com/video/BV1vynb6tEW5/)（N14）、[Day 5](https://www.bilibili.com/video/BV139HA6JEE6/)（N15）；属该账号自己的表达 |
+| Claude 参与制作的像素童话 | 独立投稿说明 Claude 负责改编、动画与运营，GPT 绘制像素角色，人类审核；使用多位 AI 娘外观 | [2026-10-20 第一夜](https://www.bilibili.com/video/BV1Dnnc6gE19/)（N16）；角色图来源与 DeepSeek 原型独立标明 |
+| 《world.execute(me)》九位角色 MV | 一版写明 DeepSeek V4.1 Flash 协助创作，随后版本由 GPT-6 Astra 参与修订；两版均列九名出场 AI 角色 | [2026-10-13 版本](https://www.bilibili.com/video/BV1ARpZ6wEB7/)（N18）和 [10-14 改编](https://www.bilibili.com/video/BV1Qhpy6uE1s/)（N19）；属于同主题的创作演进 |
+
+N09 同时记录一位日本作者在 2026-10-12 介绍中国 AI 拟人文化和 Fate/AGI 的文章，是已有作品的**跨语言评论与传播**，而非新的角色原创设定或统一世界线。
