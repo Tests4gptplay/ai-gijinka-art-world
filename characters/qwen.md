@@ -34,3 +34,7 @@ ZipZipPipe p12／第 13 张，原视频 53 秒可核对：蓝紫长发与编发�
 - [《请选择你的AI阵营》](https://www.bilibili.com/video/BV1EehB6pEJ9)：其 Qwen 阵营海报由 [日本作者灯里在 Zenn 文章中引述](https://zenn.dev/akari1106/articles/45121eea6105d1)；属于 Justin-Yao 的独立阵营海报，不是通用人物背景（N08–N09）。
 
 来源台账：[N07–N09](../research/2026-10-27/SOURCE_LEDGER.md)。
+
+## 已发表作品：《AI GIRLS》中的千问篇
+
+**《千问也有不会的事》**是萤火之森QWQ 的 [《AI GIRLS》合集](https://b23.tv/SPHLE4s)内作品，收录在[该系列的独立作品索引](../research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)中。当前尚未核实这一集的准确 BV 直达链接与顺序，因此保留真实合集入口，不以千问的关键词搜索结果替代作品链接。作品角色表现归该系列，不推定为千问的统一性格。
