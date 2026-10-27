@@ -36,6 +36,8 @@ Claude、克劳德是基本称呼。“封号、看见中文就封号”的整�
 
 来源台账：[N07、N15、N16](../research/2026-10-27/SOURCE_LEDGER.md)。
 
-## 用户指定的音乐收藏
+## 已收录音乐作品
 
-[风霜秋雨《Claude热唱：您的账号已被封禁》](https://www.bilibili.com/video/BV1Hzpm6hEaY/)已被用户列为个人喜好，并与同作者的 GPT 歌曲 [《您的账号没有降智》](https://b23.tv/GlwaUw3)集中整理在 [个人音乐收藏页](../个人喜好/音乐/风霜秋雨.md)。制作署名与证据链详见当日台账 N35、N36；不据歌曲题材追加统一人格。
+**风霜秋雨 — [《Claude热唱：您的账号已被封禁》](claude/music/风霜秋雨-您的账号已被封禁.md)**
+
+原视频：[B 站](https://www.bilibili.com/video/BV1Hzpm6hEaY/)。本库用户选收的 Claude 主题歌曲，发布时间、制作署名和来源信息保存在 Claude 的音乐目录，来源台账编号 N35。
