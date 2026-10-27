@@ -27,3 +27,11 @@ ZipZipPipe p04／第 5 张与原视频 11 秒样本：蓝、紫、粉渐变长�
 ## 索引冲突
 
 Pixiv p10 被一份第三方索引称作 Gemini 变体，但另一份原帖归档把同一图归为 Seed／豆包，且本库已有 SEED 对应记录。此处继续采用明确猫系 p04，不把冲突图混作 Gemini 基准。见 [Seed／豆包](doubao.md)。
+
+## 新增作品中的登场用例（2026-10-27）
+
+- [《Fate/AGI dawn》OP1（2026-10-02）](https://www.bilibili.com/video/BV1xPam6ZEpc/)：作者在简介中将 Gemini 分配为 Lancer。这是该作品独立的 Fate 职阶设定（N07）。
+- [鲸鱼娘运营账号 Day 4（2026-10-23）](https://www.bilibili.com/video/BV1vynb6tEW5/)：视频简介明言 GPT 龙娘和 Gemini 娘作为嘉宾加入科技话题演出（N14）。
+- [Claude 参与改编的像素童话（2026-10-20）](https://www.bilibili.com/video/BV1Dnnc6gE19/)：简介列 Gemini 为作品使用的角色视觉参考之一，并单独署名所用人物图来源（N16）。
+
+来源台账：[N07、N14、N16](../research/2026-10-27/SOURCE_LEDGER.md)。
