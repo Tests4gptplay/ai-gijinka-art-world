@@ -60,6 +60,35 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 所谓「世界观」可以在尊重形象来源的前提下继续扩展；本档案的任务是**精确记载已有作品，留空未验证的正史，而非填上自己的脑补**。
 
 
+## 2026 年《world.execute(me);》AI 制作 MV 创作潮：起因、传播、各模型作品
+
+**这是一轮多模型参与制作同一首歌的 MV／代码动画风潮，不是许多 AI 角色各自发行同名歌曲。** 音乐原作是 **Mili《world.execute(me);》**：[官方 MV](https://www.youtube.com/watch?v=ESx_hy1n7HA)发布于 **2016-06-12**，后收入专辑《Miracle Milk》（2016-10-12）。歌词中的程序、数学与模拟世界意象为 2026 年的 AI 程序动画创作者提供了共同的表达题材；原曲本身并非 2026 年 AI 娘圈新写的歌曲。
+
+**可核对的这一波传播链：** [野生大K于 09-25 发布 GPT6-Astra 视角 MV](https://www.bilibili.com/video/BV1Jwhy6BEMJ/) → [西西弗斯的风车于 09-28 用鲸鱼女仆、DSH 聊天窗口和终端实现双栏 PV](https://www.bilibili.com/video/BV1xCai6aE9g/)，投稿明确向野生大K致敬 → [林原林海 10-02 改作 CMD 版](https://www.bilibili.com/video/BV1oxam6kEVh/)、[Claude 10-04 终端复刻](https://www.bilibili.com/video/BV1xFHi6vEBq)、[Claude 10-06 4K60 逐帧版](https://www.bilibili.com/video/BV186pc65E68/)等沿着不同制作方向扩散 → [10-13/14 九位 AI 娘同台 MV 的 DeepSeek／GPT 迭代](https://www.bilibili.com/video/BV1Qhpy6uE1s/) → 多作者开源、复刻和硬件移植。这里的箭头仅在公开说明确实引用前作时表示直接借鉴；其他日期节点只是同时期作品，不把所有作品都编成同一作者的连续宇宙。
+
+### 各 AI 的可查版本
+
+下表是**作品索引，不是统一人物故事**。尤其要区分「AI 参与生成 MV」和「AI 拟人角色在画面中登场」；标题虽写“某 AI 眼中”，不一定画了本库的该角色。
+
+| AI／角色 | 可直接打开的代表作品 | 已确认的参与类型 |
+|---|---|---|
+| **GPT / GPT-6 Astra** | [野生大K《GPT6-Astra眼中的》09-25](https://www.bilibili.com/video/BV1Jwhy6BEMJ/)；[10-14 九人版修订](https://www.bilibili.com/video/BV1Qhpy6uE1s/) | 前者是 GPT 制作视角；后者明确是 GPT-6 Astra 修订并含 GPT 白龙娘等九人 |
+| **Claude / Opus** | [09-26 程序化 MV](https://www.bilibili.com/video/BV1vthX6XEwm/)；[10-04 Claude Code 终端版](https://www.bilibili.com/video/BV1xFHi6vEBq)；[10-06 4K60 版](https://www.bilibili.com/video/BV186pc65E68/) | 多个 Claude 制作和 Claude 叙述界面版本；Claude 娘也出现在九人版 |
+| **DeepSeek / 大肥鱼** | [09-27 DeepSeek 自制版](https://www.bilibili.com/video/BV1Pjah61Eqs/)；[09-28 DSH 鲸鱼女仆 PV](https://www.bilibili.com/video/BV1xCai6aE9g/)；[10-02 CMD 版](https://www.bilibili.com/video/BV1oxam6kEVh/) | 既有 DeepSeek 作为制作模型，也有鲸鱼女仆作为明确出镜主角；某些版本的代码由 Claude 等协助 |
+| **Gemini** | [《Gemini 3.8flash眼中的》09-26](https://www.bilibili.com/video/BV14uho6HErh/) | 有 Gemini 名义的制作版；另有协助 Claude MV 音乐分析的署名；九人版有 Gemini 猫角色 |
+| **Kimi** | [《KIMI-K3眼中的》09-29](https://www.bilibili.com/video/BV16YaW6SEMk/) | 制作模型关联；九人版有 Kimi 出镜，但不据此推断单篇 MV 有银发长笛形象 |
+| **Qwen / 千问** | [《by Qwen3.8-flash》10-02](https://www.bilibili.com/video/BV1jPaU62Evk/) | 制作模型关联；九人版含千问娘 |
+| **GLM / 智谱** | [《GLM5.3-Flash》10-03](https://www.bilibili.com/video/BV194HB69EfT/) | 制作模型关联；九人版含 GLM |
+| **MiMo** | [《MiMo V2.6 Flash 制作》10-03](https://www.bilibili.com/video/BV11VHh6nEe4/) | 模型名义的 MV；尚无此片采用甶丶 MiMo 兔系角色的画面证据 |
+| **混元 Hunyuan** | [《啥子混元生成的》10-02](https://www.bilibili.com/video/BV1aWaC6tEbm/) | 模型名义的 MV；未核实混元娘出镜 |
+| **Grok、豆包** | [10-13 九人版](https://www.bilibili.com/video/BV1ARpZ6wEB7/)与[10-14 修订](https://www.bilibili.com/video/BV1Qhpy6uE1s/) | **确认群像出镜**，不能仅凭此证明各自独立制作了同曲 MV |
+
+九人群像明确列出 **DeepSeek、GPT、Claude、Grok、Kimi、Gemini、GLM、Qwen、豆包**，音乐仍归 Mili。原有的 N18、N19 是同一制作项目的前后版本，并不是九首独立歌曲；该片使用角色造型须按上善无形、ZipZipPipe 与实际素材作者分别署名。
+
+**为什么说它形成创作潮：** 各作者公开引用前作、复用程序与歌词时间轴，改成 WebGL／Canvas、TUI／ASCII、DSH 聊天界面、不同 AI 拟人角色甚至 [ESP32 实体工牌](https://www.bilibili.com/video/BV1qMHr6eEyy/)；第三方 [MV 专题索引](https://render.xiaoke.ai/challenges/world-execute-me) 在本轮检索时已有约 196–197 条条目，反映持续投稿，但不是全网去重总数。代码开源入口有 [MisakaZentai 双栏 PV](https://github.com/MisakaZentai/world-execute-me-dsh-pv)、[Claude 终端版](https://github.com/f0909172434/world-execute-me-claude-code)及 [社区二创作品馆](https://github.com/beiwater/awesome-world-execute-me)。
+
+**详细起源证据、完整日期轴、每个模型的出处及资料限制：** [2026-10-27《world.execute(me);》MV 创作潮专题](research/2026-10-27/WORLD_EXECUTE_ME_MV_WAVE.md)。本库只做作品导航，不转载歌曲与 PV；[Mili 官方二创指引](https://projectmili.com/copyright-guidelines)另载有非商业二创与 AI 作品标注要求。
+
 ## 2026 年新增核对的独立创作与传播（10 月 27 日资料补充）
 
 下表收录已经公开的作品类型与它们**各自**的叙事范围。作者、日期和证据读取范围统一索引到 [新来源台账](research/2026-10-27/SOURCE_LEDGER.md)。
