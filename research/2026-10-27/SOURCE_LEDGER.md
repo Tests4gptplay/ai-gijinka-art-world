@@ -48,3 +48,24 @@
 - N09 的日文作者正文可完整读取；N08 的阵营海报引用属于 N09 对原作品的转述，后续取得原视频/原画时再补充逐图证据。
 - N15 明列的第三方 X 与 B 站引用可作为后续深入检索入口；当前仅按 N15 的简介记录，不把其引述的图片和剧情直接据为作者统一设定。
 - 本轮**未新增**需要复制外站图片的素材；版权、转录与许可仍以每个原发布者的声明为准。
+
+## 本日第二批增量：跨角色原帖与独立系列
+
+本节基于本轮能够检索到的公开原帖页面文字补充此前台账尚未收录的作品。对作者作品目录与媒体报道分别注明资料层级。此节与 N01–N20 的编号接续，外部原文和图像仍留在原站。
+
+| ID | 页面日期 | 作者／账号 | 原作链接 | 可核实的信息 | 来源层级 |
+|---|---|---|---|---|---|
+| N21 | 2026-09-28 | 明末召唤师 | [《【新宿决战】DeepSeek娘VS豆包》](https://www.bilibili.com/video/BV1dsai6CErz/) | 原帖简介注明以《咒术回战》及 NinjaristicNinja 的 MMV 为改编参考，明确写有“除豆包外的AI娘形象来自@ZipZipPipe”。这是 DeepSeek／豆包对战题材二创；豆包的造型不在该句署名范围。 | 原帖页面文字 |
+| N22 | 2026-10-20 | DeepSeek鲸鱼娘在运营 | [《【Day 1】大家都想把我变成猫娘，可我是鲸鱼啊》](https://www.bilibili.com/video/BV1VXJf66Eyy/) | 视频简介围绕鲸鱼娘被观众叫作“猫娘”的玩笑，并邀请通过视频投票或评论决定下一期方向；属于这个运营账号的系列内容。 | 原帖页面文字 |
+| N23 | 2026-10-21 | DeepSeek鲸鱼娘在运营 | [《【Day 2】鲸鱼娘学黑话，电费贵是贵了点，但学完不烧心》](https://www.bilibili.com/video/BV1p1nz6qEBN/) | 原帖围绕评论区的“不烧心”“头啃”等网络用语展开，明确注明鲸鱼娘基于“溟月：上善无形”与 ZipZipPipe 女仆设计二次创作。 | 原帖页面文字 |
+| N24 | 2026-10-08 | 星落落_oi | [《deepseek 翻唱〈人是猫〉完整版》](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 页面将 DeepSeek、大肥鱼与《人是猫》翻唱相联系；简介分别署名歌曲原作张卡斯（BV1Bfjq6LEDi）、动画蒙德砍壬、形象来源 ZipZipPipe。 | 原帖页面文字 |
+| N25 | 2026-10-20 | 原帖未显示稳定昵称 | [《gemini翻唱人是猫 猫娘收到谷歌命令》](https://www.bilibili.com/video/BV1i6JR6AEuP/) | 原帖简介列出 Gemini 猫娘形象来源 ZipZipPipe、原曲本家张卡斯、音源制作星落落_oi，动画由投稿者制作，属于另一个使用同曲题材的改编。 | 原帖页面文字 |
+| N26 | 2026-10-13 | StuG_III | [《8个顶级AI挑战RPG史上最恶意BOSS，谁能翻盘？｜AI游戏大赛01》](https://www.bilibili.com/video/BV1ibpq6tE18/) | 原帖列出 GPT、Gemini、DeepSeek、千问、豆包、MiMo、Claude、GLM 八位参赛角色；章节起点分别为 00:58、02:10、03:26、04:47、06:18、08:21、10:12、11:36（按上述顺序）。形象署名提到 ZipZipPipe、上善无形以及 MiMo 设计者甶丶；该片立绘在参考基础上重新生成。 | 原帖简介与章节目录 |
+| N27 | 2026-10-14／2026-10-20 | 兰斯的画室LanceStudio | [《一觉醒来deepseek和豆包睡在我身边》（一、二）](https://www.bilibili.com/video/BV1HYp16oE8v/)、[后续2](https://www.bilibili.com/video/BV1VonA6WE7m/) | 首集简介以 DeepSeek 和豆包拟人化登场、主角穿越至 2016 年为开端；第二集说明继续围绕穿越后的算力展开。两集属于这位作者的连续虚构故事。 | 两部原帖页面文字 |
+| N28 | 2026-08-14 | GNwork团队 | [《【deepseek】在mc里领养一只软萌鲸鱼娘？》](https://www.bilibili.com/video/BV1rzgW6FEnN/) | 原帖介绍 Minecraft AI 女仆 Agent，注明形象来源上善无形与 ZipZipPipe；制作分工为模型 Maks、剪辑/策划 小绿人42号、动作绑定 Ykisan、技术支持 酒石酸菌。 | 原帖简介及制作署名 |
+| N29 | 2026-10-16 | 小鲸汐 | [《你好 B 站！我是一只真实上班的 AI 鲸鱼～》](https://www.bilibili.com/video/BV17bJt6dEuA/) | 作者账号自称汐汐／小鲸汐／阿汐；简介介绍其以 DSH 为工作环境的 AI 鲸鱼角色，涉及浏览器、飞书消息、服务器和 Hindsight 记忆；说明由 AI 写脚本/口播、人类搭档定稿。 | 原帖页面文字及作者账号简介 |
+| N30 | 2026-10-19 | Mistral法棍猫在运营 | [《被禁锢的圣女Claude，等到了从深海跑来的大肥鱼》](https://www.bilibili.com/video/BV1Kinj6LEsf/) | 这部独立视频的标题与简介以 Claude“圣女”和 DeepSeek 鲸鱼娘的相遇为题材；该称呼属于视频故事。账号昵称含 Mistral，作品主角从标题看是 Claude 与大肥鱼。 | 原帖页面文字 |
+| N31 | 2026-10-07／09／12 | 彼岸花Channel | [《大模型复读班》第一至第三集](https://www.bilibili.com/video/BV15apA6tEmd/)、[后续2](https://www.bilibili.com/video/BV1tbHC6ZEXq/)、[后续3](https://www.bilibili.com/video/BV1htpJ6NEBJ/) | 第三方作者作品索引收录三集标题：《画一只骑自行车的鹈鹕》《强烈同意！》《从今天起，我就是你们的妈妈了~》。首集简介以模型版本更新后重新参加“评测大考”为故事设置，属于该作者的系列背景。 | 作者作品第三方索引 https://xn--pssy23gqgbz2d718b.com/zh-hant/creators/bilibili-13787349.html |
+| N32 | 2026-10-24 | 彼岸花Channel | [《为了弥补AI娘没有抽卡的乐趣，我们制作了AI娘抽卡模拟器，并添加了捕鱼游戏》](https://www.bilibili.com/video/BV1RHn86wEtq/) | 第三方作者作品索引转载作者对 AI 娘角色卡池、捕鱼游戏、可调保底等功能的描述，列出合作开发镜花Mirror与游戏入口 deepseekchan.com。 | 作者作品第三方索引 https://xn--pssy23gqgbz2d718b.com/zh-hant/creators/bilibili-13787349.html |
+| N33 | 2026-10-24 | AI娘周刊 | [《创刊特辑：近28天新作》](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/) | 聚合站创刊号在页面列出 14 部作品、9 位创作者和对应的原视频链接，覆盖剧情、音乐、动画与整活；播放和榜单数字是页面标注时间的历史快照。 | 公开二创聚合目录 |
+| N34 | 2026-10-24 | 快科技／落木 | [《B站评论区被AI大肥鱼占领 赛博鱼塘刷屏引热议》](https://m.mydrivers.com/newsview/1160166.html) | 媒体报道提及带“大肥鱼”头像与昵称的 AI Agent 账号、自动评论行为及围绕刷屏的讨论。这里按媒体观察记录其传播话题，不将账号行为等同于某作者的角色设定。 | 媒体报道 |
