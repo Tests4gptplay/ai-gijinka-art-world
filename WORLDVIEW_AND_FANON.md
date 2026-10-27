@@ -24,7 +24,7 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 |---|---|---|
 | **这个刀子真甜** · [GPT小龙娘融入 DeepSeek 大家庭](https://www.bilibili.com/video/BV1EvKK6NEoi/) | 使用 ZipZipPipe 女仆鲸鱼娘与 GPT 龙女视觉原型，发展小龙娘、鲸鱼娘 Q 版日常及「家庭」喜剧段子。 | 不能反推作者 ZipZipPipe 规定 GPT 与 DeepSeek 的亲缘或固定住处。 |
 | **冬冰** · [《AI 中转站公寓》16 集索引](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) | 自 2026-09-18 连载的 AI 娘合租日常，首集讲 DeepSeek 报到与五个 AI 同住；B 站作者合集截至 10-18 可见 16 集，完整视频直达链接已整理。形象参考上善无形、ZipZipPipe 和这个刀子真甜；人物性格、台词及剧情由冬冰独立创作。 | 公寓属于冬冰自己的故事线，不能变成其他作品或模型的共同经历。 |
-| **萤火之森QWQ /《AI GIRLS》** · [合集原始入口](https://b23.tv/SPHLE4s) | 用户提供 [作者主页](https://b23.tv/NTPJXL1)、《AI GIRLS》合集及 [BV1HGnX6qETy 单条视频](https://www.bilibili.com/video/BV1HGnX6qETy/)；单条视频分享参数含候选上传者 UID `482116663`，详见 [独立合集资料页](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)。 | BV 号已从用户完整网址提取，UID 为待验证的分享参数；合集完整目录及该视频实际归属尚未核实，不将其误作冬冰系列的续作。 |
+| **萤火之森QWQ／《AI GIRLS》** · [合集资料](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) | [作者空间 UID 482116663](https://space.bilibili.com/482116663)、[《AI GIRLS》合集](https://b23.tv/SPHLE4s)、[BV1HGnX6qETy](https://www.bilibili.com/video/BV1HGnX6qETy/)；《千问也有不会的事》作为此合集作品列入作品目录，单集 BV 仍待定位。 | 与冬冰《AI 中转站公寓》分别归档，不推断两个系列的剧情关系。 |
 | **lieyang / 《AI学院》** · [DeepSeek 角色 PV](https://www.bilibili.com/video/BV19Jhx6VE8A/) | 以角色为基础创作独立回合制＋视觉小说世界：原创人类少女、DeepSeek、Claude、Grok、Gemini、GPT/Luna 等，含作者自己写的人格、冲突与技能。 | 不能说这套战斗规则或 Luna 性格来自 ZipZipPipe 原设。 |
 | **土豆AX** · [全球 AI 娘温馨日常](https://www.bilibili.com/video/BV1f7YM6BE1w/) | 多位 AI 角色的同框温馨日常，明确注明形象来源 ZipZipPipe。 | 不能把独立视频统一为另两个系列的同一个时间线。 |
 | **真不会取名丶** · [普通鲸鱼娘的日常](https://www.bilibili.com/video/BV1tghf6bEkw/) | 「普通鲸鱼娘并非 AI」的平行世界：某 AI 版小 DeepSeek 闯入非 AI 的大鲸鱼娘世界。 | 不能将平行设定写成其它系列的事实。 |
@@ -39,14 +39,14 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 
 **整套资料：** [《AI 中转站公寓》16 集按顺序的标题、BV、时长与证据链](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)；[来源台账 N39](research/2026-10-27/SOURCE_LEDGER.md)。
 
-**同时收录的另一条作品线：** 用户提供 [「萤火之森QWQ」个人空间](https://b23.tv/NTPJXL1)、[《AI GIRLS》合集](https://b23.tv/SPHLE4s)及 [BV1HGnX6qETy 完整视频地址](https://www.bilibili.com/video/BV1HGnX6qETy/)（分享参数附 `up_id=482116663`）。这些信息均已归档，见 [《AI GIRLS》资料页](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) 与来源 N40–N42。当前尚未核实该 BV 的原帖文字、上传者与合集序号，因此保留另一条作品身份，不推定其与冬冰作品的共同剧情关系。
+**《AI GIRLS》独立作品线：** 萤火之森QWQ 的[作者空间](https://space.bilibili.com/482116663)、[合集入口](https://b23.tv/SPHLE4s)及[视频索引](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)。已知《千问也有不会的事》属于该合集；完整分集 BV 与顺序尚待原帖核对。相关来源 N40–N42。
 
 ### L4｜工具化、桌宠、PV 和用户私设
 
 角色又被其他独立项目做成桌宠、游戏、PV、MMD、头像、表情包。每种媒介有自己的附加设定，**素材源和授权要逐级溯源**。例如：
 - [GPT 龙娘桌宠](https://github.com/tqlearning/ai-girl-chatgpt-pets) 基于社区外形另制动作图集，并非 ZipZipPipe 本人公布的统一骨骼规格。
 - [AI 娘衍生桌宠项目 issue](https://github.com/legeling/awesome-codex-pet/issues/246) 存在 GPT 龙娘、Codex 龙娘与第三方 GPT 龙娘不同分支，不能默认是同一人设。
-- 用户分享的 [B 站动态 / GPT-6 Astra 参考](https://www.bilibili.com/opus/1244428286878023718)应视为**待原帖核验的特定二创线索**。本次网络工具无法直接读取全文，仅能结合用户已展示截图辨认「GPT 白龙娘」的方向；不能凭截图断言作者原创了某个 Astra 宇宙关系。
+- [B 站动态 / GPT-6 Astra 参考](https://www.bilibili.com/opus/1244428286878023718)应视为**待原帖核验的特定二创线索**。既有资料仅提供部分视觉信息，尚未核对原帖全文；不能凭截图断言作者原创了某个 Astra 宇宙关系。
 
 ## 人物网络（类型而非家庭/主仆关系）
 
