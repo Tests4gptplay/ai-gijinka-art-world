@@ -18,7 +18,7 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 | 理解昵称、梗和人物关系 | [社区印象与关系](COMMUNITY_IMPRESSIONS.md) · [不同作者的世界线](WORLDVIEW_AND_FANON.md) |
 | 画得像所选角色，不串色串设定 | [视觉基准与错画对照](VISUAL_REFERENCE_NOTES.md) · [美术语言](ART_DIRECTION.md) |
 | 从立绘制作有真实动作的角色 | [桌宠动作资料说明](ANIMATION_REFERENCE.md) · [创作前核对](GENERATION_CHECKLIST.md) |
-| 查某条结论从哪里来 | [2026-10-27 增量台账（34 条）](research/2026-10-27/SOURCE_LEDGER.md) · [2026-10-24 来源台账](research/2026-10-24/SOURCE_LEDGER.md) · [视频核对记录](research/2026-10-24/VIDEO_REVIEW.md) · [较早来源](SOURCES.md) |
+| 查某条结论从哪里来 | [2026-10-27 增量台账](research/2026-10-27/SOURCE_LEDGER.md) · [2026-10-24 来源台账](research/2026-10-24/SOURCE_LEDGER.md) · [视频核对记录](research/2026-10-24/VIDEO_REVIEW.md) · [较早来源](SOURCES.md) |
 | 更新资料而不每次重做研究 | [资料更新指引](RESEARCH_GUIDE.md) |
 
 **原创人物：** [私设目录](私设/README.md)收录我们自己创作的角色与故事，包括 [星璃 · Stella](私设/星璃/README.md) 的人物档案、设定图和简短对话卡。原创设定与原作者考据、社区共性分开。
@@ -27,7 +27,7 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 
 ## 本轮补充了什么
 
-2026-10-27：新增 [34 条 AI 拟人二创来源](research/2026-10-27/SOURCE_LEDGER.md)，按作者原帖、独立系列、音乐/视频、Agent 与社区传播保存链接、日期和实际证据范围。沿用既有 14 位角色图鉴及原作署名；[资料更新指引](RESEARCH_GUIDE.md)明确外部角色资料的来源要求和星璃原创测试角色的自由创作例外。
+2026-10-27：新增 [AI 拟人二创来源](research/2026-10-27/SOURCE_LEDGER.md)，按作者原帖、独立系列、音乐/视频、Agent 与社区传播保存链接、日期和实际证据范围。沿用既有 14 位角色图鉴及原作署名；[资料更新指引](RESEARCH_GUIDE.md)明确外部角色资料的来源要求和星璃原创测试角色的自由创作例外。
 
 2026-10-25：在 [DeepSeek 人物档案](characters/deepseek.md#长短裙参考图)新增用户提供的**短裙彩色立绘、长短裙黑白对照、长裙彩色立绘**三张参考图，按上传文件原样保存；仓库采用 CC BY-NC-SA 4.0。
 
