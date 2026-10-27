@@ -60,9 +60,9 @@
 
 ## 另一条作品入口：《AI GIRLS》合集
 
-用户在提供 [「萤火之森QWQ」作者主页](https://b23.tv/NTPJXL1)后，又提供了 B 站[《AI GIRLS》合集](https://b23.tv/SPHLE4s)。该合集已独立整理在 [《AI GIRLS》资料页](AI_GIRLS_YINGHUO_COLLECTION.md)（来源台账 N40、N41）。
+用户在提供 [「萤火之森QWQ」作者主页](https://b23.tv/NTPJXL1)后，又提供了 B 站[《AI GIRLS》合集](https://b23.tv/SPHLE4s)。该合集已独立整理在 [《AI GIRLS》资料页](AI_GIRLS_YINGHUO_COLLECTION.md)（来源台账 N40–N42）。
 
-B 站搜索能够找到「萤火之森QWQ」署名的《千问也有不会的事》等 AI 主题短片，但当前无法从这两个 b23 短链接直接取得完整 `space.bilibili.com` UID、合集 `sid` 和逐集 BV 清单。所以 **《AI GIRLS》按另一条作者／合集线索独立保留**；没有证据证明它和冬冰的 16 集是同一作品或互为续作。
+用户还提供了 [BV1HGnX6qETy 的完整分享链接](https://www.bilibili.com/video/BV1HGnX6qETy/)，路径中含可直接提取的 BV 号，参数中含待核验 UP UID `482116663`（[候选作者空间](https://space.bilibili.com/482116663)）。原视频目前未能返回标题、作者署名和合集信息；搜索另有「萤火之森QWQ」署名的《千问也有不会的事》等 AI 主题短片，但不能据此将其与这个 BV 号绑定。因此《AI GIRLS》仍按独立作品索引，暂不与冬冰 16 集合并。
 
 ## 证据身份与使用
 
