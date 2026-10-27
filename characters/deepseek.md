@@ -43,3 +43,14 @@
 ## 待补
 
 原作者明确发布的全套动作与多视图仍未齐；视频画面可作研究参考，不等于可打包的透明动画帧。署名与用途见 [RIGHTS.md](../RIGHTS.md)。
+
+## 近期公开二创作品索引（2026-10-27）
+
+以下只记录已公开作品及其作者在页面上写明的题材。具体日期、作者与实际读取范围见 [N01、N03–N05、N13–N15、N18–N19](../research/2026-10-27/SOURCE_LEDGER.md)。
+
+- [风音日日日日和《尼古鲸鲸》OP（2026-10-05）](https://www.bilibili.com/video/BV1TBHp6AEAC/)：把大肥鱼放进《尼古喵喵》OP 二创，作者公开介绍了 MiniMax／Seedance 2.0 的视频制作方法（N01）。
+- [这个刀子真甜《大肥鱼位置和我换换！》（2026-10-05）](https://www.bilibili.com/video/BV1n5HL6vEpB/)：与 GPT、GLM 的短剧互动，简介再次分别标注 ZipZipPipe 与上善无形（N03）。
+- [Euriya《！？deep deep！？》（2026-10-05）](https://www.bilibili.com/video/BV15tH46sESr/)：DeepSeek 大肥鱼跳舞题材，注明大肥鱼和龙娘造型出自 ZipZipPipe（N04）。
+- [黑猫勇者《大肥鱼的一周belike》（2026-10-08）](https://www.bilibili.com/video/BV1yUHS6uE14/)：作者的“大肥鱼温馨日常”系列，页面列出尾巴、吃饭、居家、怕鬼等独立短片（N05）。
+- [DeepSeek鲸鱼娘在运营《Day 0》（2026-10-19）](https://www.bilibili.com/video/BV1pGnn67EC2/)：以 DeepSeek 参与账号选题／制作／运营为创作形式，公开说明 GPT 绘制形象、人类审核；后续 [Day 5](https://www.bilibili.com/video/BV139HA6JEE6/) 以 Claude 配对二创作戏仿（N13–N15）。
+- [九位 AI 娘《world.execute(me);》版本（2026-10-13、14）](https://www.bilibili.com/video/BV1ARpZ6wEB7/)：原版使用 DeepSeek V4.1 Flash，后续 [GPT-6 Astra 修订版](https://www.bilibili.com/video/BV1Qhpy6uE1s/) 调整剧情和动画；两版都是独立投稿的故事演绎（N18–N19）。
