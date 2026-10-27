@@ -25,3 +25,10 @@ Grok 娘、蝠翼形象是本库可直接定位的识别信息。网上“毒舌
 ## 待补
 
 原作者完整性格、三视图、Q 版动作原件尚不足。用户选择其他明确同人版本时可以另建变体，不用将它们拼成一套主设。
+
+## 新增独立作品用例（2026-10-27）
+
+- [《Fate/AGI dawn》OP1（2026-10-02）](https://www.bilibili.com/video/BV1xPam6ZEpc/)：作者将 Grok 指定为 Rider，仅对应本作品世界线（N07）。
+- [Claude 参与改编的像素童话（2026-10-20）](https://www.bilibili.com/video/BV1Dnnc6gE19/)：原简介明确 Grok 属所引用的角色参考图之一，GPT 负责该投稿的像素形象绘制（N16）。
+
+来源台账：[N07、N16](../research/2026-10-27/SOURCE_LEDGER.md)。
