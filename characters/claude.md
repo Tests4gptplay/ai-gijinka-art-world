@@ -40,4 +40,4 @@ Claude、克劳德是基本称呼。“封号、看见中文就封号”的整�
 
 **风霜秋雨 — [《Claude热唱：您的账号已被封禁》](claude/music/风霜秋雨-您的账号已被封禁.md)**
 
-原视频：[B 站](https://www.bilibili.com/video/BV1Hzpm6hEaY/)。本库用户选收的 Claude 主题歌曲，发布时间、制作署名和来源信息保存在 Claude 的音乐目录，来源台账编号 N35。
+原视频：[B 站](https://www.bilibili.com/video/BV1Hzpm6hEaY/)。收录的 Claude 主题歌曲，发布时间、制作署名和来源信息保存在 Claude 的音乐目录，来源台账编号 N35。
