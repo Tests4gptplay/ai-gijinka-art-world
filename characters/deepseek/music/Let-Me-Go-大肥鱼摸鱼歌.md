@@ -6,6 +6,6 @@
 
 其它作品：[星落落_oi MV](https://www.bilibili.com/video/BV1pueU6cEfg/) · [小猪P_ 动画 PV](https://www.bilibili.com/video/BV1mThC6LEbA/)。
 
-本页仅记录公开作品、作者署名、版本关系及相关出处，不涉及资料提供者及私人交流过程。
+本页仅记录公开作品、作者署名、版本关系及相关出处。
 
 [出处台账 N37](../../../research/2026-10-27/SOURCE_LEDGER.md)
