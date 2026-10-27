@@ -110,3 +110,11 @@
 | ID | 来源身份 | 原始链接及核对情况 |
 |---|---|---|
 | N41 | **用户提供的《AI GIRLS》B 站合集** | [合集《AI GIRLS》](https://b23.tv/SPHLE4s)；用户先前另提供 [「萤火之森QWQ」主页](https://b23.tv/NTPJXL1)（N40）。**已确认的是用户分享的合集标题和入口**，当前短链无法在检索工具中展开成 `sid`、合集具体分集／时长／发布日期，故不编造。辅助检索：[B 站「千问」搜索索引](https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE)出现《千问也有不会的事》及「萤火之森QWQ」作者名；[B 站话题页](https://www.bilibili.com/v/topic/detail/?topic_id=43798)摘要显示该昵称 10 月 14 日另一条投稿，但无法核实上述短片是否在合集内。与冬冰系列的关联尚无证据，**二者独立归档**。 |
+
+## 用户追加单条完整视频分享：可直接提取 BV／UP UID 线索（N42）
+
+用户于 2026-10-27 提供 `m.bilibili.com/video/...` 的完整分享网址，可以直接解析并规范化，**无需再要求用户提供一个已经存在于网址里的 BV 号**。分享 URL 含有设备／会话／追踪参数，不收录这些参数，只保留作品定位信息。
+
+| ID | 取得方法 | 实际可用链接与精确证据范围 |
+|---|---|---|
+| N42 | **用户提供原始完整分享链接，解析 URL 路径与 `up_id` 参数** | [标准 B 站视频：BV1HGnX6qETy](https://www.bilibili.com/video/BV1HGnX6qETy/)；分享参数 `up_id=482116663` 对应 [UP 主空间线索](https://space.bilibili.com/482116663)。**BV 号是从视频路径直接提取的；UID 是分享参数中的候选上传者 ID**。本轮访问 B 站原视频、接口与搜索均未得到可核对的标题／发布日期／作者资料／合集位置，故暂不声称它必定属于 [《AI GIRLS》合集](https://b23.tv/SPHLE4s)。已在 [《AI GIRLS》资料页](AI_GIRLS_YINGHUO_COLLECTION.md)链接此视频。 |
