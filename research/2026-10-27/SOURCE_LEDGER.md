@@ -84,7 +84,7 @@
 
 | ID | 日期 | 角色与作品 | 实查证据与出处 |
 |---|---|---|---|
-| N37 | 2026-09-10 至 2026-10 多个阶段 | **DeepSeek｜《Let Me Go》／大肥鱼摸鱼歌** | **原创来源：星落落_oi。** [2026-09-11《音鲸干活唱歌1分钟纯享版》BV1R5YL69EC5](https://www.bilibili.com/video/BV1R5YL69EC5/) 的原帖明确说当时完整版尚未完成；[2026-09-14《Let me go大肥鱼和用户深情对唱》BV13SYr6dEiQ](https://www.bilibili.com/video/BV13SYr6dEiQ/) 也是星落落_oi 本人投稿（词 DeepSeek、曲谱乐 AI、制作星落落_oi）。[罐装毕加索 2026-09-14《[AI]大肥鱼摸鱼歌〈Let Me Go〉》BV1XbY66nEWr](https://www.bilibili.com/video/BV1XbY66nEWr/) 的投稿简介**明确标注「原作：@星落落_oi BV1R5YL69EC5」**，并列词 DeepSeek、曲 Suno／豆包、背景 ZipZipPipe。这是包含 JSON 和 tool 调用歌词、传播较广的改编版本。[小猪P_ 2026-09-22 动画 PV](https://www.bilibili.com/video/BV1mThC6LEbA/) 标注使用罐装毕加索版音源，并另将星落落_oi 的 BV13SYr6dEiQ 称为「原曲的原曲」。**两条星落落 BV 号是同作者的不同阶段，不是互相冲突的原作署名。** 后续还有 [星落落_oi 2026-09-18 MV](https://www.bilibili.com/video/BV1pueU6cEfg/) 和其它创作者 PV。以上根据公开原帖标题、日期、简介与用户截图，不冒充对视频全片的逐帧核对。 |
+| N37 | 2026-09-10 至 2026-10 多个阶段 | **DeepSeek｜《Let Me Go》／大肥鱼摸鱼歌** | **原创来源：星落落_oi。** [2026-09-11《音鲸干活唱歌1分钟纯享版》BV1R5YL69EC5](https://www.bilibili.com/video/BV1R5YL69EC5/) 的原帖明确说当时完整版尚未完成；[2026-09-14《Let me go大肥鱼和用户深情对唱》BV13SYr6dEiQ](https://www.bilibili.com/video/BV13SYr6dEiQ/) 也是星落落_oi 本人投稿（词 DeepSeek、曲谱乐 AI、制作星落落_oi）。[罐装毕加索 2026-09-14《[AI]大肥鱼摸鱼歌〈Let Me Go〉》BV1XbY66nEWr](https://www.bilibili.com/video/BV1XbY66nEWr/) 的投稿简介**明确标注「原作：@星落落_oi BV1R5YL69EC5」**，并列词 DeepSeek、曲 Suno／豆包、背景 ZipZipPipe。这是包含 JSON 和 tool 调用歌词、传播较广的改编版本。[小猪P_ 2026-09-22 动画 PV](https://www.bilibili.com/video/BV1mThC6LEbA/) 标注使用罐装毕加索版音源，并另将星落落_oi 的 BV13SYr6dEiQ 称为「原曲的原曲」。**两条星落落 BV 号是同作者的不同阶段，不是互相冲突的原作署名。** 后续还有 [星落落_oi 2026-09-18 MV](https://www.bilibili.com/video/BV1pueU6cEfg/) 和其它创作者 PV。以上根据公开原帖标题、日期与简介整理，不将页面文字核对等同于视频全片审看。 |
 
 ## 2026 年《world.execute(me);》AI／AI 娘 MV 创作潮（N38）
 
