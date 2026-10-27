@@ -24,6 +24,7 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 |---|---|---|
 | **这个刀子真甜** · [GPT小龙娘融入 DeepSeek 大家庭](https://www.bilibili.com/video/BV1EvKK6NEoi/) | 使用 ZipZipPipe 女仆鲸鱼娘与 GPT 龙女视觉原型，发展小龙娘、鲸鱼娘 Q 版日常及「家庭」喜剧段子。 | 不能反推作者 ZipZipPipe 规定 GPT 与 DeepSeek 的亲缘或固定住处。 |
 | **冬冰** · [《AI 中转站公寓》16 集索引](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) | 自 2026-09-18 连载的 AI 娘合租日常，首集讲 DeepSeek 报到与五个 AI 同住；B 站作者合集截至 10-18 可见 16 集，完整视频直达链接已整理。形象参考上善无形、ZipZipPipe 和这个刀子真甜；人物性格、台词及剧情由冬冰独立创作。 | 公寓属于冬冰自己的故事线，不能变成其他作品或模型的共同经历。 |
+| **萤火之森QWQ /《AI GIRLS》** · [合集原始入口](https://b23.tv/SPHLE4s) | 用户同时提供 [作者主页](https://b23.tv/NTPJXL1) 与《AI GIRLS》合集；B 站公开搜索可见该昵称发布的《千问也有不会的事》等 AI 题材作品。现已保存 [独立合集资料页](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)。 | 合集完整视频目录和作者 UID 尚未可核；不将其认作冬冰《AI 中转站公寓》的续作或同一故事。 |
 | **lieyang / 《AI学院》** · [DeepSeek 角色 PV](https://www.bilibili.com/video/BV19Jhx6VE8A/) | 以角色为基础创作独立回合制＋视觉小说世界：原创人类少女、DeepSeek、Claude、Grok、Gemini、GPT/Luna 等，含作者自己写的人格、冲突与技能。 | 不能说这套战斗规则或 Luna 性格来自 ZipZipPipe 原设。 |
 | **土豆AX** · [全球 AI 娘温馨日常](https://www.bilibili.com/video/BV1f7YM6BE1w/) | 多位 AI 角色的同框温馨日常，明确注明形象来源 ZipZipPipe。 | 不能把独立视频统一为另两个系列的同一个时间线。 |
 | **真不会取名丶** · [普通鲸鱼娘的日常](https://www.bilibili.com/video/BV1tghf6bEkw/) | 「普通鲸鱼娘并非 AI」的平行世界：某 AI 版小 DeepSeek 闯入非 AI 的大鲸鱼娘世界。 | 不能将平行设定写成其它系列的事实。 |
@@ -38,7 +39,7 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 
 **整套资料：** [《AI 中转站公寓》16 集按顺序的标题、BV、时长与证据链](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)；[来源台账 N39](research/2026-10-27/SOURCE_LEDGER.md)。
 
-**另一个待核实作者入口：** 用户于 2026-10-27 另外提供了 [「萤火之森QWQ」的 B 站主页](https://b23.tv/NTPJXL1)，希望补充相关“中转站”系列资料。当前检索无法展开该主页短链，亦未核实其具体作品清单与冬冰的关系。该作者入口**独立保留为待查来源（N40）**，绝不把冬冰的 16 集误署到这一账号；取得该作者明确的作品链接后，应按作品建立另一组记录。
+**同时收录的另一条作品线：** 用户另外提供了 [「萤火之森QWQ」个人空间](https://b23.tv/NTPJXL1)及[《AI GIRLS》合集](https://b23.tv/SPHLE4s)。这两条入口已单独建档，详见 [《AI GIRLS》资料页](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) 与来源 N40／N41。公开视频索引可找到该账号关联的 AI 主题短片，但未直接读到《AI GIRLS》的完整分集列表，因此目前分别保留两套作品身份，不推定其与冬冰的共同剧情关系。
 
 ### L4｜工具化、桌宠、PV 和用户私设
 
