@@ -29,3 +29,11 @@ Astra、Luna、Codex 等名字出现在模型或粉丝语境中，不凭名字�
 ## 待补
 
 本轮未获得原作者完整 Q 版透明动作包；原作年龄、固定脾气和跨作品亲缘无统一依据。档案原图页码仍由存档复核，本轮未直接打开 Pixiv 全页。
+
+## 近期独立作品索引（2026-10-27）
+
+以下是现有创作者的公开用例，详细作者、日期与证据范围见 [新增来源台账](../research/2026-10-27/SOURCE_LEDGER.md)。
+
+- [竹月Luno／协作者《Let me CHECK》（2026-10-11）](https://www.bilibili.com/video/BV1sbpV6gEQB/)：GPT 龙娘工作主题歌曲，发布说明分别列出 GPT 作词／Suno 提示词、Suno 作曲、Canvas 2D 视频制作和 ZipZipPipe 原型署名（N10）。
+- [这个刀子真甜《大肥鱼位置和我换换！》（2026-10-05）](https://www.bilibili.com/video/BV1n5HL6vEpB/)：GPT、GLM、DeepSeek 的 Q 版互动短剧，注明角色造型来源（N03）。
+- [《GPT-6 Astra 龙娘看了大肥鱼做的视频后怒改》（2026-10-14）](https://www.bilibili.com/video/BV1Qhpy6uE1s/)：作者说明 GPT-6 Astra 参与修订先前 DeepSeek 版本的剧情、分镜与动画（N19）。
