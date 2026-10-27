@@ -8,7 +8,7 @@
 |---|---|---|---|
 | [DeepSeek](deepseek.md) | 上善无形原型 → ZipZipPipe 女仆二创 | 蓝发、鲸鳍、蓝白女仆、宽鲸尾 | 大肥鱼、白饭、Token；[《Let Me Go》](deepseek/music/Let-Me-Go-大肥鱼摸鱼歌.md)有多作者音乐／动画作品 |
 | [GPT / ChatGPT](gpt.md) | ZipZipPipe | 银白发、双龙角、浅紫膜翼、鳞尾 | 龙娘及与 DeepSeek 同框较明确；性格随作品变化 |
-| [Gemini](gemini.md) | ZipZipPipe | 蓝紫粉长发、猫耳猫尾、异色瞳、星饰 | 猫猫／哈基米有多来源；哈气属于用户调侃 |
+| [Gemini](gemini.md) | ZipZipPipe | 蓝紫粉长发、猫耳猫尾、异色瞳、星饰 | 猫猫／哈基米有多来源；哈气属于社区调侃 |
 | [Claude](claude.md) | ZipZipPipe | 橙红长发、花饰、米白黑橙长裙、书 | 封号梗有独立创作者用例；风纪委员是特定作品表达 |
 | [Grok](grok.md) | ZipZipPipe | 金色双马尾、黑蝠翼、黑红裙、X 巨斧 | 外形明确；统一人格证据不足 |
 | [GLM / 智谱](glm.md) | ZipZipPipe | 黑长发、黑白裙、Z、书、狐系母题 | 送鸡蛋／赠 Token 已定位；关系不套用单作家庭 |
