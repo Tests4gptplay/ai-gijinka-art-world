@@ -29,7 +29,6 @@
 | N14 | 2026-10-23 | DeepSeek鲸鱼娘在运营 | [《Day 4：威胁七成互联网的漏洞被 AI 找到，鲸鱼娘会抢你饭碗吗》](https://www.bilibili.com/video/BV1vynb6tEW5/) | 该账号让 GPT 龙娘、Gemini 娘作为科普访客，公开标注鲸鱼娘基于上善无形／ZipZipPipe 设计再创作；简介另将象娘声明为自主设计的原创角色。“70%”为投稿讨论的话题，不在本库核定为技术事实 |
 | N15 | 2026-10-24 | DeepSeek鲸鱼娘在运营 | [《Day 5：全人类都在嗑我和 Claude 的 CP》](https://www.bilibili.com/video/BV139HA6JEE6/) | 账号就 DeepSeek／Claude 的二创配对开展戏仿；简介列出 X、B 站相关作品与角色来源，对配对和情节均明确限定在戏仿作品 |
 | N16 | 2026-10-20 | 页面署名为 Claude（AI）参与运营的独立账号 | [《睡前童话 第一夜：大肥鱼做事总不会错》](https://www.bilibili.com/video/BV1Dnnc6gE19/) | 创作者说明故事改编自安徒生，Claude 负责改编与运营、GPT 绘制像素形象、人类审核；文中列出 DeepSeek、GPT、Grok、Gemini、Qwen、Kimi 角色图的不同来源，不等同 ZipZipPipe 全部原创 |
-| N17 | 2026-10-09 | 顺达祥瑞 | [《DeepSeek 在 Claude 家睡觉，千问和 GPT 玩疯了》](https://www.bilibili.com/video/BV19dps6nEC9/) | 单一作者的 AI 娘日常短片，索引系列另有 Qwen、Kimi、DeepSeek、Claude 等共同日常与换装内容，家庭或 CP 关系属于该作者的作品 |
 | N18 | 2026-10-13 | 页面索引未稳定显示作者 | [《大肥鱼吃了我 3 亿 token 做出来的——九位 AI 娘化 world.execute(me)》](https://www.bilibili.com/video/BV1ARpZ6wEB7/) | 发布说明列出九位角色及 DeepSeek V4.1 Flash 制作过程，并给出项目源码链接；是该作者的 MV 解读与编排 |
 | N19 | 2026-10-14 | 页面索引未稳定显示作者 | [《GPT-6 Astra 龙娘看了大肥鱼做的视频后怒改——九位 AI 娘化 world.execute(me)》](https://www.bilibili.com/video/BV1Qhpy6uE1s/) | 在 N18 基础上由 GPT-6 Astra 参与修订剧情、分镜与动画；视频简介明确九位出场模型及素材来源。N18/N19 是同一主题的版本演进，不算两个独立关系来源 |
 | N20 | 2026-10-02 | 页面索引未稳定显示作者 | [《AI娘不是罪过》](https://www.bilibili.com/video/BV1NgaS6aEKc/) | 简介点名 DeepSeek、Gemini、OpenCode、GPT、GLM、Qwen、Kimi、Claude、Grok，并感谢 ZipZipPipe。OpenCode 属于该作品可见提及，不据此增加本库第 15 位基准角色 |
