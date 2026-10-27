@@ -16,6 +16,7 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 |---|---|
 | 认识每个人物，找对应参考 | [14 位人物档案](characters/README.md) · [视觉图鉴总表](CHARACTER_ATLAS.md) |
 | 理解昵称、梗和人物关系 | [社区印象与关系](COMMUNITY_IMPRESSIONS.md) · [不同作者的世界线](WORLDVIEW_AND_FANON.md) |
+| 查看个人收藏的 GPT／Claude 歌曲 | [风霜秋雨作品收藏](个人喜好/音乐/风霜秋雨.md) |
 | 画得像所选角色，不串色串设定 | [视觉基准与错画对照](VISUAL_REFERENCE_NOTES.md) · [美术语言](ART_DIRECTION.md) |
 | 从立绘制作有真实动作的角色 | [桌宠动作资料说明](ANIMATION_REFERENCE.md) · [创作前核对](GENERATION_CHECKLIST.md) |
 | 查某条结论从哪里来 | [2026-10-27 增量台账](research/2026-10-27/SOURCE_LEDGER.md) · [2026-10-24 来源台账](research/2026-10-24/SOURCE_LEDGER.md) · [视频核对记录](research/2026-10-24/VIDEO_REVIEW.md) · [较早来源](SOURCES.md) |
