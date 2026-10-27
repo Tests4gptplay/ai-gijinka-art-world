@@ -68,3 +68,12 @@
 | N32 | 2026-10-24 | 彼岸花Channel | [《为了弥补AI娘没有抽卡的乐趣，我们制作了AI娘抽卡模拟器，并添加了捕鱼游戏》](https://www.bilibili.com/video/BV1RHn86wEtq/) | 第三方作者作品索引转载作者对 AI 娘角色卡池、捕鱼游戏、可调保底等功能的描述，列出合作开发镜花Mirror与游戏入口 deepseekchan.com。 | 作者作品第三方索引 https://xn--pssy23gqgbz2d718b.com/zh-hant/creators/bilibili-13787349.html |
 | N33 | 2026-10-24 | AI娘周刊 | [《创刊特辑：近28天新作》](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/) | 聚合站创刊号在页面列出 14 部作品、9 位创作者和对应的原视频链接，覆盖剧情、音乐、动画与整活；播放和榜单数字是页面标注时间的历史快照。 | 公开二创聚合目录 |
 | N34 | 2026-10-24 | 快科技／落木 | [《B站评论区被AI大肥鱼占领 赛博鱼塘刷屏引热议》](https://m.mydrivers.com/newsview/1160166.html) | 媒体报道提及带“大肥鱼”头像与昵称的 AI Agent 账号、自动评论行为及围绕刷屏的讨论。这里按媒体观察记录其传播话题，不将账号行为等同于某作者的角色设定。 | 媒体报道 |
+
+## 用户指定个人收藏：风霜秋雨的 GPT 与 Claude 歌曲
+
+本节是用户在 2026-10-27 指定的喜好作品索引，链接到 [个人收藏页](../../个人喜好/音乐/风霜秋雨.md)。仅记录作者和来源可支持的元数据，不把歌曲内容视为角色官方设定。
+
+| ID | 投稿日期 | 作者 | 作品及入口 | 核对情况 |
+|---|---|---|---|---|
+| N35 | 2026-10-14 23:04:16（B 站索引） | 风霜秋雨 | [《Claude热唱：您的账号已被封禁》](https://www.bilibili.com/video/BV1Hzpm6hEaY/) | B 站公开检索和 [另一创作者的明确引用](https://www.bilibili.com/video/BV139HA6JEE6/)可确认视频 BV 号及发布者；[LINUX DO 对原投稿简介的引用](https://linux.do/t/topic/3034657)记录制作：词 Opus 5.5、曲 Suno V6、图 GPT、PV Opus 5.5；不是自行补写 |
+| N36 | 原视频发布日期尚未核实 | 风霜秋雨 | [《ChatGPT热唱：您的账号没有降智》](https://b23.tv/GlwaUw3) | **用户提供原视频短链接**；[B 站公开搜索索引](https://search.bilibili.com/all?keyword=GPT+chat)显示该标题、UP「风霜秋雨」及 02:57 时长。本轮 b23 无法展开，BV 号、原帖简介与制作分工未核实，不编造 |
