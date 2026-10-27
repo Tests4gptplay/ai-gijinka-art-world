@@ -1,6 +1,6 @@
 # 已保存的图片材料
 
-本目录保存 **15 张图片**：12 张既有技术预览，另加 2026-10-25 用户提供的 3 张 DeepSeek 长短裙参考图。图片信息见 [manifest.json](manifest.json)，许可证与署名见 [RIGHTS.md](../RIGHTS.md)。
+本目录保存 **15 张图片**：12 张既有技术预览，另加 2026-10-25 3 张 DeepSeek 长短裙参考图。图片信息见 [manifest.json](manifest.json)，许可证与署名见 [RIGHTS.md](../RIGHTS.md)。
 
 ## DeepSeek 长短裙参考图
 
