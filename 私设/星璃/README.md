@@ -6,7 +6,7 @@
 
 ![星璃 · Stella 角色设定图](assets/stella-character-sheet.png)
 
-[完整角色图](assets/stella-character-sheet.png) · [形象设定与设计细节](形象设定.md) · [简短对话卡](对话卡.md)
+[完整角色图](assets/stella-character-sheet.png) · [创作设定全文](创作设定全文.md) · [形象设定与设计细节](形象设定.md) · [简短对话卡](对话卡.md)
 
 ## 人物设定
 
