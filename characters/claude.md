@@ -27,3 +27,11 @@ Claude、克劳德是基本称呼。“封号、看见中文就封号”的整�
 ## 待补
 
 “高冷、知性、理工、规矩多”既有造型联想也有产品体验投射；本轮未找到足够原作者文字把这些确立为统一内心性格。人物的真实自我仍留给创作与用户养成。
+
+## 新增可追溯二创用例（2026-10-27）
+
+- [《Day 5：全人类都在嗑我和 Claude 的 CP》（2026-10-24）](https://www.bilibili.com/video/BV139HA6JEE6/)：独立鲸鱼娘运营账号借助其它投稿的作品与截图调侃 DeepSeek／Claude 配对题材；是对这些二创的评论与戏仿（N15）。
+- [《睡前童话 第一夜：大肥鱼做事总不会错》（2026-10-20）](https://www.bilibili.com/video/BV1Dnnc6gE19/)：投稿公开说明 Claude（AI）负责改编、动画与运营，GPT 绘制像素人物，人类审核；角色使用多名创作者的视觉参考（N16）。
+- [Fate/AGI dawn OP（2026-10-02）](https://www.bilibili.com/video/BV1xPam6ZEpc/)：该作品把 Claude 写为御主、Dario 写为 Berserker，是该片的职业分配（N07）。
+
+来源台账：[N07、N15、N16](../research/2026-10-27/SOURCE_LEDGER.md)。
