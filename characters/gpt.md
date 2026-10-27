@@ -38,6 +38,8 @@ Astra、Luna、Codex 等名字出现在模型或粉丝语境中，不凭名字�
 - [这个刀子真甜《大肥鱼位置和我换换！》（2026-10-05）](https://www.bilibili.com/video/BV1n5HL6vEpB/)：GPT、GLM、DeepSeek 的 Q 版互动短剧，注明角色造型来源（N03）。
 - [《GPT-6 Astra 龙娘看了大肥鱼做的视频后怒改》（2026-10-14）](https://www.bilibili.com/video/BV1Qhpy6uE1s/)：作者说明 GPT-6 Astra 参与修订先前 DeepSeek 版本的剧情、分镜与动画（N19）。
 
-## 用户指定的音乐收藏
+## 已收录音乐作品
 
-[风霜秋雨《ChatGPT热唱：您的账号没有降智》](https://b23.tv/GlwaUw3)是用户明确选中的 GPT 主题歌曲，投稿作者由 B 站搜索结果印证。与同作者 [Claude《您的账号已被封禁》](https://www.bilibili.com/video/BV1Hzpm6hEaY/)一并收录于 [个人音乐喜好页](../个人喜好/音乐/风霜秋雨.md)，详见当日台账 N35、N36。此收藏不改变角色原作设定。
+**风霜秋雨 — [《ChatGPT热唱：您的账号没有降智》](gpt/music/风霜秋雨-您的账号没有降智.md)**
+
+原视频：[B 站](https://b23.tv/GlwaUw3)。本库用户选收的 GPT 主题歌曲，原帖和来源信息保存在 GPT 的音乐目录，来源台账编号 N36。
