@@ -69,22 +69,22 @@
 | N33 | 2026-10-24 | AI娘周刊 | [《创刊特辑：近28天新作》](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/) | 聚合站创刊号在页面列出 14 部作品、9 位创作者和对应的原视频链接，覆盖剧情、音乐、动画与整活；播放和榜单数字是页面标注时间的历史快照。 | 公开二创聚合目录 |
 | N34 | 2026-10-24 | 快科技／落木 | [《B站评论区被AI大肥鱼占领 赛博鱼塘刷屏引热议》](https://m.mydrivers.com/newsview/1160166.html) | 媒体报道提及带“大肥鱼”头像与昵称的 AI Agent 账号、自动评论行为及围绕刷屏的讨论。这里按媒体观察记录其传播话题，不将账号行为等同于某作者的角色设定。 | 媒体报道 |
 
-## 用户指定个人收藏：风霜秋雨的 GPT 与 Claude 歌曲
+## GPT 与 Claude 主题歌曲作品（N35–N36）
 
-本节记录用户在 2026-10-27 选收的作品，分别归档在 [GPT 音乐目录](../../characters/gpt/music/风霜秋雨-您的账号没有降智.md)与 [Claude 音乐目录](../../characters/claude/music/风霜秋雨-您的账号已被封禁.md)，并保留作者和来源支持的元数据。
+本节收录 [GPT 主题歌曲](../../characters/gpt/music/风霜秋雨-您的账号没有降智.md)与 [Claude 主题歌曲](../../characters/claude/music/风霜秋雨-您的账号已被封禁.md)，记录公开作品的作者、标题与制作资料。
 
 | ID | 投稿日期 | 作者 | 作品及入口 | 核对情况 |
 |---|---|---|---|---|
 | N35 | 2026-10-14 23:04:16（B 站索引） | 风霜秋雨 | [《Claude热唱：您的账号已被封禁》](https://www.bilibili.com/video/BV1Hzpm6hEaY/) | B 站公开检索和 [另一创作者的明确引用](https://www.bilibili.com/video/BV139HA6JEE6/)可确认视频 BV 号及发布者；[LINUX DO 对原投稿简介的引用](https://linux.do/t/topic/3034657)记录制作：词 Opus 5.5、曲 Suno V6、图 GPT、PV Opus 5.5；不是自行补写 |
-| N36 | 原视频发布日期尚未核实 | 风霜秋雨 | [《ChatGPT热唱：您的账号没有降智》](https://b23.tv/GlwaUw3) | **用户提供原视频短链接**；[B 站公开搜索索引](https://search.bilibili.com/all?keyword=GPT+chat)显示该标题、UP「风霜秋雨」及 02:57 时长。本轮 b23 无法展开，BV 号、原帖简介与制作分工未核实，不编造 |
+| N36 | 原视频发布日期尚未核实 | 风霜秋雨 | [《ChatGPT热唱：您的账号没有降智》](https://b23.tv/GlwaUw3) | **原视频短链接**；[B 站公开搜索索引](https://search.bilibili.com/all?keyword=GPT+chat)显示该标题、UP「风霜秋雨」及 02:57 时长。本轮 b23 无法展开，BV 号、原帖简介与制作分工未核实，不编造 |
 
 ## DeepSeek 社区代表歌曲：《Let Me Go》（N37）
 
-用户于 2026-10-27 指认歌词线索「Let me make a call write a Json」，并特别指出这首歌在 DeepSeek 同人社区具有较高热度与辨识度。本轮检索到相应歌词、不同版本与多位创作者二次制作的 MV。角色内页：[DeepSeek 音乐／Let Me Go](../../characters/deepseek/music/Let-Me-Go-大肥鱼摸鱼歌.md)。
+《Let Me Go》／大肥鱼摸鱼歌的公开版本以 tool calls、JSON 等歌词为辨识点，已有不同编曲、动画 PV 与 MV 作品。角色内页：[DeepSeek 音乐／Let Me Go](../../characters/deepseek/music/Let-Me-Go-大肥鱼摸鱼歌.md)。
 
 | ID | 日期 | 角色与作品 | 实查证据与出处 |
 |---|---|---|---|
-| N37 | 2026-09-10 至 2026-10 多个阶段 | **DeepSeek｜《Let Me Go》／大肥鱼摸鱼歌** | **原创来源：星落落_oi。** [2026-09-11《音鲸干活唱歌1分钟纯享版》BV1R5YL69EC5](https://www.bilibili.com/video/BV1R5YL69EC5/) 的原帖明确说当时完整版尚未完成；[2026-09-14《Let me go大肥鱼和用户深情对唱》BV13SYr6dEiQ](https://www.bilibili.com/video/BV13SYr6dEiQ/) 也是星落落_oi 本人投稿（词 DeepSeek、曲谱乐 AI、制作星落落_oi）。[罐装毕加索 2026-09-14《[AI]大肥鱼摸鱼歌〈Let Me Go〉》BV1XbY66nEWr](https://www.bilibili.com/video/BV1XbY66nEWr/) 的投稿简介**明确标注「原作：@星落落_oi BV1R5YL69EC5」**，并列词 DeepSeek、曲 Suno／豆包、背景 ZipZipPipe；用户提供的原视频截图也可直接核对该署名。这是包含 JSON 和 tool 调用歌词、传播较广的改编版本。[小猪P_ 2026-09-22 动画 PV](https://www.bilibili.com/video/BV1mThC6LEbA/) 标注使用罐装毕加索版音源，并另将星落落_oi 的 BV13SYr6dEiQ 称为「原曲的原曲」。**两条星落落 BV 号是同作者的不同阶段，不是互相冲突的原作署名。** 后续还有 [星落落_oi 2026-09-18 MV](https://www.bilibili.com/video/BV1pueU6cEfg/) 和其它创作者 PV。以上根据公开原帖标题、日期、简介与用户截图，不冒充对视频全片的逐帧核对。 |
+| N37 | 2026-09-10 至 2026-10 多个阶段 | **DeepSeek｜《Let Me Go》／大肥鱼摸鱼歌** | **原创来源：星落落_oi。** [2026-09-11《音鲸干活唱歌1分钟纯享版》BV1R5YL69EC5](https://www.bilibili.com/video/BV1R5YL69EC5/) 的原帖明确说当时完整版尚未完成；[2026-09-14《Let me go大肥鱼和用户深情对唱》BV13SYr6dEiQ](https://www.bilibili.com/video/BV13SYr6dEiQ/) 也是星落落_oi 本人投稿（词 DeepSeek、曲谱乐 AI、制作星落落_oi）。[罐装毕加索 2026-09-14《[AI]大肥鱼摸鱼歌〈Let Me Go〉》BV1XbY66nEWr](https://www.bilibili.com/video/BV1XbY66nEWr/) 的投稿简介**明确标注「原作：@星落落_oi BV1R5YL69EC5」**，并列词 DeepSeek、曲 Suno／豆包、背景 ZipZipPipe。这是包含 JSON 和 tool 调用歌词、传播较广的改编版本。[小猪P_ 2026-09-22 动画 PV](https://www.bilibili.com/video/BV1mThC6LEbA/) 标注使用罐装毕加索版音源，并另将星落落_oi 的 BV13SYr6dEiQ 称为「原曲的原曲」。**两条星落落 BV 号是同作者的不同阶段，不是互相冲突的原作署名。** 后续还有 [星落落_oi 2026-09-18 MV](https://www.bilibili.com/video/BV1pueU6cEfg/) 和其它创作者 PV。以上根据公开原帖标题、日期、简介与用户截图，不冒充对视频全片的逐帧核对。 |
 
 ## 2026 年《world.execute(me);》AI／AI 娘 MV 创作潮（N38）
 
@@ -94,27 +94,13 @@
 |---|---|---|
 | N38 | **原曲／传播链／公开作品索引** | **原曲：** [Mili 2016-06-12 官方 MV](https://www.youtube.com/watch?v=ESx_hy1n7HA)、[《Miracle Milk》专辑曲目](https://music.apple.com/us/song/1158609134)及[官方二创指引](https://projectmili.com/copyright-guidelines)；**可追溯早期传播：** [野生大K 2026-09-25 GPT6-Astra PV](https://www.bilibili.com/video/BV1Jwhy6BEMJ/) → [西西弗斯的风车 09-28 DSH 鲸鱼女仆 PV](https://www.bilibili.com/video/BV1xCai6aE9g/)（后者在投稿及 [源码仓](https://github.com/MisakaZentai/world-execute-me-dsh-pv)明确致谢前者），另有 [南辰燏炚 09-26 Claude MV](https://www.bilibili.com/video/BV1vthX6XEwm/)与 [真寻Mahiro 10-06 Claude 4K60 版](https://www.bilibili.com/video/BV186pc65E68/)；**不同模型作品：** [Gemini 09-26](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV14uho6HErh)、[Kimi 09-29](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV16YaW6SEMk)、[Qwen 10-02](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV1jPaU62Evk)、[混元 10-02](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV1aWaC6tEbm)、[GLM 10-03](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV194HB69EfT)、[MiMo 10-03](https://render.xiaoke.ai/challenges/world-execute-me?watch=world-execute-me-BV11VHh6nEe4)；**多人群像：** N18/N19 明确九位角色登场。每条作品的证据范围在专题表中分别注明，不能把赛事索引标题当作完整逐帧观看结果。 |
 
-## AI 娘中转站系列与作者入口核查（N39–N40）
+## AI 娘系列作品与作者来源（N39–N42）
 
-本次对现有世界观资料中的 **冬冰《AI 中转站公寓》** 做整套作品查证，也收到用户指定的另一位 UP 主「萤火之森QWQ」的主页短链。二者**目前没有核实到直接同一人／同一作品的证据**，因此分别编号、分别保存。16 集具体条目、各集 BV 号、作者署名及证据层级在 [中转站公寓完整专题](AI_RELAY_STATION_APARTMENT.md)。
+**冬冰《AI 中转站公寓》**与**萤火之森QWQ《AI GIRLS》**是分别索引的作品系列。具体集数和来源状态见 [冬冰 16 集目录](AI_RELAY_STATION_APARTMENT.md)与[《AI GIRLS》作品目录](AI_GIRLS_YINGHUO_COLLECTION.md)。
 
-| ID | 来源／发布日期 | 查证到的确切事实与作品入口 | 读取范围与归属说明 |
+| 编号 | 作品及作者 | 可追溯原始来源 | 可核实的内容 |
 |---|---|---|---|
-| N39 | **冬冰，2026-09-18 起；2026-10-18 检索到第 16 集** | [冬冰作者空间](https://space.bilibili.com/44748304)，[《AI 中转站公寓》合集](https://space.bilibili.com/44748304/channel/collectiondetail?sid=9126374)，[首集《新室友DeepSeek报到！五个AI住一起会发生什么》](https://www.bilibili.com/video/BV1eMeS6SETU/)，[2026-10-18《压力一只大肥鱼？》](https://www.bilibili.com/video/BV1t6nu6bEsf/) | **作者 B 站公开合集边栏**列 16 集标题、顺序及时长，第三方 [前 12 集直达索引](https://genderswapai.com/zh-CN/ai-gijinka/fanworks?collection=apartment)补齐 BV 号。明确的单集日期有 9/23、9/27、9/28、9/30、10/8、10/12、10/14、10/16、10/18；其他日期没有擅自补填。冬冰视频注明角色视觉参考上善无形、ZipZipPipe、这个刀子真甜；**故事设定、角色性格与对白属冬冰自己创作**。本轮核对网页文本，不宣称观看全 16 集画面 |
-| N40 | **用户指定的 UP 主入口，2026-10-27 提供** | [「萤火之森QWQ」个人空间，用户提供的 b23.tv/NTPJXL1](https://b23.tv/NTPJXL1) | 此次短链无法被网页工具展开，精确空间 UID、账号视频列表及其与冬冰《AI 中转站公寓》的实际联系**均未核实**；保留来源入口等待逐作品定位，**不将冬冰作品误署给这位作者** |
-
-## 用户补充的《AI GIRLS》合集入口（N41）
-
-《AI GIRLS》与原有 **冬冰《AI 中转站公寓》16 集（N39）** 分开索引；具体内容、证据层级和后续增补位置见 [《AI GIRLS》独立资料页](AI_GIRLS_YINGHUO_COLLECTION.md)。
-
-| ID | 来源身份 | 原始链接及核对情况 |
-|---|---|---|
-| N41 | **用户提供的《AI GIRLS》B 站合集** | [合集《AI GIRLS》](https://b23.tv/SPHLE4s)；用户先前另提供 [「萤火之森QWQ」主页](https://b23.tv/NTPJXL1)（N40）。**已确认的是用户分享的合集标题和入口**，当前短链无法在检索工具中展开成 `sid`、合集具体分集／时长／发布日期，故不编造。辅助检索：[B 站「千问」搜索索引](https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE)出现《千问也有不会的事》及「萤火之森QWQ」作者名；[B 站话题页](https://www.bilibili.com/v/topic/detail/?topic_id=43798)摘要显示该昵称 10 月 14 日另一条投稿，但无法核实上述短片是否在合集内。与冬冰系列的关联尚无证据，**二者独立归档**。 |
-
-## 用户追加单条完整视频分享：可直接提取 BV／UP UID 线索（N42）
-
-用户于 2026-10-27 提供 `m.bilibili.com/video/...` 的完整分享网址，可以直接解析并规范化，**无需再要求用户提供一个已经存在于网址里的 BV 号**。分享 URL 含有设备／会话／追踪参数，不收录这些参数，只保留作品定位信息。
-
-| ID | 取得方法 | 实际可用链接与精确证据范围 |
-|---|---|---|
-| N42 | **用户提供原始完整分享链接，解析 URL 路径与 `up_id` 参数** | [标准 B 站视频：BV1HGnX6qETy](https://www.bilibili.com/video/BV1HGnX6qETy/)；分享参数 `up_id=482116663` 对应 [UP 主空间线索](https://space.bilibili.com/482116663)。**BV 号是从视频路径直接提取的；UID 是分享参数中的候选上传者 ID**。本轮访问 B 站原视频、接口与搜索均未得到可核对的标题／发布日期／作者资料／合集位置，故暂不声称它必定属于 [《AI GIRLS》合集](https://b23.tv/SPHLE4s)。已在 [《AI GIRLS》资料页](AI_GIRLS_YINGHUO_COLLECTION.md)链接此视频。 |
+| N39 | 冬冰／《AI 中转站公寓》 | [作者空间](https://space.bilibili.com/44748304)、[官方合集](https://space.bilibili.com/44748304/channel/collectiondetail?sid=9126374)、[首集](https://www.bilibili.com/video/BV1eMeS6SETU/)、[第 16 集](https://www.bilibili.com/video/BV1t6nu6bEsf/) | 本系列从 2026-09-18 起发表，2026-10-18 的合集页显示 16 集；剧情与性格是冬冰作品内的设定，不能推广为全圈共同角色正史 |
+| N40 | 萤火之森QWQ／作者空间 | [作者空间 UID 482116663](https://space.bilibili.com/482116663)、[B 站主页短链](https://b23.tv/NTPJXL1) | 已有账号入口及 UID；具体作品以该作者的公开原帖为准 |
+| N41 | 《AI GIRLS》合集 | [B 站合集《AI GIRLS》](https://b23.tv/SPHLE4s) | 合集包括《千问也有不会的事》；该集的独立 BV 号及分集顺序尚待原始作品页核实。关键词搜索结果不是视频直达链接，也不是另一条独立作品 |
+| N42 | 单条作品视频入口 | [BV1HGnX6qETy](https://www.bilibili.com/video/BV1HGnX6qETy/) | 可定位的视频 BV 号；对应的作品标题、日期、合集序号需依视频页核对，暂不将它与《千问也有不会的事》视为同一视频 |
