@@ -35,3 +35,7 @@ Claude、克劳德是基本称呼。“封号、看见中文就封号”的整�
 - [Fate/AGI dawn OP（2026-10-02）](https://www.bilibili.com/video/BV1xPam6ZEpc/)：该作品把 Claude 写为御主、Dario 写为 Berserker，是该片的职业分配（N07）。
 
 来源台账：[N07、N15、N16](../research/2026-10-27/SOURCE_LEDGER.md)。
+
+## 用户指定的音乐收藏
+
+[风霜秋雨《Claude热唱：您的账号已被封禁》](https://www.bilibili.com/video/BV1Hzpm6hEaY/)已被用户列为个人喜好，并与同作者的 GPT 歌曲 [《您的账号没有降智》](https://b23.tv/GlwaUw3)集中整理在 [个人音乐收藏页](../个人喜好/音乐/风霜秋雨.md)。制作署名与证据链详见当日台账 N35、N36；不据歌曲题材追加统一人格。
