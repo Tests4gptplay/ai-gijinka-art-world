@@ -77,3 +77,11 @@
 |---|---|---|---|---|
 | N35 | 2026-10-14 23:04:16（B 站索引） | 风霜秋雨 | [《Claude热唱：您的账号已被封禁》](https://www.bilibili.com/video/BV1Hzpm6hEaY/) | B 站公开检索和 [另一创作者的明确引用](https://www.bilibili.com/video/BV139HA6JEE6/)可确认视频 BV 号及发布者；[LINUX DO 对原投稿简介的引用](https://linux.do/t/topic/3034657)记录制作：词 Opus 5.5、曲 Suno V6、图 GPT、PV Opus 5.5；不是自行补写 |
 | N36 | 原视频发布日期尚未核实 | 风霜秋雨 | [《ChatGPT热唱：您的账号没有降智》](https://b23.tv/GlwaUw3) | **用户提供原视频短链接**；[B 站公开搜索索引](https://search.bilibili.com/all?keyword=GPT+chat)显示该标题、UP「风霜秋雨」及 02:57 时长。本轮 b23 无法展开，BV 号、原帖简介与制作分工未核实，不编造 |
+
+## DeepSeek 社区代表歌曲：《Let Me Go》（N37）
+
+用户于 2026-10-27 指认歌词线索「Let me make a call write a Json」，并特别指出这首歌在 DeepSeek 同人社区具有较高热度与辨识度。本轮检索到相应歌词、不同版本与多位创作者二次制作的 MV。角色内页：[DeepSeek 音乐／Let Me Go](../../characters/deepseek/music/Let-Me-Go-大肥鱼摸鱼歌.md)。
+
+| ID | 日期 | 角色与作品 | 实查证据与出处 |
+|---|---|---|---|
+| N37 | 2026-09 至 2026-10 的多版作品 | **DeepSeek｜《Let Me Go》／大肥鱼摸鱼歌** | [罐装毕加索歌曲版，2026-09-14](https://www.bilibili.com/video/BV1XbY66nEWr/)公开简介载有 `I'm making the calls, let me write the JSON` 对应歌词，署名原作星落落_oi（BV1R5YL69EC5）、词 DeepSeek、曲 Suno／豆包、视觉参考 ZipZipPipe；[小猪P_ 动画 PV，2026-09-22](https://www.bilibili.com/video/BV1mThC6LEbA/)引用罐装毕加索音乐，且将另一个 BV 号 BV13SYr6dEiQ 归于星落落_oi，故保留原帖之间的署名线索差别；[星落落_oi 自制 MV，2026-09-18](https://www.bilibili.com/video/BV1pueU6cEfg/)另列 Seedance 2.0／谱乐 AI 作曲、是劲劲子动画支持。歌曲与 PV 的网页检索索引分别曾显示 30 万与 40 万以上播放，另有 [gpt dot 版](https://www.bilibili.com/video/BV1VLHE6hEWt/)、[Claude Opus 5.5 动画版](https://www.bilibili.com/video/BV1C7h16jEHJ/)等二创，支持“在圈内较受关注的代表性二创歌曲”表述。实际证据是公开页面标题、日期、简介和检索快照；没有完整观看视频或复制音频／歌词全文。 |
