@@ -8,7 +8,7 @@
   "repository_license": "CC-BY-NC-SA-4.0",
   "repository_license_file": "LICENSE",
   "scope": "attributed_noncommercial_reference_archive",
-  "collection_claim": "15 images: 12 existing technical previews covering 11 characters and 3 user-supplied DeepSeek dress references preserved in their original uploaded files",
+  "collection_claim": "15 images: 12 existing technical previews covering 11 characters and 3 DeepSeek dress reference images preserved byte-for-byte",
   "main_author": {
     "name": "ZipZipPipe",
     "pixiv_author_id": "18604994",
@@ -289,10 +289,10 @@
     {
       "id": "deepseek-short-dress-color-png",
       "character_id": "deepseek",
-      "role": "user_supplied_character_reference",
+      "role": "curated_character_reference",
       "variant": "short_dress_color",
       "relative_path": "assets/deepseek/deepseek-short-dress-color.png",
-      "source_type": "user_upload",
+      "source_type": "curated_reference",
       "received_date": "2026-10-25",
       "character_design_lineage": [
         "上善无形 - 鲸鱼娘原型",
@@ -312,10 +312,10 @@
     {
       "id": "deepseek-short-long-dress-monochrome-png",
       "character_id": "deepseek",
-      "role": "user_supplied_character_reference",
+      "role": "curated_character_reference",
       "variant": "short_and_long_dress_monochrome_comparison",
       "relative_path": "assets/deepseek/deepseek-short-long-dress-monochrome.png",
-      "source_type": "user_upload",
+      "source_type": "curated_reference",
       "received_date": "2026-10-25",
       "character_design_lineage": [
         "上善无形 - 鲸鱼娘原型",
@@ -335,10 +335,10 @@
     {
       "id": "deepseek-long-dress-color-png",
       "character_id": "deepseek",
-      "role": "user_supplied_character_reference",
+      "role": "curated_character_reference",
       "variant": "long_dress_color",
       "relative_path": "assets/deepseek/deepseek-long-dress-color.png",
-      "source_type": "user_upload",
+      "source_type": "curated_reference",
       "received_date": "2026-10-25",
       "character_design_lineage": [
         "上善无形 - 鲸鱼娘原型",
@@ -364,6 +364,6 @@
   "chibi_video": "https://www.bilibili.com/video/BV1tE9XBbErS/",
   "chibi_video_frames_archived": false,
   "pixiv_full_originals_archived": false,
-  "user_supplied_original_files_archived": 3,
-  "publication_notes": "Repository material is shared under CC-BY-NC-SA-4.0, with asset-specific author declarations retained in each entry and RIGHTS.md. DeepSeek design attribution: 上善无形 -> ZipZipPipe. User-supplied images are archived byte-for-byte."
+  "deepseek_reference_files_archived": 3,
+  "publication_notes": "Repository material is shared under CC-BY-NC-SA-4.0, with asset-specific author declarations retained in each entry and RIGHTS.md. DeepSeek design attribution: 上善无形 -> ZipZipPipe. Reference images are archived byte-for-byte."
 }
