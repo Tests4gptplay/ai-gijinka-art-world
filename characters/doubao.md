@@ -25,3 +25,9 @@ shuaizenge 固定版本将 p10 标成 Gemini 变体；SelinLee 的固定 manifes
 ## 用于设计的建议，不是原设
 
 运动服和标记可形成更轻快的工作、招手姿态。先保留发束形状、服装剪裁与 SEED 识别物；额外加芽苗、换学生制服等属于新设计，不当作原作还原。
+
+## 新增九人群像作品线索（2026-10-27）
+
+[《九位 AI 娘化 world.execute(me);》（2026-10-13）](https://www.bilibili.com/video/BV1ARpZ6wEB7/) 与 [GPT-6 Astra 修订版（2026-10-14）](https://www.bilibili.com/video/BV1Qhpy6uE1s/) 的公开简介均列出“豆包”为九位登场形象之一，并列出素材来源（N18–N19）。本条只记录出场名称，不根据未逐帧核对的画面来裁决本档案既有的 Pixiv p10 标签冲突。
+
+来源台账：[N18–N19](../research/2026-10-27/SOURCE_LEDGER.md)。
