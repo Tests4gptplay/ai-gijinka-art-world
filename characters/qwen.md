@@ -27,3 +27,11 @@ ZipZipPipe p12／第 13 张，原视频 53 秒可核对：蓝紫长发与编发�
 ## 待补
 
 作者是否另有明确性格文字尚未确认；大小姐称呼只作外界印象。多视图和动作仍需要逐项定位。
+
+## 新增创作者作品用例（2026-10-27）
+
+- [《Fate/AGI dawn》OP1（2026-10-02）](https://www.bilibili.com/video/BV1xPam6ZEpc/)：作者在作品简介中把 Qwen 归为“第四代 Archer”，这是该作品的阵营设定（N07）。
+- [顺达祥瑞的多模型娘日常（2026-10-09）](https://www.bilibili.com/video/BV19dps6nEC9/)：标题直接出现千问、GPT、DeepSeek 和 Claude 的同场日常（N17）。
+- [《请选择你的AI阵营》](https://www.bilibili.com/video/BV1EehB6pEJ9)：其 Qwen 阵营海报由 [日本作者灯里在 Zenn 文章中引述](https://zenn.dev/akari1106/articles/45121eea6105d1)；属于 Justin-Yao 的独立阵营海报，不是通用人物背景（N08–N09）。
+
+来源台账：[N07–N09、N17](../research/2026-10-27/SOURCE_LEDGER.md)。
