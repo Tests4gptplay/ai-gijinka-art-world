@@ -16,6 +16,7 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 |---|---|
 | 认识每个人物，找对应参考 | [14 位人物档案](characters/README.md) · [视觉图鉴总表](CHARACTER_ATLAS.md) |
 | 理解昵称、梗和人物关系 | [社区印象与关系](COMMUNITY_IMPRESSIONS.md) · [不同作者的世界线](WORLDVIEW_AND_FANON.md) |
+| 查 AI 娘中转站／《AI GIRLS》系列 | [冬冰《AI 中转站公寓》16 集](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) · [《AI GIRLS》独立合集索引](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) |
 | 查《world.execute(me);》AI 制作 MV 热潮 | [世界观里的创作潮与模型对照](WORLDVIEW_AND_FANON.md) · [完整起因、时间线与各模型 MV 列表](research/2026-10-27/WORLD_EXECUTE_ME_MV_WAVE.md) |
 | 查看已收录的角色歌曲 | [DeepSeek《Let Me Go》](characters/deepseek/music/Let-Me-Go-大肥鱼摸鱼歌.md) · [GPT《您的账号没有降智》](characters/gpt/music/风霜秋雨-您的账号没有降智.md) · [Claude《您的账号已被封禁》](characters/claude/music/风霜秋雨-您的账号已被封禁.md) |
 | 画得像所选角色，不串色串设定 | [视觉基准与错画对照](VISUAL_REFERENCE_NOTES.md) · [美术语言](ART_DIRECTION.md) |
