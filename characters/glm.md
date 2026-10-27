@@ -27,3 +27,10 @@ ZipZipPipe p06／第 7 张。黑色长发、黑白层叠长裙、书本、头饰
 ## 待补
 
 耳尾在不同基准图中的具体结构和视角仍应继续核图；没有证据的固定人格保持开放。
+
+## 新增独立作品用例（2026-10-27）
+
+- [这个刀子真甜《大肥鱼位置和我换换！》（2026-10-05）](https://www.bilibili.com/video/BV1n5HL6vEpB/)：作品描述 GPT、GLM 和 DeepSeek 的互动，并明确标注 GLM 角色造型来自 ZipZipPipe（N03）。
+- [《Fate/AGI dawn》OP1（2026-10-02）](https://www.bilibili.com/video/BV1xPam6ZEpc/)：简介把 GLM 对应为 Caster。此身份是该作者作品内的设定（N07）。
+
+来源台账：[N03、N07](../research/2026-10-27/SOURCE_LEDGER.md)。
