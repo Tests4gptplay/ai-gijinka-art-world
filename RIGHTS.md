@@ -21,7 +21,7 @@ DeepSeek 的形象创作遵循 CC BY-NC-SA 4.0。请保留两位创作者的署�
 - [ZipZipPipe DeepSeek 二创许可动态](https://t.bilibili.com/1231980045693616162)
 - [ZipZipPipe《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/)
 
-2026-10-25 收录的三张图由用户提供，原样保存在 [assets/deepseek](assets/deepseek/)：短裙彩色立绘、长短裙黑白对照、长裙彩色立绘。图片展示见 [DeepSeek 人物档案](characters/deepseek.md#长短裙参考图)，尺寸、文件大小和 SHA-256 见 [素材清单](assets/manifest.json)。
+2026-10-25 收录的三张参考图保存在 [assets/deepseek](assets/deepseek/)：短裙彩色立绘、长短裙黑白对照、长裙彩色立绘。图片展示见 [DeepSeek 人物档案](characters/deepseek.md#长短裙参考图)，尺寸、文件大小和 SHA-256 见 [素材清单](assets/manifest.json)。
 
 ## 其他素材的作者与来源
 
