@@ -8,8 +8,6 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 
 本库研究已存在的 AI 拟人化作品，以 ZipZipPipe 的《大AI和小AI们》和《AI娘化》等作为主要视觉基准，另行注明其他作者的作品。这里不是某一厂商的官方人设，也不把各位创作者的剧情拼成唯一正史。
 
-**Support / 赞助：** [GitHub Sponsors](https://github.com/sponsors/Tests4gptplay) · [Ko-fi](https://ko-fi.com/kou392350) · [Patreon](https://www.patreon.com/cw/Kou848) · [爱发电 / Afdian](https://afdian.com/a/kkt_ifd1) · [支付宝 / Alipay](SPONSOR.md)
-
 ## 从哪里开始
 
 **先读 [资料导读 READ_FIRST.md](READ_FIRST.md)。** 日常认人、画图和写对话可以先在库内完成查阅；有新增角色、换装、争议或资料缺项时，再针对那一项查外站。
@@ -65,3 +63,7 @@ Pixiv p10 存在第三方索引冲突：一处称 Gemini 变体，另一处归�
 ## 许可证与署名
 
 本仓库采用 [CC BY-NC-SA 4.0](LICENSE)。分享和改编时请保留作者与来源、注明修改，按非商业性使用和相同方式共享的条件发布。DeepSeek 的角色设计署名为**上善无形 → ZipZipPipe**；其他外部素材保留各自条目中的作者与许可说明，详见 [RIGHTS.md](RIGHTS.md)。
+
+## 支持项目 / Support
+
+[GitHub Sponsors](https://github.com/sponsors/Tests4gptplay) · [Ko-fi](https://ko-fi.com/kou392350) · [Patreon](https://www.patreon.com/cw/Kou848) · [爱发电 / Afdian](https://afdian.com/a/kkt_ifd1) · [支付宝 / Alipay](SPONSOR.md)
