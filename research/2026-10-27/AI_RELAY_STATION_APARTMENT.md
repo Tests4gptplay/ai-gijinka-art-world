@@ -60,7 +60,7 @@
 
 ## 另一条作品入口：《AI GIRLS》合集
 
-[萤火之森QWQ](https://space.bilibili.com/482116663) 的[《AI GIRLS》合集](https://b23.tv/SPHLE4s)另有独立资料：[作品索引](AI_GIRLS_YINGHUO_COLLECTION.md)。合集包含《千问也有不会的事》；对应的单集 BV 尚待定位，不能用关键词搜索页面代替。另有 [BV1HGnX6qETy](https://www.bilibili.com/video/BV1HGnX6qETy/) 可单独定位，但未核实视频标题及在合集中的顺序。两套作品的剧情与创作归属分别记录。
+[萤火之森QWQ](https://space.bilibili.com/482116663) 的[《AI GIRLS》合集](https://space.bilibili.com/482116663/lists/9320273?type=season)另有[33 条作品索引与实看记录](AI_GIRLS_YINGHUO_COLLECTION.md)。2026-10-31 已补齐：[《千问也有不会的事》BV1iKHN6FEpr](https://www.bilibili.com/video/BV1iKHN6FEpr/)为画内第 26 话、合集第 27 条；[BV1HGnX6qETy](https://www.bilibili.com/video/BV1HGnX6qETy/)是《这家早餐店的老板好眼熟》，画内第 29 话、合集第 30 条，并非千问篇。两套作品的剧情与创作归属分别记录。
 
 ## 证据身份与使用
 

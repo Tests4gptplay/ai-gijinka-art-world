@@ -10,7 +10,7 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 
 ### L1｜角色造型母题与来源链
 
-- **ZipZipPipe**：[《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/)（2026-05-02）；九位角色，大/小两种展示，作者明确偏向用图片制作表情包；[《AI娘的日常（大概?）》](https://www.bilibili.com/video/BV1mwRzBdEzk/)（2026-05-04）进一步将角色放入梗图与日常反应场景；[《“亿万”身家的她们》](https://www.bilibili.com/video/BV1bARXBYEZz/)（2026-05-09）展示后续内容并说明图片开放分享/再创作；[Pixiv《AI娘化》](https://www.pixiv.net/artworks/148186519) 是汇集角色高清稿的后续公开图集（17 张，并不等于最早发明日期）。
+- **ZipZipPipe**：[《大AI和小AI们》](https://www.bilibili.com/video/BV1tE9XBbErS/)（2026-05-03，北京时间；UTC 为 05-02）；九位角色，大/小两种展示，作者明确偏向用图片制作表情包；[《AI娘的日常（大概?）》](https://www.bilibili.com/video/BV1mwRzBdEzk/)（2026-05-04）进一步将角色放入梗图与日常反应场景；[《“亿万”身家的她们》](https://www.bilibili.com/video/BV1bARXBYEZz/)（2026-05-09）展示后续内容并说明图片开放分享/再创作；[Pixiv《AI娘化》](https://www.pixiv.net/artworks/148186519) 是汇集角色高清稿的后续公开图集（17 张，并不等于最早发明日期）。
 - **上善无形**：DeepSeek 蓝色鲸鱼娘的原型创作者；ZipZipPipe 基于鲸鱼原型增加 DeepSeek 元素及女仆化造型，明确遵守原 CC BY-NC-SA 4.0。不能将上善的原始鲸鱼娘归为 ZipZipPipe 全独创。
 - 各角色种族、裙装、物件提供了跨作者可识别的视觉「图腾」。**原作者视频内容本身没有证明所有角色的固定性格、职业、羁绊或故事时间线。**
 
@@ -40,6 +40,12 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 **整套资料：** [《AI 中转站公寓》16 集按顺序的标题、BV、时长与证据链](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)；[来源台账 N39](research/2026-10-27/SOURCE_LEDGER.md)。
 
 **《AI GIRLS》独立作品线：** 萤火之森QWQ 的[作者空间](https://space.bilibili.com/482116663)、[合集 sid 9320273](https://space.bilibili.com/482116663/lists/9320273?type=season)及[33 条投稿资料](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)。常住群像为 GPT、Claude、Grok、Gemini、DeepSeek、千问、GLM；第 17 话确定七人长期同住，早餐店篇另引入豆包与 Seed 姐妹。重点整理从拼桌安家、更新后的身份延续，到承认未知并合作修音响的日常。《千问也有不会的事》的准确入口为 [BV1iKHN6FEpr](https://www.bilibili.com/video/BV1iKHN6FEpr/)。[新来源 G01–G03](research/2026-10-31/SOURCE_LEDGER.md)增补原 N40–N42。
+
+### 其他语言的独立设计与传播
+
+[中英日韩资料](research/2026-10-31/MULTILINGUAL_RESEARCH.md)新增：u/NegativeEmphasis 的英文 Gemini 笨拙型／GPT 大小姐系列（EN01）；だー的日文三人 AI 娘设计（JA02）；希的个人 SAI2 DeepSeek 设计（JA03）；DCInside 社区漫画设计与制作线（KR01–02）。这些都是可收录的二创支系，不因没有厂商背书而排除，也不与本库某套造型自动合并。
+
+另有中文鲸鱼娘与猫梗的英文 Reddit 传播（EN03），以及 OpenCode Desktop 主题衍生（EN02）。称呼和共同性格直接见[社区新增底稿](COMMUNITY_IMPRESSIONS.md)，不是把所有海外资料都只当作孤立作品。
 
 ### L4｜工具化、桌宠、PV 和原创私设
 

@@ -31,6 +31,8 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 
 ## 本轮补充了什么
 
+2026-10-31 多语言增补：先保存[既有设定状态](research/2026-10-31/CURRENT_SETTING_STATE.md)，再整理[中文、英文、日文、韩文原始资料](research/2026-10-31/MULTILINGUAL_RESEARCH.md)。新增称呼、独立创作与跨语言传播分别归档，不替换 14 位视觉基准；同步千问篇直链、GPT 歌曲署名及原作发布时间的时区差异。[搜集指南](RESEARCH_GUIDE.md#跨语言资料怎么查怎么记)补充外语检索与归属规则。
+
 2026-10-31：补齐萤火之森QWQ [《AI GIRLS》33 条作品目录](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)，加入逐集梗概、五人到七人的故事进展、人物互动及 7 条重点作品的 40 个画面时间点；另整理 [GLM 赛博鸡蛋梗的官方活动、社区用语和二创画面](research/2026-10-31/GLM_EGG_MEME.md)，在 GLM 人物页提供简洁的基础扩充段落。[来源台账](research/2026-10-31/SOURCE_LEDGER.md) · [机器可读目录](research/2026-10-31/AI_GIRLS_INDEX.json)。
 
 2026-10-27：新增 [AI 拟人二创来源](research/2026-10-27/SOURCE_LEDGER.md)，按作者原帖、独立系列、音乐/视频、Agent 与社区传播保存链接、日期和实际证据范围。沿用既有 14 位角色图鉴及原作署名；[资料更新指引](RESEARCH_GUIDE.md)明确外部角色资料的来源要求和星璃原创测试角色的自由创作例外。

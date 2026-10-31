@@ -5,7 +5,7 @@
 | ID | 来源 | 类别 | 可以支持的事实 | 限制 |
 |---|---|---|---|---|
 | Z01 | [ZipZipPipe B 站空间](https://space.bilibili.com/4168597) | 作者身份 | 《大AI和小AI们》等作品的作者页入口 | 主页数据随时间变化 |
-| Z02 | [《大AI和小AI们》 BV1tE9XBbErS](https://www.bilibili.com/video/BV1tE9XBbErS/) | **A 原作者视频** | 2026-05-02；九款出现顺序；大 AI / 小 AI；DeepSeek 原型署名 | 视频标注未经授权禁止转载；本库不复制视频帧 |
+| Z02 | [《大AI和小AI们》 BV1tE9XBbErS](https://www.bilibili.com/video/BV1tE9XBbErS/) | **A 原作者视频** | 2026-05-03 北京时间（UTC 05-02，后续已核原帖 pubdate）；九款出现顺序；大 AI / 小 AI；DeepSeek 原型署名 | 视频标注未经授权禁止转载；本库不复制视频帧 |
 | Z03 | [《AI娘的日常》 BV1mwRzBdEzk](https://www.bilibili.com/video/BV1mwRzBdEzk/) | **A 原作者视频** | 2026-05-04；梗图/日常，网络/模型/公司体验梗 | 梗非作者统一人格设定 |
 | Z04 | [《“亿万”身家的她们》 BV1bARXBYEZz](https://www.bilibili.com/video/BV1bARXBYEZz/) | **A 原作者视频** | 2026-05-09；作者述及图片开放分享并允许再创作 | 视频本体「未经授权禁止转载」与图像许可有别 |
 | Z05 | [《AI娘化》 Pixiv #148186519](https://www.pixiv.net/artworks/148186519) | **B 作者高清图合集** | 作者 ID 18604994；17 图；GPT p03 / Qwen p12 等；署名与非商用；DeepSeek 单独适用 CC | 本轮直接打开 Pixiv 受限制，页码/声明由已保存证据复核 |

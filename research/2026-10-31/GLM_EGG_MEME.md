@@ -36,7 +36,7 @@
 | [萤火之森QWQ《凌晨三点来了个客人》，2026-10-17，01:00](https://www.bilibili.com/video/BV1ZYJa6BEq8/?t=60) | 实看 GLM 递给 Claude 的是鸡蛋，气泡直接写 Token；把网络隐喻画成了可见的角色动作 |
 | [skimarika《GLM:免费鸡蛋不是这么用的！！！》，2026-10-24](https://www.bilibili.com/video/av117496564744378) | 原帖简介写让 GLM 重复背九九乘法表，把消耗免费额度叫使用鸡蛋；读取原帖文字 |
 
-[《智谱娘又送鸡蛋了，周末送了3亿token》](https://www.bilibili.com/video/BV1hLYR64EPH/)也是直接标题用例，推荐卡署名“那就那就打断”；日期和简介仍待核。
+[那就那就打断《智谱娘又送鸡蛋了，周末送了3亿token》](https://www.bilibili.com/video/BV1hLYR64EPH/)也是直接标题用例。后续原帖元数据核对：2026-09-12 22:39:26（北京时间），21 秒；简介直接说登录 ZCode 获赠 3 亿 Token，并署名 ZipZipPipe、这个刀子真甜及 BGM 作者喵内特洛夫斯基。本次读取页面文字，未增加该视频的画面观看声明。[核验 CN03](MULTILINGUAL_RESEARCH.md#cn03原帖元数据与许可记录的同步)。
 
 ## 传播中的不同语气
 

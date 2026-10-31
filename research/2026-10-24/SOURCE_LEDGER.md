@@ -15,9 +15,11 @@
 
 ### A01
 
-ZipZipPipe，《大AI和小AI们》，原帖显示 **2026-05-02**：https://www.bilibili.com/video/BV1tE9XBbErS/
+ZipZipPipe，《大AI和小AI们》：https://www.bilibili.com/video/BV1tE9XBbErS/
 
-本轮取得标题、作者简介和九人顺序：DeepSeek、Gemini、Claude、GPT、Grok、GLM、Kimi、MiniMax、Qwen。简介说明使用 AI 合成，大小版本用于表情包创作，并注明鲸鱼原型的上善无形来源链。画面依据 V01。发布日不用聚合页的 5 月 3 日替换。视频标有未经授权禁止转载，本轮不向公开仓库上传视频或研究截帧。
+**后续日期核正（2026-10-31）：** 原帖 `pubdate=1777740613`，对应北京时间 **2026-05-03 00:50:13**、UTC 05-02 16:50:13。旧记录 05-02 未标时区，今后采用北京时间；不是由聚合页推测改日。[直接元数据核验 CN03](../2026-10-31/MULTILINGUAL_RESEARCH.md#cn03原帖元数据与许可记录的同步)。
+
+本轮取得标题、作者简介和九人顺序：DeepSeek、Gemini、Claude、GPT、Grok、GLM、Kimi、MiniMax、Qwen。简介说明使用 AI 合成，大小版本用于表情包创作，并注明鲸鱼原型的上善无形来源链。画面依据 V01。作品内容观察仍按当时记录；日期采用上方后续核正。视频标有未经授权禁止转载，本轮不向公开仓库上传视频或研究截帧。
 
 ### A02
 
