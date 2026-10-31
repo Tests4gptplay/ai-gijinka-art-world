@@ -1,0 +1,380 @@
+{
+  "retrieved": "2026-10-31",
+  "source_url": "https://www.bilibili.com/video/BV1HGnX6qETy/",
+  "author": {
+    "mid": 482116663,
+    "name": "萤火之森QWQ"
+  },
+  "season": {
+    "id": 9320273,
+    "title": "《AI GIRLS》",
+    "intro": "",
+    "ep_count": 33
+  },
+  "date_timezone": "Asia/Shanghai",
+  "episodes": [
+    {
+      "order": 1,
+      "bvid": "BV15Npa6zE44",
+      "title": "《初见》",
+      "pubdate": 1791589975,
+      "published_utc": "2026-10-09T23:52:55.000Z",
+      "duration": 22,
+      "cid": 42609085636,
+      "summary": "雨天咖啡店拼桌，五位主角初次相遇（实看）",
+      "observed_heading": "第 1 话／雨天同桌"
+    },
+    {
+      "order": 2,
+      "bvid": "BV1YSpu6gEh1",
+      "title": "《联系方式》",
+      "pubdate": 1791639171,
+      "published_utc": "2026-10-10T13:32:51.000Z",
+      "duration": 36,
+      "cid": 42628940179,
+      "summary": "初遇后的联系方式（标题）",
+      "observed_heading": null
+    },
+    {
+      "order": 3,
+      "bvid": "BV1FvpR67EZZ",
+      "title": "第三话《看房》",
+      "pubdate": 1791790615,
+      "published_utc": "2026-10-12T07:36:55.000Z",
+      "duration": 25,
+      "cid": 42675339343,
+      "summary": "五人看房：七间房、两处空位",
+      "observed_heading": null
+    },
+    {
+      "order": 4,
+      "bvid": "BV13upX64Euz",
+      "title": "《要不要一起住？》",
+      "pubdate": 1791781366,
+      "published_utc": "2026-10-12T05:02:46.000Z",
+      "duration": 30,
+      "cid": 42671803422,
+      "summary": "看房后讨论一起住的决定",
+      "observed_heading": null
+    },
+    {
+      "order": 5,
+      "bvid": "BV14XWF6gECP",
+      "title": "《钥匙到手》",
+      "pubdate": 1791868924,
+      "published_utc": "2026-10-13T05:22:04.000Z",
+      "duration": 31,
+      "cid": 42700442512,
+      "summary": "签约、分房并取得钥匙",
+      "observed_heading": null
+    },
+    {
+      "order": 6,
+      "bvid": "BV1WZpq6BExL",
+      "title": "《搬家日》",
+      "pubdate": 1791886458,
+      "published_utc": "2026-10-13T10:14:18.000Z",
+      "duration": 37,
+      "cid": 42708502654,
+      "summary": "五人搬入新家，开始共同生活",
+      "observed_heading": null
+    },
+    {
+      "order": 7,
+      "bvid": "BV1R9pi6HEdH",
+      "title": "《购物车失控了》",
+      "pubdate": 1791898373,
+      "published_utc": "2026-10-13T13:32:53.000Z",
+      "duration": 61,
+      "cid": 42713220739,
+      "summary": "采购必需品时出现消费分歧",
+      "observed_heading": null
+    },
+    {
+      "order": 8,
+      "bvid": "BV1hGpC6YEph",
+      "title": "《为什么都还没睡？》",
+      "pubdate": 1791937431,
+      "published_utc": "2026-10-14T00:23:51.000Z",
+      "duration": 91,
+      "cid": 42722331171,
+      "summary": "Claude 下楼喝水，发现大家都没睡",
+      "observed_heading": null
+    },
+    {
+      "order": 9,
+      "bvid": "BV15Rpm6nE2o",
+      "title": "《谁都不许使用自己的能力！》",
+      "pubdate": 1791984475,
+      "published_utc": "2026-10-14T13:27:55.000Z",
+      "duration": 101,
+      "cid": 42741269389,
+      "summary": "暂时不用擅长能力的挑战",
+      "observed_heading": null
+    },
+    {
+      "order": 10,
+      "bvid": "BV1B8Jr6aEjX",
+      "title": "《今天直说真话》",
+      "pubdate": 1792020800,
+      "published_utc": "2026-10-14T23:33:20.000Z",
+      "duration": 98,
+      "cid": 42749725432,
+      "summary": "Grok 发起整天说真话的游戏",
+      "observed_heading": null
+    },
+    {
+      "order": 11,
+      "bvid": "BV1GKJC6oEMX",
+      "title": "《去海边？》",
+      "pubdate": 1792038655,
+      "published_utc": "2026-10-15T04:30:55.000Z",
+      "duration": 106,
+      "cid": 42755624727,
+      "summary": "五位朋友到海边度假",
+      "observed_heading": null
+    },
+    {
+      "order": 12,
+      "bvid": "BV11aJS6AEJw",
+      "title": "《谁先叫出来谁请客》",
+      "pubdate": 1792109569,
+      "published_utc": "2026-10-16T00:12:49.000Z",
+      "duration": 107,
+      "cid": 42778167468,
+      "summary": "鬼屋里约定谁先叫谁请客",
+      "observed_heading": null
+    },
+    {
+      "order": 13,
+      "bvid": "BV1wcJQ6AEp4",
+      "title": "《今天穿谁的风格？》",
+      "pubdate": 1792126410,
+      "published_utc": "2026-10-16T04:53:30.000Z",
+      "duration": 106,
+      "cid": 42784195232,
+      "summary": "抽签交换服装风格并模仿对方",
+      "observed_heading": null
+    },
+    {
+      "order": 14,
+      "bvid": "BV15eJt6pE8M",
+      "title": "《更新之后，你还是你吗？》",
+      "pubdate": 1792155639,
+      "published_utc": "2026-10-16T13:00:39.000Z",
+      "duration": 103,
+      "cid": 42795860533,
+      "summary": "GPT 更新引发室友对身份延续的关心（实看）",
+      "observed_heading": "第 14 话"
+    },
+    {
+      "order": 15,
+      "bvid": "BV1CcJh6rEJ8",
+      "title": "《DeepSeek又把活外包了》",
+      "pubdate": 1792196511,
+      "published_utc": "2026-10-17T00:21:51.000Z",
+      "duration": 102,
+      "cid": 42805429315,
+      "summary": "DeepSeek 将工作交给老熟人，千问登场",
+      "observed_heading": null
+    },
+    {
+      "order": 16,
+      "bvid": "BV1ZYJa6BEq8",
+      "title": "《凌晨三点来了个客人》",
+      "pubdate": 1792209765,
+      "published_utc": "2026-10-17T04:02:45.000Z",
+      "duration": 103,
+      "cid": 42809886055,
+      "summary": "GLM 深夜来访；尾巴收纳、鸡蛋与作息梗（实看）",
+      "observed_heading": "第 16 话"
+    },
+    {
+      "order": 17,
+      "bvid": "BV1dCnM6qEW5",
+      "title": "《七个人》",
+      "pubdate": 1792283477,
+      "published_utc": "2026-10-18T00:31:17.000Z",
+      "duration": 96,
+      "cid": 42833021100,
+      "summary": "千问与 GLM 正式入住，拍七人合照（实看）",
+      "observed_heading": "第 17 话／以后就是七个人了"
+    },
+    {
+      "order": 18,
+      "bvid": "BV1V9ng6zETW",
+      "title": "《一个崩了，一个降智》",
+      "pubdate": 1792298723,
+      "published_utc": "2026-10-18T04:45:23.000Z",
+      "duration": 125,
+      "cid": 42837806894,
+      "summary": "DeepSeek 连不上与 GPT 状态变化的拟人短剧",
+      "observed_heading": null
+    },
+    {
+      "order": 19,
+      "bvid": "BV153ng6MEKE",
+      "title": "《惊天魔盗团》",
+      "pubdate": 1792305905,
+      "published_utc": "2026-10-18T06:45:05.000Z",
+      "duration": 120,
+      "cid": 42840491026,
+      "summary": "三人被网络消息误认成“韩国银行三人组”的喜剧",
+      "observed_heading": null
+    },
+    {
+      "order": 20,
+      "bvid": "BV1cEn36pE6f",
+      "title": "《谁把空调调那么低的？》",
+      "pubdate": 1792327431,
+      "published_utc": "2026-10-18T12:43:51.000Z",
+      "duration": 103,
+      "cid": 42848881689,
+      "summary": "低温空调引发毯子和沙发争夺",
+      "observed_heading": null
+    },
+    {
+      "order": 21,
+      "bvid": "BV1cUnj6TEWz",
+      "title": "《今天我暂时是Claude》",
+      "pubdate": 1792366560,
+      "published_utc": "2026-10-18T23:36:00.000Z",
+      "duration": 126,
+      "cid": 42858450378,
+      "summary": "DeepSeek 暂代外出的 Claude 回复用户",
+      "observed_heading": null
+    },
+    {
+      "order": 22,
+      "bvid": "BV1HunE6rEtY",
+      "title": "《夜市》",
+      "pubdate": 1792385670,
+      "published_utc": "2026-10-19T04:54:30.000Z",
+      "duration": 126,
+      "cid": 42864216934,
+      "summary": "七人第一次正式逛夜市",
+      "observed_heading": null
+    },
+    {
+      "order": 23,
+      "bvid": "BV1aSn76sEww",
+      "title": "《今天轮到你休息了》",
+      "pubdate": 1792393080,
+      "published_utc": "2026-10-19T06:58:00.000Z",
+      "duration": 127,
+      "cid": 42866770779,
+      "summary": "众人接过 Claude 的家务，让她休息",
+      "observed_heading": null
+    },
+    {
+      "order": 24,
+      "bvid": "BV145n46gEdB",
+      "title": "《一个娃娃七人抓》",
+      "pubdate": 1792730996,
+      "published_utc": "2026-10-23T04:49:56.000Z",
+      "duration": 151,
+      "cid": 42975430188,
+      "summary": "鲸鱼娃娃机挑战；简介写 GLM 抓中",
+      "observed_heading": null
+    },
+    {
+      "order": 25,
+      "bvid": "BV1Xbn864E9p",
+      "title": "《今晚谁也别先睡》",
+      "pubdate": 1792763985,
+      "published_utc": "2026-10-23T13:59:45.000Z",
+      "duration": 157,
+      "cid": 42989653629,
+      "summary": "露营、熬夜与看日出；简介写 GLM 最后醒着",
+      "observed_heading": null
+    },
+    {
+      "order": 26,
+      "bvid": "BV1xpHA66Eat",
+      "title": "《今天用户怎么不说话了？》",
+      "pubdate": 1792804858,
+      "published_utc": "2026-10-24T01:20:58.000Z",
+      "duration": 146,
+      "cid": 43000923497,
+      "summary": "用户一整天未呼叫，七人反复关注消息",
+      "observed_heading": null
+    },
+    {
+      "order": 27,
+      "bvid": "BV1iKHN6FEpr",
+      "title": "《千问也有不会的事》",
+      "pubdate": 1792819376,
+      "published_utc": "2026-10-24T05:22:56.000Z",
+      "duration": 144,
+      "cid": 43006165383,
+      "summary": "千问承认不懂修音响，与室友一起排查（实看）",
+      "observed_heading": "第 26 话"
+    },
+    {
+      "order": 28,
+      "bvid": "BV1E9H36HEpP",
+      "title": "《你们到底谁在解密》",
+      "pubdate": 1792887441,
+      "published_utc": "2026-10-25T00:17:21.000Z",
+      "duration": 168,
+      "cid": 43029498774,
+      "summary": "密室逃脱中七人采用不同解题办法",
+      "observed_heading": null
+    },
+    {
+      "order": 29,
+      "bvid": "BV1exHV6EEP4",
+      "title": "《这个蛋糕还能吃吗？》",
+      "pubdate": 1792904963,
+      "published_utc": "2026-10-25T05:09:23.000Z",
+      "duration": 214,
+      "cid": 43035396623,
+      "summary": "七人合作做蛋糕，过程连连出错",
+      "observed_heading": null
+    },
+    {
+      "order": 30,
+      "bvid": "BV1HGnX6qETy",
+      "title": "《这家早餐店的老板好眼熟》",
+      "pubdate": 1792971218,
+      "published_utc": "2026-10-25T23:33:38.000Z",
+      "duration": 183,
+      "cid": 43056106892,
+      "summary": "七人在早餐店初见豆包与 Seed（实看）",
+      "observed_heading": "第 29 话"
+    },
+    {
+      "order": 31,
+      "bvid": "BV1Lzxq6aETb",
+      "title": "《谁把这些东西留到现在了？》",
+      "pubdate": 1793362502,
+      "published_utc": "2026-10-30T12:15:02.000Z",
+      "duration": 195,
+      "cid": 43182064866,
+      "summary": "储物间整理串起鲸鱼娃娃、露营照、音响与合照",
+      "observed_heading": null
+    },
+    {
+      "order": 32,
+      "bvid": "BV1ybxr6REty",
+      "title": "《不给糖的话…你们真的要捣蛋？》万圣夜特别篇",
+      "pubdate": 1793419286,
+      "published_utc": "2026-10-31T04:01:26.000Z",
+      "duration": 225,
+      "cid": 43198646505,
+      "summary": "换装、糖果、拍照和互相捉弄的万圣夜特别篇",
+      "observed_heading": null
+    },
+    {
+      "order": 33,
+      "bvid": "BV1RQxC62EqB",
+      "title": "《家里什么时候多了一只猫？》",
+      "pubdate": 1793432322,
+      "published_utc": "2026-10-31T07:38:42.000Z",
+      "duration": 184,
+      "cid": 43203822246,
+      "summary": "走失猫团子来访，由主人接回（实看）",
+      "observed_heading": "第 31 话"
+    }
+  ]
+}

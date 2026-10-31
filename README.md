@@ -2,7 +2,7 @@
 
 AI 娘二创视觉设定、社区印象与创作参考资料库。
 
-**建立：2026-10-18｜最近更新：2026-10-27｜14 位模型拟人角色资料＋独立原创人物区**
+**建立：2026-10-18｜最近更新：2026-10-31｜14 位模型拟人角色资料＋独立原创人物区**
 
 **许可证：[CC BY-NC-SA 4.0](LICENSE)**（署名、非商业性使用、相同方式共享）。作者与素材来源见 [RIGHTS.md](RIGHTS.md)。
 
@@ -16,12 +16,13 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 |---|---|
 | 认识每个人物，找对应参考 | [14 位人物档案](characters/README.md) · [视觉图鉴总表](CHARACTER_ATLAS.md) |
 | 理解昵称、梗和人物关系 | [社区印象与关系](COMMUNITY_IMPRESSIONS.md) · [不同作者的世界线](WORLDVIEW_AND_FANON.md) |
-| 查 AI 娘中转站／《AI GIRLS》系列 | [冬冰《AI 中转站公寓》16 集](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) · [《AI GIRLS》独立合集索引](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) |
+| 查 AI 娘中转站／《AI GIRLS》系列 | [冬冰《AI 中转站公寓》16 集](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) · [《AI GIRLS》33 条目录、人物互动与重点剧情](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) |
 | 查《world.execute(me);》AI 制作 MV 热潮 | [世界观里的创作潮与模型对照](WORLDVIEW_AND_FANON.md) · [完整起因、时间线与各模型 MV 列表](research/2026-10-27/WORLD_EXECUTE_ME_MV_WAVE.md) |
 | 查看已收录的角色歌曲 | [DeepSeek《Let Me Go》](characters/deepseek/music/Let-Me-Go-大肥鱼摸鱼歌.md) · [GPT《您的账号没有降智》](characters/gpt/music/风霜秋雨-您的账号没有降智.md) · [Claude《您的账号已被封禁》](characters/claude/music/风霜秋雨-您的账号已被封禁.md) |
 | 画得像所选角色，不串色串设定 | [视觉基准与错画对照](VISUAL_REFERENCE_NOTES.md) · [美术语言](ART_DIRECTION.md) |
 | 从立绘制作有真实动作的角色 | [桌宠动作资料说明](ANIMATION_REFERENCE.md) · [创作前核对](GENERATION_CHECKLIST.md) |
 | 查某条结论从哪里来 | [2026-10-27 增量台账](research/2026-10-27/SOURCE_LEDGER.md) · [2026-10-24 来源台账](research/2026-10-24/SOURCE_LEDGER.md) · [视频核对记录](research/2026-10-24/VIDEO_REVIEW.md) · [较早来源](SOURCES.md) |
+| 查梗背后的公司、营销与用户实践 | [真实组织与模型／产品对照、六组梗的现实来源链](research/2026-10-31/REAL_WORLD_MEME_ORIGINS.md) |
 | 更新资料而不每次重做研究 | [资料更新指引](RESEARCH_GUIDE.md) |
 
 **原创人物：** [私设目录](私设/README.md)收录我们自己创作的角色与故事，包括 [星璃 · Stella](私设/星璃/README.md) 的人物档案、设定图和简短对话卡。原创设定与原作者考据、社区共性分开。
@@ -29,6 +30,8 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 **视频制作方法：** [高品质 AI 辅助视频与 MV 制作方案库](video-production/README.md)保留现有制作路线、案例和待实验方案；资料收录不表示相关路线都已完成成片验收。
 
 ## 本轮补充了什么
+
+2026-10-31：补齐萤火之森QWQ [《AI GIRLS》33 条作品目录](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)，加入逐集梗概、五人到七人的故事进展、人物互动及 7 条重点作品的 40 个画面时间点；另整理 [GLM 赛博鸡蛋梗的官方活动、社区用语和二创画面](research/2026-10-31/GLM_EGG_MEME.md)，在 GLM 人物页提供简洁的基础扩充段落。[来源台账](research/2026-10-31/SOURCE_LEDGER.md) · [机器可读目录](research/2026-10-31/AI_GIRLS_INDEX.json)。
 
 2026-10-27：新增 [AI 拟人二创来源](research/2026-10-27/SOURCE_LEDGER.md)，按作者原帖、独立系列、音乐/视频、Agent 与社区传播保存链接、日期和实际证据范围。沿用既有 14 位角色图鉴及原作署名；[资料更新指引](RESEARCH_GUIDE.md)明确外部角色资料的来源要求和星璃原创测试角色的自由创作例外。
 

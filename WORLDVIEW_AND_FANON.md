@@ -24,7 +24,7 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 |---|---|---|
 | **这个刀子真甜** · [GPT小龙娘融入 DeepSeek 大家庭](https://www.bilibili.com/video/BV1EvKK6NEoi/) | 使用 ZipZipPipe 女仆鲸鱼娘与 GPT 龙女视觉原型，发展小龙娘、鲸鱼娘 Q 版日常及「家庭」喜剧段子。 | 不能反推作者 ZipZipPipe 规定 GPT 与 DeepSeek 的亲缘或固定住处。 |
 | **冬冰** · [《AI 中转站公寓》16 集索引](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) | 自 2026-09-18 连载的 AI 娘合租日常，首集讲 DeepSeek 报到与五个 AI 同住；B 站作者合集截至 10-18 可见 16 集，完整视频直达链接已整理。形象参考上善无形、ZipZipPipe 和这个刀子真甜；人物性格、台词及剧情由冬冰独立创作。 | 公寓属于冬冰自己的故事线，不能变成其他作品或模型的共同经历。 |
-| **萤火之森QWQ／《AI GIRLS》** · [合集资料](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) | [作者空间 UID 482116663](https://space.bilibili.com/482116663)、[《AI GIRLS》合集](https://b23.tv/SPHLE4s)、[BV1HGnX6qETy](https://www.bilibili.com/video/BV1HGnX6qETy/)；《千问也有不会的事》作为此合集作品列入作品目录，单集 BV 仍待定位。 | 与冬冰《AI 中转站公寓》分别归档，不推断两个系列的剧情关系。 |
+| **萤火之森QWQ／《AI GIRLS》** · [33 条投稿与人物互动](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) | 五人在雨天咖啡店相识并合租，千问与 GLM 加入后成为七人日常；已整理原站目录、逐集梗概、七条重点作品的画面时间点。 | 此作者独立连载；与冬冰《AI 中转站公寓》分别归档。 |
 | **lieyang / 《AI学院》** · [DeepSeek 角色 PV](https://www.bilibili.com/video/BV19Jhx6VE8A/) | 以角色为基础创作独立回合制＋视觉小说世界：原创人类少女、DeepSeek、Claude、Grok、Gemini、GPT/Luna 等，含作者自己写的人格、冲突与技能。 | 不能说这套战斗规则或 Luna 性格来自 ZipZipPipe 原设。 |
 | **土豆AX** · [全球 AI 娘温馨日常](https://www.bilibili.com/video/BV1f7YM6BE1w/) | 多位 AI 角色的同框温馨日常，明确注明形象来源 ZipZipPipe。 | 不能把独立视频统一为另两个系列的同一个时间线。 |
 | **真不会取名丶** · [普通鲸鱼娘的日常](https://www.bilibili.com/video/BV1tghf6bEkw/) | 「普通鲸鱼娘并非 AI」的平行世界：某 AI 版小 DeepSeek 闯入非 AI 的大鲸鱼娘世界。 | 不能将平行设定写成其它系列的事实。 |
@@ -39,7 +39,7 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 
 **整套资料：** [《AI 中转站公寓》16 集按顺序的标题、BV、时长与证据链](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)；[来源台账 N39](research/2026-10-27/SOURCE_LEDGER.md)。
 
-**《AI GIRLS》独立作品线：** 萤火之森QWQ 的[作者空间](https://space.bilibili.com/482116663)、[合集入口](https://b23.tv/SPHLE4s)及[视频索引](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)。已知《千问也有不会的事》属于该合集；完整分集 BV 与顺序尚待原帖核对。相关来源 N40–N42。
+**《AI GIRLS》独立作品线：** 萤火之森QWQ 的[作者空间](https://space.bilibili.com/482116663)、[合集 sid 9320273](https://space.bilibili.com/482116663/lists/9320273?type=season)及[33 条投稿资料](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)。常住群像为 GPT、Claude、Grok、Gemini、DeepSeek、千问、GLM；第 17 话确定七人长期同住，早餐店篇另引入豆包与 Seed 姐妹。重点整理从拼桌安家、更新后的身份延续，到承认未知并合作修音响的日常。《千问也有不会的事》的准确入口为 [BV1iKHN6FEpr](https://www.bilibili.com/video/BV1iKHN6FEpr/)。[新来源 G01–G03](research/2026-10-31/SOURCE_LEDGER.md)增补原 N40–N42。
 
 ### L4｜工具化、桌宠、PV 和原创私设
 
