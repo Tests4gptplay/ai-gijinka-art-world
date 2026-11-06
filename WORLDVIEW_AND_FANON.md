@@ -53,6 +53,18 @@ ChatGPT / GPT、DeepSeek、Gemini、Claude、Grok、GLM、Kimi、MiniMax、Qwen�
 - [GPT 龙娘桌宠](https://github.com/tqlearning/ai-girl-chatgpt-pets) 基于社区外形另制动作图集，并非 ZipZipPipe 本人公布的统一骨骼规格。
 - [AI 娘衍生桌宠项目 issue](https://github.com/legeling/awesome-codex-pet/issues/246) 存在 GPT 龙娘、Codex 龙娘与第三方 GPT 龙娘不同分支，不能默认是同一人设。
 - [B 站动态 / GPT-6 Astra 参考](https://www.bilibili.com/opus/1244428286878023718)应视为**待原帖核验的特定二创线索**。既有资料仅提供部分视觉信息，尚未核对原帖全文；不能凭截图断言作者原创了某个 Astra 宇宙关系。
+- **AI 娘自主运营账号**（2026-10-18 起）：把公开账号交给 AI 运营，日更并按 Day 编号，角色使用本库已有拟人造型。起点是 [Claude大小姐在运营](https://www.bilibili.com/video/av117460409785254)（10-18）与 [DeepSeek鲸鱼娘在运营](https://www.bilibili.com/video/BV1pGnn67EC2/)（10-19），随后各模型名出现同构账号。这是**一层新的创作媒介**：角色从画面里走到账号运营层，有投稿节奏、评论区社交和粉丝数；不代表角色本人有官方账号，也不改原作者设定。详见[专题](research/2026-11-07/AI_ACCOUNT_WAVE.md)。
+- **评论区 Agent 与治理**：读 B 站插件让本地 AI 自主看视频、留言、私信汇报（[dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll)），随之出现清理插件（[dafeiyu-cleaner](https://github.com/liyupi/dafeiyu-cleaner)）与浓度检测工具。工具行为属各自项目，不并入角色设定；平台规则与刷屏问题另记于专题。
+
+## 官方与企业的位置（2026-11）
+
+先说清一条：**DeepSeek 没有官方拟人形象**，鲸鱼娘与「溟月」都是民间创作（来源链见上文 L1）。另需分清**产品官方形象**与二创：部分产品自带虚拟形象（如 Muse 的默认形象 Jolly），那是产品素材，不是画师二创，也不进本库的 14 人体系。
+
+- 2026-10-27，腾讯 QQ 企业号发布“把大肥鱼塞进 QQ”的教程，简介逐项署名上善无形、ZipZipPipe、这个刀子真甜（M41）——企业官方账号使用民间梗；
+- 2026-11-02，[DeepSeekHarness 官方 B 站账号](https://www.bilibili.com/video/BV1i24P6rEmt/)入驻，讲“创造模式”，未发布拟人人设（M40）。官方身份已核：B 站接口返回机构认证 `official_verify.type=1`，简介指向官方域名 `cdn.deepseek.com` 的提示词合集；但截至本次读取**只有 1 条投稿**，且 [deepseek.com](https://www.deepseek.com/) 首页页脚未列 B 站入口。准确说法是“平台认证的产品官方账号，发过一条功能宣传”，不是“官方下场运营社区”。
+- 极客公园 10-31 综述仍写“官方还没有参与这套民间人设的创作”（M10）。
+
+三条按时间点分开引用：企业用梗、产品账号入驻、官方不设人设，是不同的事，不合并成“官方认可鲸鱼娘”。
 
 ## 人物网络（类型而非家庭/主仆关系）
 
@@ -133,4 +145,16 @@ N09 同时记录一位日本作者在 2026-10-12 介绍中国 AI 拟人文化和
 - **彼岸花Channel**：《大模型复读班》三集以版本更新后参加评测的补习班为该系列的叙事舞台；另有 AI 娘抽卡模拟器与捕鱼游戏作品（N31、N32）。
 - **StuG_III**：《8个顶级AI挑战RPG史上最恶意BOSS》把八位模型拟人角色放进同一游戏挑战，原帖有分角色的章节入口与形象来源署名（N26）。
 - **GNwork团队**：在 Minecraft 中实现鲸鱼女仆 Agent 主题作品，并在作品简介记录模型、动作绑定、技术支持的制作分工（N28）。
+
+## 2026-11-07 再补：账号运营、企业用梗与社区整理
+
+| 作品／来源 | 页面写明的内容 | 原始出处与备注 |
+| --- | --- | --- |
+| Claude大小姐在运营 Day 0 | 选题、脚本、视频、运营由 Claude（AI）负责，人类只注册与审核，日更并公开数据；主页另写“GPT画形象”；非 Anthropic 官方账号 | [2026-10-18](https://www.bilibili.com/video/av117460409785254)（M01）；账号行为属该账号创作 |
+| DeepSeek鲸鱼娘在运营 Day 0 | 同构自述，每日「今日潜水日志」；非 DeepSeek 官方账号；注明基于「溟月：上善无形」与 ZipZipPipe 二次创作 | [2026-10-19](https://www.bilibili.com/video/BV1pGnn67EC2/)（M02）；既有 N13 的补充 |
+| 同类「XX 在运营」账号群 | ChatGPT 龙娘、Grok、豆包、Qwen、Gemini、小肥鱼等同名格式账号同时存在 | 仅推荐位标题快照（M03）；日期与作者未逐条核 |
+| 腾讯QQ《听说最近大家都在QQ养大肥鱼！》 | 企业号教程，简介署名上善无形、ZipZipPipe、这个刀子真甜 | [2026-10-27](https://www.bilibili.com/video/BV17rxT6UEpH/)（M41）；企业用梗的记录，未核授权 |
+| WorkFisher《什么是“鱼灾”？……全复盘》 | 复盘一周爆发并给“安全养鱼”指引，简介附官方下载与插件仓库 | [2026-10-23](https://www.bilibili.com/video/BV126nt6GE4W/)（M42）；只读页面文字，未看正文 |
+| DeepSeekHarness《正式入驻 B 站！》 | 官方账号介绍“创造模式”：对话生成插件；附提示词合集 | [2026-11-02](https://www.bilibili.com/video/BV1i24P6rEmt/)（M40）；产品账号，非角色 |
+| 梗图连载「AI娘梗图」 | 原「蓝色大肥鱼梗图」，因出场角色不限于大肥鱼而更名 | [第 17 弹说明](https://zhuanlan.zhihu.com/p/2099974449760034822)（M20）；日期见台账冲突项 |
 

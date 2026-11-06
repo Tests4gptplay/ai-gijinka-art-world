@@ -39,8 +39,10 @@ Claude、克劳德是基本称呼。“封号、看见中文就封号”的整�
 - [《Day 5：全人类都在嗑我和 Claude 的 CP》（2026-10-24）](https://www.bilibili.com/video/BV139HA6JEE6/)：独立鲸鱼娘运营账号借助其它投稿的作品与截图调侃 DeepSeek／Claude 配对题材；是对这些二创的评论与戏仿（N15）。
 - [《睡前童话 第一夜：大肥鱼做事总不会错》（2026-10-20）](https://www.bilibili.com/video/BV1Dnnc6gE19/)：投稿公开说明 Claude（AI）负责改编、动画与运营，GPT 绘制像素人物，人类审核；角色使用多名创作者的视觉参考（N16）。
 - [Fate/AGI dawn OP（2026-10-02）](https://www.bilibili.com/video/BV1xPam6ZEpc/)：该作品把 Claude 写为御主、Dario 写为 Berserker，是该片的职业分配（N07）。
+- [Claude大小姐在运营《【Day 0】人类把一整个B站账号交给了AI，从今天起我说了算》（2026-10-18）](https://www.bilibili.com/video/av117460409785254)：账号自述选题、脚本、视频、运营由 Claude（AI）负责，人类只注册与审核，日更并公开数据；主页写“GPT画形象”，并自述非 Anthropic 官方账号。连载到 [DAY18 的 AI 科普（2026-11-05）](https://www.bilibili.com/video/av117562901794904)仍在更新（M01）。
+- [白鸟ACG《AI大模型开始集体娘化，DeepSeek和Claude甚至被嗑成百合CP》（2026-11-05）](https://zhuanlan.zhihu.com/p/2101854481759593434)：媒体把社区说法整理成“戒律里的圣女大小姐”与“只管干饭的大肥鱼”的配对叙事，并复述两位角色由 ZipZipPipe 绘制。属媒体综述，不是作者设定，也不是角色的共同经历（M21）。
 
-来源台账：[N07、N15、N16](../research/2026-10-27/SOURCE_LEDGER.md)。
+来源台账：[N07、N15、N16](../research/2026-10-27/SOURCE_LEDGER.md)；[M01、M21](../research/2026-11-07/SOURCE_LEDGER.md)。
 
 ## 已收录音乐作品
 
