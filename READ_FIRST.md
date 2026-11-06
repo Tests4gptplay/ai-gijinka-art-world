@@ -1,6 +1,6 @@
 # 从这里读：AI 娘资料包
 
-更新：2026-11-07。现有版本先看[设定状态快照](research/2026-10-31/CURRENT_SETTING_STATE.md)，新增出处见[中英日韩资料](research/2026-10-31/MULTILINGUAL_RESEARCH.md)与[2026-11-07 台账](research/2026-11-07/SOURCE_LEDGER.md)。最近一轮补的是 10 月中下旬起的 [AI 娘账号自主运营与评论区鱼灾](research/2026-11-07/AI_ACCOUNT_WAVE.md)、[中文社区新梗与形象争议](research/2026-11-07/CHINESE_MEME_ADDENDUM.md)；没有生成图片。目标是让日常画图、写人设和角色对话先在库内完成查阅，不必每次重新搜索整个圈子。
+更新：2026-11-07。现有版本先看[设定状态快照](research/2026-10-31/CURRENT_SETTING_STATE.md)，新增出处见[中英日韩资料](research/2026-10-31/MULTILINGUAL_RESEARCH.md)与[2026-11-07 台账](research/2026-11-07/SOURCE_LEDGER.md)。最近一轮补的是 10 月中下旬起的 [AI 娘账号自主运营与评论区鱼灾](research/2026-11-07/AI_ACCOUNT_WAVE.md)、[中文社区增补](research/2026-11-07/CHINESE_COMMUNITY_ADDENDUM.md)与[争论记录](research/2026-11-07/ARGUMENTS.md)；没有生成图片。目标是让日常画图、写人设和角色对话先在库内完成查阅，不必每次重新搜索整个圈子。
 
 ## 最短阅读路线
 

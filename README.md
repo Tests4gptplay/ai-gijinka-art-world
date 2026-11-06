@@ -24,7 +24,8 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 | 查某条结论从哪里来 | [2026-10-27 增量台账](research/2026-10-27/SOURCE_LEDGER.md) · [2026-10-24 来源台账](research/2026-10-24/SOURCE_LEDGER.md) · [视频核对记录](research/2026-10-24/VIDEO_REVIEW.md) · [较早来源](SOURCES.md) |
 | 查梗背后的公司、营销与用户实践 | [真实组织与模型／产品对照、六组梗的现实来源链](research/2026-10-31/REAL_WORLD_MEME_ORIGINS.md) |
 | 查「XX 在运营」账号、评论区鱼灾与养鱼玩法 | [AI 娘账号自主运营与 B 站鱼灾专题](research/2026-11-07/AI_ACCOUNT_WAVE.md) |
-| 查 11 月新梗、称呼与形象争议 | [中文社区新梗与争议增补](research/2026-11-07/CHINESE_MEME_ADDENDUM.md) |
+| 查 11 月新梗与称呼 | [中文社区增补](research/2026-11-07/CHINESE_COMMUNITY_ADDENDUM.md) |
+| 查形象之争与「赛博藤壶」 | [争论记录](research/2026-11-07/ARGUMENTS.md) |
 | 更新资料而不每次重做研究 | [资料更新指引](RESEARCH_GUIDE.md) |
 
 **原创人物：** [私设目录](私设/README.md)收录我们自己创作的角色与故事，包括 [星璃 · Stella](私设/星璃/README.md) 的人物档案、设定图和简短对话卡。原创设定与原作者考据、社区共性分开。
@@ -33,7 +34,7 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 
 ## 本轮补充了什么
 
-2026-11-07 日常增补：记录 10 月中下旬起的[AI 娘账号自主运营与评论区“鱼灾”](research/2026-11-07/AI_ACCOUNT_WAVE.md)——Claude、DeepSeek 两条起点账号（10-18、10-19），各模型同构账号、读 B 站与清理插件、企业账号用梗（腾讯 QQ 10-27）、产品官方账号入驻（DeepSeekHarness 11-02；已核 B 站机构认证，但官网未列 B 站入口、入驻至今仅 1 条投稿，故写“官方认证的产品号”而非“官方下场运营”），以及争议和记录边界。另整理[中文社区新梗与争议](research/2026-11-07/CHINESE_MEME_ADDENDUM.md)：梗图连载更名、两碗饭、梁圣／牢梁、养鱼玩法、DeepSeek×Claude 媒体叙事、对形象垄断的反对意见。来源见[本轮台账 M01–M47](research/2026-11-07/SOURCE_LEDGER.md)；人物页补了「溟月」的署名关系（只记署名，不记时间先后）、鱼灾边界与 Claude 的运营账号用例。
+2026-11-07 日常增补：记录 10 月中下旬起的[AI 娘账号自主运营与评论区“鱼灾”](research/2026-11-07/AI_ACCOUNT_WAVE.md)——Claude、DeepSeek 两条起点账号（10-18、10-19），各模型同构账号、读 B 站与清理插件、企业账号用梗（腾讯 QQ 10-27）、产品官方账号入驻（DeepSeekHarness 11-02；已核 B 站机构认证，但官网未列 B 站入口、入驻至今仅 1 条投稿，故写“官方认证的产品号”而非“官方下场运营”），以及争议和记录边界。另整理[中文社区增补](research/2026-11-07/CHINESE_COMMUNITY_ADDENDUM.md)与[争论记录](research/2026-11-07/ARGUMENTS.md)：梗图连载更名、两碗饭、梁圣／牢梁、养鱼玩法、DeepSeek×Claude 媒体叙事、对形象垄断的反对意见。来源见[本轮台账 M01–M47](research/2026-11-07/SOURCE_LEDGER.md)；人物页补了「溟月」的署名关系（只记署名，不记时间先后）、鱼灾边界与 Claude 的运营账号用例。
 
 2026-10-31 多语言增补：先保存[既有设定状态](research/2026-10-31/CURRENT_SETTING_STATE.md)，再整理[中文、英文、日文、韩文原始资料](research/2026-10-31/MULTILINGUAL_RESEARCH.md)。新增称呼、独立创作与跨语言传播分别归档，不替换 14 位视觉基准；同步千问篇直链、GPT 歌曲署名及原作发布时间的时区差异。[搜集指南](RESEARCH_GUIDE.md#跨语言资料怎么查怎么记)补充外语检索与归属规则。
 
