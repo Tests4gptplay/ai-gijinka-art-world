@@ -74,3 +74,12 @@
 - [九位 AI 娘《world.execute(me);》版本（2026-10-13、14）](https://www.bilibili.com/video/BV1ARpZ6wEB7/)：原版使用 DeepSeek V4.1 Flash，后续 [GPT-6 Astra 修订版](https://www.bilibili.com/video/BV1Qhpy6uE1s/) 调整剧情和动画；两版都是独立投稿的故事演绎（N18–N19）。
 - [DeepSeek鲸鱼娘在运营《【Day6】二十万粉特别篇，致二十万个你》](https://www.bilibili.com/video/BV1cYH56YESE/)等后续各 Day：同一账号的连载仍在更新（页面快照 2026-11-07），仍属该账号自己的选题与表达（M02、M03）。
 - [腾讯QQ《听说最近大家都在QQ养大肥鱼！》（2026-10-27）](https://www.bilibili.com/video/BV17rxT6UEpH/)：企业号教用户把鲸鱼娘接进 QQ，简介署名上善无形、ZipZipPipe、这个刀子真甜。这是企业账号使用民间梗的记录，不是角色官方设定（M41）。
+
+## 2026-11-16 新收录：英文社区互动作品
+
+“大肥鱼／Big Fat Fish”“DeepSeek-chan”与喂饭题材有新的具体用例，不另立角色版本：
+
+- [u/Intelligent_Key2760 的喂饭桌宠](https://www.reddit.com/r/DeepSeek/comments/1xmo5vh/made_a_deepseekchan_desktop_pet_that_eats_rice/)：作者介绍拖动、喂饭和语音聊天；可见评论自然使用 big fat fish。其 GitHub README 另列逗草扑中／扑空与睡眠／唤醒，属于作者的交互设计说明，未运行验证。
+- [u/No-Natural391 的实时互动作品](https://www.reddit.com/r/DeepSeek/comments/1xlsud3/i_made_deepseekchan_realtime_interactive_chatable/)：作者用 DeepSeek-chan／Big Fat Fish 介绍 AI＋3D 小游戏。演示入口未成功运行，不补写玩法或完整造型。
+
+这些用例补充“喂饭”从图文笑话进入交互作品的传播，不说明她必须总在吃饭。第一项的动作条带是项目声明的 AI 生成衍生素材，不能当角色原作者动画；两个作品的首发日期均有索引冲突，暂不写确定日期。详见[来源、实际读取范围与署名 R01–R02](../research/2026-11-16/SOURCE_LEDGER.md)。
