@@ -28,6 +28,8 @@ ZipZipPipe 的 [《万圣节GPT》](https://www.bilibili.com/opus/12638202102001
 
 **韩文戏称与版本差异：** 「채찍피티」在翻译、编程和角色聊天等不同韩语讨论里都用来称 ChatGPT。新版本 Sol 有人用“闲聊被答成工作回执”调侃，Astra 的反馈则有人嫌术语密，用「中译中」让她换白话。这些与早期的夸夸、安慰形象并不互斥。[韩文与 6.2 用例](../research/2026-11-22/COMMUNITY_USAGE.md)
 
+**鱼龙连载里的称呼反差：** fatal1tyv [《AI娘梗图》第 31 弹](https://zhuanlan.zhihu.com/p/2106808045221195839)把一条评论中的「死白毛」用作拌嘴称呼，求人办事时则叫「小龙娘」。这是该连载的语境，不拿来替代通行称呼。[同系列第 29–32 弹](../research/2026-11-22/FATAL1TYV_AI_MEMES.md)
+
 ## 其他创作者的造型
 
 [Lev 的 Astra 6](https://ai.thatlev.com/blog/meet-the-ai-model-characters)是深色星点长发、猫耳和印字白 T 恤；[AwesomeHou 的 ChatGPT 桌宠](https://github.com/AwesomeHou/openpet-ai-girls/tree/72677712a7991b32f87c219dd8a6d86e5cc4f672/chatgpt)则是薄荷绿长发、白绿裙。它们都是同名角色的不同表达，不要把猫耳加到本页的白龙基准里。[作者与素材说明](../research/2026-11-22/COMMUNITY_BRANCHES.md)

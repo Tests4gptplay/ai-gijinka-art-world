@@ -34,6 +34,8 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 
 ## 本轮补充了什么
 
+2026-11-22 连载补录：补齐 fatal1tyv [《AI娘梗图》第 29–32 弹](research/2026-11-22/FATAL1TYV_AI_MEMES.md)的四条知乎原帖、可见文字与角色互动用例；未取得全图，不把索引节选当完整图文。
+
 2026-11-22 社区专题：[作品与设计分支](research/2026-11-22/COMMUNITY_BRANCHES.md)补录 甶丶的七款国产 AI 娘、虚无渊火nihilus 的 Suno／Lyria、独立短片、英文造型、日文演绎、韩文漫画和桌宠；[社区用语与出处](research/2026-11-22/COMMUNITY_USAGE.md)分层收录「肥波」「채찍피티」、Astra「中译中」和 Kimi 高速额度等。
 
 2026-11-22 全库增补：更新 [冬冰公寓 23 集](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)和 [萤火之森《AI GIRLS》52 条](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)，另建 [华好好过《AI公寓》7 集＋1 条短片](research/2026-11-22/HUA_AI_APARTMENT.md)目录。补录 [ZipZipPipe 换装、工具娘及独立衍生素材](research/2026-11-22/VISUAL_ADDENDUM.md)，包括 1017 小肥鱼、万圣节、Suno、Claude 透明差分、CrossPet 和音乐 MV；[社区印象](COMMUNITY_IMPRESSIONS.md)增加元素名与“基米”的实用例。

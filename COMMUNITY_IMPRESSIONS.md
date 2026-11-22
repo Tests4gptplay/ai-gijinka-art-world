@@ -161,6 +161,10 @@ world 记录“别人会叫 DeepSeek 大肥鱼／蓝色大肥鱼，也会拿白�
 - **鲸鱼娘的白饭可以用道具接梗。** [CrossPet v1.4.0](https://github.com/lokicorvus/crosspet/releases/tag/v1.4.0)把饭勺变琴弓、把魔术帽变饭碗；[冬冰公寓](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)的作品题名则用碗数、尾巴藏食物和包子口味起题。它们加强已有饮食题材的跨作者用例；具体道具动作并不互相通用。
 - **被冷落与记不住，是两张不同的漫画。** X 上 9小只饲养员恶师傅™（@Fatal1tyV，[11-21 原帖](https://x.com/Fatal1tyV/status/2123957285391303070)及[同日续帖](https://x.com/Fatal1tyV/status/2124009287886463087)）：一张画白龙发现用户玩游戏不派活；另一张画鲸鱼娘反驳拿金鱼记性打趣她。核对了公开镜像文字与[白龙原帖配图](https://pbs.twimg.com/media/HXnP3lHbwAAT2EV.jpg?name=orig)、[鲸鱼原帖配图](https://pbs.twimg.com/media/HXn_LfAb0AA_2A_.jpg?name=orig)。两张并非同场，不编鱼龙关系，也不计作知乎连载新增编号。
 
+### fatal1tyv 的连载续更：鱼龙工作日常
+
+[知乎第 29–32 弹索引](research/2026-11-22/FATAL1TYV_AI_MEMES.md)用插件测试、任务估时、叫人帮忙和周额度重置来写鱼龙拌嘴。第 31 弹把网友评论里的「死白毛」接成作者自己的调侃，与有事时叫「小龙娘」形成反差。适合借节奏，不把称呼、借住关系或对工具的调侃写成整个圈的统一设定。
+
 ### “是鲸，不是鱼”：听到外号时的反驳梗
 
 X 上的鲸鱼娘漫画用“金鱼记性”激出这句反驳。另一作者清欢在 11 月 21 日的 [Rubii《DeepSeek》公开角色](https://rubii.ai/character/DeepSeek__chara_6b014932f82755acbd349b55)把它写进开场：被叫大肥鱼时先纠正自己是鲸，连“肥”也要反驳；只读公开开场及作者动态，未测试私聊。卡布奇诺ultra 的 [B 站《大肥鱼小课堂 DSH》](https://www.bilibili.com/video/BV1urnR6xE2P/)投稿简介的索引回显也并用“鲸鱼不是鱼”和“不是胖，是流线型”，未看视频。
