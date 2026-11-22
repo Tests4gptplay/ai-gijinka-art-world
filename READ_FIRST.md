@@ -1,6 +1,6 @@
 # 从这里读：AI 娘资料包
 
-更新：2026-11-22。想画新版 Gemini，先选 [Argon、Carbon 或 Hydrogen 的原作立绘](characters/gemini.md#zipzippipe-的-gemini-4-新设计)，再看[同框与来源台账](research/2026-11-22/SOURCE_LEDGER.md)。
+更新：2026-11-22。查昵称、对话习惯和互动，先看[社区印象](COMMUNITY_IMPRESSIONS.md)；要画指定形象，先选[作者分支](research/2026-11-22/COMMUNITY_BRANCHES.md)或[人物参考](characters/README.md)。如要画 ZipZipPipe 的 Gemini 4，再进入 [Argon、Carbon、Hydrogen 专项](characters/gemini.md#zipzippipe-的-gemini-4-新设计)。
 
 11 月 16 日的社区增补见[喂饭互动、连载用语与画面样本](research/2026-11-16/COMMUNITY_ADDENDUM.md)及[来源台账](research/2026-11-16/SOURCE_LEDGER.md)。现有版本先看[设定状态快照](research/2026-10-31/CURRENT_SETTING_STATE.md)，新增出处见[中英日韩资料](research/2026-10-31/MULTILINGUAL_RESEARCH.md)与[2026-11-07 台账](research/2026-11-07/SOURCE_LEDGER.md)。11 月 7 日一轮补的是 10 月中下旬起的 [AI 娘账号自主运营与评论区鱼灾](research/2026-11-07/AI_ACCOUNT_WAVE.md)、[中文社区增补](research/2026-11-07/CHINESE_COMMUNITY_ADDENDUM.md)与[争论记录](research/2026-11-07/ARGUMENTS.md)；没有生成图片。目标是让日常画图、写人设和角色对话先在库内完成查阅，不必每次重新搜索整个圈子。
 

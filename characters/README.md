@@ -21,6 +21,8 @@
 | [混元 / Hunyuan](hunyuan.md) | ZipZipPipe《一些更新》p03 归档 | 黑长发、红围巾、中式黑白袍、企鹅挂件 | 基准外形已定位；性格／关系待补 |
 | [MiMo](mimo.md) | 甶丶《娘化mimo》归档 | 银白双马尾、橙黑机能装、兔元素、黑白异色袜 | 作者及立绘／三视图已定位；性格／关系待补 |
 
+**这 14 页不是收录上限。** LongCat、MOSS-Image、点点、百灵、U2、Step 等已有作品入口；同名人物也可有不一样的视觉版本。先在[社区作品与设计分支](../research/2026-11-22/COMMUNITY_BRANCHES.md)确认作者与具体作品，再选下游参考。
+
 ## 如何用这一层资料
 
 写角色互动时，先读 [社区称呼与关系](../COMMUNITY_IMPRESSIONS.md)；画图时，打开人物页所链接的真实预览，再看 [错画对照](../VISUAL_REFERENCE_NOTES.md)。动作素材需求见 [动画资料说明](../ANIMATION_REFERENCE.md)。本批证据与读取边界见 [来源台账](../research/2026-10-24/SOURCE_LEDGER.md)。

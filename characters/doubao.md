@@ -18,6 +18,8 @@ shuaizenge 固定版本将 p10 标成 Gemini 变体；SelinLee 的固定 manifes
 
 **续集入口：** 冬冰 [《还是豆姐的肉包香》](https://www.bilibili.com/video/BV1GByazkEBX/)（2026-11-21）在题名使用“豆姐”，是[《AI 中转站公寓》第 23 集](../research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)的作品内用例，不能仅凭题名确定角色造型或亲缘。灿灿同学的 [Seed 立绘](../research/2026-11-22/VISUAL_ADDENDUM.md)是另一个作者的 GPT 衍生图，不作新基准。
 
+**黑白裙桌宠是另一版本。** [AwesomeHou 的 OpenPet 豆包](https://github.com/AwesomeHou/openpet-ai-girls/tree/72677712a7991b32f87c219dd8a6d86e5cc4f672/doubao)为深色短发、黑白洛丽塔裙，实际帧图可查。它不等于官方品牌头像，也不替换 Seed p10。[作者及素材说明](../research/2026-11-22/COMMUNITY_BRANCHES.md)
+
 ## 社区认识与关系
 
 “豆包、Seed、豆姐”需结合画面和上下文；“豆姐”在相关创作者系列标题中出现，但不是确定年龄或与其他角色的姐姐关系。[C03 系列标题]

@@ -20,6 +20,8 @@ ZipZipPipe 的 [《万圣节GLM》](https://www.bilibili.com/opus/12646219818582
 
 同一作者多集和跨平台转载并不等于多个独立群体共识。另一个创作者的显卡／鸡蛋系列可作补充，但不能据此赋予 GLM 固定厨师职业、家庭关系或“永远免费”的属性。[C12]
 
+**小 ZCode 的独立出场：** 白河豚战士[《glm酱和kimi酱还有小zcode的日常》](https://www.bilibili.com/video/BV1o6yLzKEtH/)把三位分画，GLM 保持深发和 Z 标记，小 ZCode 另穿浅蓝兜帽。只用于这部短片的认人，不当作模型和工具有统一亲缘。[证据范围](../research/2026-11-22/COMMUNITY_BRANCHES.md)
+
 ## 与其他角色
 
 与 DeepSeek 的优惠竞争、日常拌嘴有作品；与 GPT、DeepSeek 的共同日常也有样本。可以理解互相认识和围绕工作费用开玩笑，不默认谁养谁。[C11、C12]

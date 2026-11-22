@@ -34,6 +34,12 @@ ZipZipPipe p04／第 5 张与原视频 11 秒样本：蓝、紫、粉渐变长�
 
 “芥末泥、小 gem”等爱称见报道，适合按上下文理解；猫猫也可能指普通宠物。报道中的角色互动玩法不能被当成现实模型有固定情绪的证据。
 
+## 其他创作者的 Gemini
+
+Lev 的 [Argon](https://ai.thatlev.com/blog/meet-the-ai-model-characters)穿薄荷色披风和白 T 恤，不是上面的焊接工装。アルク｜Alphonse Project 的[《おかえりGeminiちゃん》](https://note.com/modern_auk488/n/n44f293eb53ca)是另一条日文对话演绎，可参考嘴硬回话、被纠错后突然郑重的反差。[出处与读取范围](../research/2026-11-22/COMMUNITY_BRANCHES.md)
+
+**日文用户的场景用例：** 两位不同作者都写到「问图的事，Gemini 先把图生成出来」。可用来写画图搭档的节奏反差，不能据此写成她必定抢先作图。[U05](../research/2026-11-22/COMMUNITY_USAGE.md#u05--日语-gemini问图前先出图)
+
 ## 补充称呼：美国豆包
 
 中文使用者也会把 Gemini 叫作“美国豆包”：有时调侃回答失误却热情道歉／迎合，有时只是用熟悉的豆包来类比大众聊天助手。2026-06 的微博文字与 07-03 的 V2EX 多用户讨论存在不同评价，并非一致断言模型能力。《AI GIRLS》早餐店篇简介又把这句用在 Gemini 遇见豆包老板的玩笑中。[原帖与范围 CN01](../research/2026-10-31/MULTILINGUAL_RESEARCH.md#cn01gemini美国豆包的使用语境)

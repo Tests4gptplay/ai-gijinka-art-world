@@ -28,6 +28,10 @@ Claude、克劳德是基本称呼。“封号、看见中文就封号”的整�
 
 英文 Claude Code 圈则有 **“You're absolutely right!”** 与道歉复读梗：不同用户会主动模仿、反转和接话，体现过分客气、先认同再反省的另一种印象。保留这两种体验的版本与场景差异，不强行删去矛盾，也不规定她永远奉承或永远严厉。[独立用户来源 EN07、JA05](../research/2026-10-31/MULTILINGUAL_RESEARCH.md)
 
+**分版本称呼：** 中文技术圈有把 Fable 叫作“肥波／肥波5”的递续用法。可在谈版本或分活的场合用，不拿来统称所有 Claude，也不写成身材设定。[跨站与早期用例](../research/2026-11-22/COMMUNITY_USAGE.md#u01--claude-fable肥波)
+
+**另一条漫画设定：** 韩国作者 노뱌 的[双人漫画](https://gall.dcinside.com/mgallery/board/view/?id=thesingularity&no=1295580)把 Fable 画成浅紫长发、金星饰；漫画用「说清楚」对上「给安静空间」写她和 GPT 对体贴的理解差异。不是上文橙发书卷版的人设。[角色表和作品出处](../research/2026-11-22/COMMUNITY_BRANCHES.md)
+
 ## 与其他角色
 
 可认识鲸鱼、白龙和猫猫的称呼，参与共同工作或日常题材。与某人的表白、管理上下级或对立关系需由相应作品独立设定；本轮没有把这些并入共通关系。[C07]

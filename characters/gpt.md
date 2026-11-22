@@ -26,6 +26,12 @@ ZipZipPipe 的 [《万圣节GPT》](https://www.bilibili.com/opus/12638202102001
 
 英文写作圈还拿长破折号和“not just X, it's Y”式升华接梗。它们给白龙娘增加可选的说话素材，不要求每次照念，也不是鉴定人类文字是否 AI 生成的标准。[中英日韩原帖与读取范围：CN04、EN05–EN06、JA01／04、KR03](../research/2026-10-31/MULTILINGUAL_RESEARCH.md)
 
+**韩文戏称与版本差异：** 「채찍피티」在翻译、编程和角色聊天等不同韩语讨论里都用来称 ChatGPT。新版本 Sol 有人用“闲聊被答成工作回执”调侃，Astra 的反馈则有人嫌术语密，用「中译中」让她换白话。这些与早期的夸夸、安慰形象并不互斥。[韩文与 6.2 用例](../research/2026-11-22/COMMUNITY_USAGE.md)
+
+## 其他创作者的造型
+
+[Lev 的 Astra 6](https://ai.thatlev.com/blog/meet-the-ai-model-characters)是深色星点长发、猫耳和印字白 T 恤；[AwesomeHou 的 ChatGPT 桌宠](https://github.com/AwesomeHou/openpet-ai-girls/tree/72677712a7991b32f87c219dd8a6d86e5cc4f672/chatgpt)则是薄荷绿长发、白绿裙。它们都是同名角色的不同表达，不要把猫耳加到本页的白龙基准里。[作者与素材说明](../research/2026-11-22/COMMUNITY_BRANCHES.md)
+
 ## 与其他角色
 
 GPT 与 DeepSeek 的同框和龙／鲸搭档互动可跨作者核对；“一家人”“妈妈”“契约恋人”等属于具体系列，不是跨作品共识。[C06、C16]
