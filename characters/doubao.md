@@ -16,6 +16,8 @@ shuaizenge 固定版本将 p10 标成 Gemini 变体；SelinLee 的固定 manifes
 
 2026-11-22 复核了 Pixiv p10 和 ZipZipPipe 的[《AI娘第二批，有Seed（豆包底模）》](https://www.bilibili.com/opus/1236803362705375305)第 1 张：两张图是同一构图，均可见 SEED 字样和豆包玩偶。B 站原帖的题名和正文明示 Seed，支持本库的归类；上面的两份旧标签保留作归档记录。[复核台账 G08](../research/2026-11-22/SOURCE_LEDGER.md)
 
+**续集入口：** 冬冰 [《还是豆姐的肉包香》](https://www.bilibili.com/video/BV1GByazkEBX/)（2026-11-21）在题名使用“豆姐”，是[《AI 中转站公寓》第 23 集](../research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)的作品内用例，不能仅凭题名确定角色造型或亲缘。灿灿同学的 [Seed 立绘](../research/2026-11-22/VISUAL_ADDENDUM.md)是另一个作者的 GPT 衍生图，不作新基准。
+
 ## 社区认识与关系
 
 “豆包、Seed、豆姐”需结合画面和上下文；“豆姐”在相关创作者系列标题中出现，但不是确定年龄或与其他角色的姐姐关系。[C03 系列标题]

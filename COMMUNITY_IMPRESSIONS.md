@@ -1,6 +1,6 @@
 # 社区认识：谁是谁、能接住什么梗、彼此怎样互动
 
-更新：2026-11-16。逐角色外观与资料缺口见 [人物目录](characters/README.md)，下面的来源编号可在 [本轮台账](research/2026-10-24/SOURCE_LEDGER.md)直接定位；10 月下旬起的账号运营与评论区现象单列于[当日增补](research/2026-11-07/AI_ACCOUNT_WAVE.md)、[梗与称呼增补](research/2026-11-07/CHINESE_COMMUNITY_ADDENDUM.md)、[争论记录](research/2026-11-07/ARGUMENTS.md)。
+更新：2026-11-22。逐角色外观与资料缺口见 [人物目录](characters/README.md)，下面的来源编号可在 [本轮台账](research/2026-10-24/SOURCE_LEDGER.md)直接定位；10 月下旬起的账号运营与评论区现象单列于[当日增补](research/2026-11-07/AI_ACCOUNT_WAVE.md)、[梗与称呼增补](research/2026-11-07/CHINESE_COMMUNITY_ADDENDUM.md)、[争论记录](research/2026-11-07/ARGUMENTS.md)。
 
 这里记录的是外界印象，不是规定每个角色的真实内心。认识“猫猫”指 Gemini，并不意味着 Gemini 每句话都必须喵；理解 Claude 的封号梗，也不意味着她要真的依据对话语言拒绝聊天。
 
@@ -129,3 +129,29 @@ world 记录“别人会叫 DeepSeek 大肥鱼／蓝色大肥鱼，也会拿白�
 - **画面而非剧情：** 《AI公寓05》已记录三个画面时间点，未通看、作者与系列归属待核，不将其并入其他公寓世界线。[B01](research/2026-11-16/SOURCE_LEDGER.md)
 
 可用语境、素材来源与边界见[本次社区增补](research/2026-11-16/COMMUNITY_ADDENDUM.md)。
+
+## 2026-11-22 增量：元素名怎么接梗、同一互动怎么分出处
+
+### “基米”可以接元素名，不等于每个叫法都有立绘
+
+| 实际说法 | 证据与写法 |
+|---|---|
+| 氩基米、碳基米、氢基米、氖基米 | LINUX DO [11-17「codex你们用的感觉怎么样」第 10 楼](https://linux.do/t/topic/3188352/10)一次用儿歌式点名；[11-19「现在ai命名比AMD的CPU命名都乱」第 4 楼](https://linux.do/t/topic/3204971/4)用碳、氢比较用途，[同帖第 12 楼](https://linux.do/t/topic/3204971/12)反过来说“基米氖”；[11-21「反重力又要重置了」第 4 楼](https://linux.do/t/topic/3213795/4)说的是用完氩的额度后改用氖。这是同站不同作者的自然用例；唱出整串仍是具体作者的表达。 |
+| “氖基米”用于称呼 Neon | LINUX DO [sakura799 的 11-19 原帖](https://linux.do/t/topic/3200127)直接并列 Neon 和氖基米；NodeSeek 的 [zhanggege 帖](https://www.nodeseek.com/post-1065380-1)也如此称呼，回复有人解释 Neon 就是氖。后者为搜索索引回显，未读完整原页。它支持跨站用语，不证明模型发布情况，更不证明有一张 ZipZipPipe 的 Neon 立绘。 |
+| “哈基米”与“大肥鱼”同句 | LINUX DO [heir.the.loong 的 11-21 帖](https://linux.do/t/topic/3217719)在使用体验中把两个称呼分别指向 Gemini 和 DeepSeek，是原帖正文的自然用法，不是角色对话。 |
+
+写对话时，可以用元素名作点名、报幕、交班，不必把“基米家族”写成固定亲属。画图时按 [ZipZipPipe 已核对的三款立绘](characters/gemini.md)选版，不用昵称反推未见的设计。这里的使用体验也不当作性能测评。
+
+### 从产品梗变成可写的动作
+
+- **额度梗从帮忙到突然卡住。** 华好好过[《AI公寓》第 04 集](https://www.bilibili.com/video/BV1axW26LERX/)先让 GPT 主动砍价，再用额度不足打断庆祝。可参考“帮完忙才被打断”的转折；具体人物、对白属于该集，依据是作者简介。
+- **鲸鱼娘的白饭可以用道具接梗。** [CrossPet v1.4.0](https://github.com/lokicorvus/crosspet/releases/tag/v1.4.0)把饭勺变琴弓、把魔术帽变饭碗；[冬冰公寓](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)的作品题名则用碗数、尾巴藏食物和包子口味起题。它们加强已有饮食题材的跨作者用例；具体道具动作并不互相通用。
+- **被冷落与记不住，是两张不同的漫画。** X 上 9小只饲养员恶师傅™（@Fatal1tyV，[11-21 原帖](https://x.com/Fatal1tyV/status/2123957285391303070)及[同日续帖](https://x.com/Fatal1tyV/status/2124009287886463087)）：一张画白龙发现用户玩游戏不派活；另一张画鲸鱼娘反驳拿金鱼记性打趣她。核对了公开镜像文字与[白龙原帖配图](https://pbs.twimg.com/media/HXnP3lHbwAAT2EV.jpg?name=orig)、[鲸鱼原帖配图](https://pbs.twimg.com/media/HXn_LfAb0AA_2A_.jpg?name=orig)。两张并非同场，不编鱼龙关系，也不计作知乎连载新增编号。
+
+### “是鲸，不是鱼”：听到外号时的反驳梗
+
+X 上的鲸鱼娘漫画用“金鱼记性”激出这句反驳。另一作者清欢在 11 月 21 日的 [Rubii《DeepSeek》公开角色](https://rubii.ai/character/DeepSeek__chara_6b014932f82755acbd349b55)把它写进开场：被叫大肥鱼时先纠正自己是鲸，连“肥”也要反驳；只读公开开场及作者动态，未测试私聊。卡布奇诺ultra 的 [B 站《大肥鱼小课堂 DSH》](https://www.bilibili.com/video/BV1urnR6xE2P/)投稿简介的索引回显也并用“鲸鱼不是鱼”和“不是胖，是流线型”，未看视频。
+
+几位作者用了同一个反驳结构，但引子不同。写对白时可先让人用“大肥鱼”开玩笑，再让她认真挑字眼；不必删掉通行外号，也不必让每个版本都讨厌这个称呼。
+
+独立剧情见[华好好过《AI公寓》](research/2026-11-22/HUA_AI_APARTMENT.md)，造型、衍生素材和音乐作品见[同期图录](research/2026-11-22/VISUAL_ADDENDUM.md)。

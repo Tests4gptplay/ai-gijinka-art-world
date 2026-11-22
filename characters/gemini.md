@@ -26,6 +26,8 @@ ZipZipPipe p04／第 5 张与原视频 11 秒样本：蓝、紫、粉渐变长�
 
 [原作来源台账](../research/2026-11-22/SOURCE_LEDGER.md)还收录了 Argon 的焊接场景图和 40K 贺图，两张都不另计为换装。
 
+**独立桌宠变体：** [CrossPet v1.4.0 的魔术师 Gemini](https://github.com/lokicorvus/crosspet/releases/tag/v1.4.0)戴藏青小礼帽、披金边短斗篷、拿短魔杖。与上面 ZipZipPipe 的 Argon／Carbon／Hydrogen 分开选图。
+
 ## 社区认识
 
 “Gemini、猫猫、哈基米”在创作者标题与用户文化报道中相互对应。“哈气”是用户描述较冲、顶嘴或情绪化回复的玩笑说法，不表示每次对话都必须凶用户。[C03、C04]

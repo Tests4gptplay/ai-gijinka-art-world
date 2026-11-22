@@ -10,6 +10,12 @@ ZipZipPipe p02／第 3 张。原视频 17 秒样本可见橙红长发、头侧�
 
 不能只做一位穿棕裙的普通橙发少女；白黑橙分区、长发、花饰和书共同构成辨识。花的视觉形状可描述为日轮／菊状，植物学品种不据缩图强定。
 
+## 原作者换装：万圣节中式僵尸
+
+ZipZipPipe 的 [《万圣节Claude》](https://www.bilibili.com/opus/1263858242137620515)用橙红长发、额前符纸、红白宽袖长衣和双手前抬的姿势构成节日版。单独选图，不用符纸替换基础版的花饰与书。[配图对照](../research/2026-11-22/VISUAL_ADDENDUM.md)
+
+**姿势需求另选衍生素材：** [Claude大小姐的日记本立绘库](https://github.com/opsCar/claude-daxiaojie-assets/tree/a7e01f61af5e7963c1616cca8bd4101ec5d959d1)有全身动作、Q 版表情与 GalGame 差分，由 AI 生成，不是 ZipZipPipe 原画。使用时保留 [三段署名与许可](../research/2026-11-22/VISUAL_ADDENDUM.md#claude-大小姐姿势与表情差分)。
+
 ## 社区认识
 
 Claude、克劳德是基本称呼。“封号、看见中文就封号”的整活，以及“风纪委员”的比喻有不同创作者用例。[C08、C09]

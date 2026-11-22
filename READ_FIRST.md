@@ -6,6 +6,8 @@
 
 ## 最短阅读路线
 
+**查这次全库新增：** [衣装与独立素材](research/2026-11-22/VISUAL_ADDENDUM.md) · [社区说法与作品](COMMUNITY_IMPRESSIONS.md) · [冬冰公寓 23 集](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) · [萤火之森 52 条](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) · [华好好过 7 集＋短片](research/2026-11-22/HUA_AI_APARTMENT.md)。三套连载分别索引，不混写剧情。
+
 **要画谁：** [人物目录](characters/README.md) → 对应人物页 → 页内真实参考图 → [视觉错画对照](VISUAL_REFERENCE_NOTES.md)。
 
 **要写相处和对话：** [社区印象与关系](COMMUNITY_IMPRESSIONS.md) → 对应人物页；需要某个作者的世界线再读 [世界观分层](WORLDVIEW_AND_FANON.md)。

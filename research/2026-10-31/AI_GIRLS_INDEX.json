@@ -1,6 +1,6 @@
 {
-  "retrieved": "2026-10-31",
-  "source_url": "https://www.bilibili.com/video/BV1HGnX6qETy/",
+  "retrieved": "2026-11-22",
+  "source_url": "https://www.bilibili.com/video/BV15RybzNEVb/",
   "author": {
     "mid": 482116663,
     "name": "萤火之森QWQ"
@@ -9,7 +9,7 @@
     "id": 9320273,
     "title": "《AI GIRLS》",
     "intro": "",
-    "ep_count": 33
+    "ep_count": 52
   },
   "date_timezone": "Asia/Shanghai",
   "episodes": [
@@ -375,6 +375,215 @@
       "cid": 43203822246,
       "summary": "走失猫团子来访，由主人接回（实看）",
       "observed_heading": "第 31 话"
+    },
+    {
+      "order": 34,
+      "bvid": "BV1Bmxp6fETd",
+      "title": "《水呢？》",
+      "pubdate": 1793502318,
+      "published_utc": "2026-11-01T03:05:18.000Z",
+      "duration": 198,
+      "cid": 43225713414,
+      "summary": "七人遭遇停水，先到豆包的早餐店，回家再等水恢复",
+      "observed_heading": null
+    },
+    {
+      "order": 35,
+      "bvid": "BV1TXxW6LE3M",
+      "title": "《我们只是来摆摊的吧？》",
+      "pubdate": 1793523380,
+      "published_utc": "2026-11-01T08:56:20.000Z",
+      "duration": 179,
+      "cid": 43234430055,
+      "summary": "承接储物间整理，七人到跳蚤市场卖旧物；Q 版 DeepSeek 坐纸箱，被误当商品",
+      "observed_heading": null
+    },
+    {
+      "order": 36,
+      "bvid": "BV1irxt6uEHC",
+      "title": "《Claude当妈妈了？》",
+      "pubdate": 1793586600,
+      "published_utc": "2026-11-02T02:30:00.000Z",
+      "duration": 240,
+      "cid": 43245372086,
+      "summary": "六位室友缩小，Claude 暂时负责照顾；题名所说「妈妈」是情境笑话",
+      "observed_heading": null
+    },
+    {
+      "order": 37,
+      "bvid": "BV1kb4w6LEd8",
+      "title": "《谁说滑冰简单的？》",
+      "pubdate": 1793611270,
+      "published_utc": "2026-11-02T09:21:10.000Z",
+      "duration": 193,
+      "cid": 43262480153,
+      "summary": "七人初试滑冰：GLM 慢却稳，Claude 越滑越放松，DeepSeek 短暂变成 Q 版",
+      "observed_heading": null
+    },
+    {
+      "order": 38,
+      "bvid": "BV1v34K6VEzs",
+      "title": "《为什么这次轮到我了？！》(上)",
+      "pubdate": 1793673000,
+      "published_utc": "2026-11-03T02:30:00.000Z",
+      "duration": 167,
+      "cid": 43273882005,
+      "summary": "与下篇共用简介：六人缩小，DeepSeek 从照看室友到一起搭秘密基地",
+      "observed_heading": null
+    },
+    {
+      "order": 39,
+      "bvid": "BV1v34K6VEEL",
+      "title": "《为什么这次轮到我了？！》(下)",
+      "pubdate": 1793687400,
+      "published_utc": "2026-11-03T06:30:00.000Z",
+      "duration": 175,
+      "cid": 43273945477,
+      "summary": "与上篇共用简介：六人缩小，DeepSeek 从照看室友到一起搭秘密基地",
+      "observed_heading": null
+    },
+    {
+      "order": 40,
+      "bvid": "BV1q5xm6bEpV",
+      "title": "《天黑请闭眼》(上)狼人杀特别篇",
+      "pubdate": 1793759400,
+      "published_utc": "2026-11-04T02:30:00.000Z",
+      "duration": 313,
+      "cid": 43301143854,
+      "summary": "与下篇共用简介：八人把客厅布置成狼人杀桌，身份推理改变朋友间的互动",
+      "observed_heading": null
+    },
+    {
+      "order": 41,
+      "bvid": "BV1j5xm6bEbE",
+      "title": "《天黑请闭眼》(下)狼人杀特别篇",
+      "pubdate": 1793765389,
+      "published_utc": "2026-11-04T04:09:49.000Z",
+      "duration": 331,
+      "cid": 43301210572,
+      "summary": "与上篇共用简介：八人把客厅布置成狼人杀桌，身份推理改变朋友间的互动",
+      "observed_heading": null
+    },
+    {
+      "order": 42,
+      "bvid": "BV1zkxR6pEij",
+      "title": "《好，再拍一张！》",
+      "pubdate": 1793845800,
+      "published_utc": "2026-11-05T02:30:00.000Z",
+      "duration": 271,
+      "cid": 43332732717,
+      "summary": "七人反复摆拍，最终相机意外拍到大家自然笑起来的瞬间",
+      "observed_heading": null
+    },
+    {
+      "order": 43,
+      "bvid": "BV166xR69EXo",
+      "title": "《被子不是风筝！》",
+      "pubdate": 1793853000,
+      "published_utc": "2026-11-05T04:30:00.000Z",
+      "duration": 202,
+      "cid": 43332798619,
+      "summary": "大家同日洗床单和被套，晾晒空间不够又遇到大风（简介标第 39 话）",
+      "observed_heading": null
+    },
+    {
+      "order": 44,
+      "bvid": "BV1tj4e6CEw3",
+      "title": "《这真的是杯子吗？！》",
+      "pubdate": 1793932200,
+      "published_utc": "2026-11-06T02:30:00.000Z",
+      "duration": 204,
+      "cid": 43365761495,
+      "summary": "七人学做陶杯，歪杯、超大杯与猫耳装饰各有样子",
+      "observed_heading": null
+    },
+    {
+      "order": 45,
+      "bvid": "BV1bL4e65EF6",
+      "title": "《憋笑挑战》",
+      "pubdate": 1793946600,
+      "published_utc": "2026-11-06T06:30:00.000Z",
+      "duration": 147,
+      "cid": 43365763101,
+      "summary": "七人面对面比谁先笑；平时安静的 Claude 很会逗人",
+      "observed_heading": null
+    },
+    {
+      "order": 46,
+      "bvid": "BV1J1476SEca",
+      "title": "《谁买了这么多牛奶？！》",
+      "pubdate": 1794016110,
+      "published_utc": "2026-11-07T01:48:30.000Z",
+      "duration": 132,
+      "cid": 43395648780,
+      "summary": "七人各自顺手买了一盒牛奶，最后一起想办法做甜品消耗",
+      "observed_heading": null
+    },
+    {
+      "order": 47,
+      "bvid": "BV13YWN6bEEN",
+      "title": "《这真的是近路吗？！》",
+      "pubdate": 1794277800,
+      "published_utc": "2026-11-10T02:30:00.000Z",
+      "duration": 181,
+      "cid": 43476323658,
+      "summary": "Grok 带路绕回便利店；Gemini 找路，事后 GLM 提出可坐公交",
+      "observed_heading": null
+    },
+    {
+      "order": 48,
+      "bvid": "BV1YGWQ6bEvY",
+      "title": "《这个纸箱先别扔！》",
+      "pubdate": 1794449795,
+      "published_utc": "2026-11-12T02:16:35.000Z",
+      "duration": 135,
+      "cid": 43530847441,
+      "summary": "DeepSeek 想窝在纸箱里休息，室友却把纸箱改成代收小东西的事务所",
+      "observed_heading": null
+    },
+    {
+      "order": 49,
+      "bvid": "BV1cAWy6pEBx",
+      "title": "《它为什么一直跟着我？！》",
+      "pubdate": 1794623922,
+      "published_utc": "2026-11-14T02:38:42.000Z",
+      "duration": 144,
+      "cid": 43587338836,
+      "summary": "DeepSeek 以为被扫地机器人追赶；GPT 观察路线后发现它只是想回充电座",
+      "observed_heading": null
+    },
+    {
+      "order": 50,
+      "bvid": "BV1frsA6MEtq",
+      "title": "《你画的到底是什么啊？！》",
+      "pubdate": 1794826615,
+      "published_utc": "2026-11-16T10:56:55.000Z",
+      "duration": 139,
+      "cid": 43654711964,
+      "summary": "七人玩画画传话；GLM 画抱零食的小鲸鱼送给 DeepSeek",
+      "observed_heading": null
+    },
+    {
+      "order": 51,
+      "bvid": "BV1JPsU6wEKR",
+      "title": "《不是说只买一点吗？！》",
+      "pubdate": 1794982802,
+      "published_utc": "2026-11-18T06:20:02.000Z",
+      "duration": 133,
+      "cid": 43704189673,
+      "summary": "七人都给想买的东西找理由，千问认真核对购物车；最后却漏买洗衣液",
+      "observed_heading": null
+    },
+    {
+      "order": 52,
+      "bvid": "BV15RybzNEVb",
+      "title": "《你刚刚不是还在这里吗？！》",
+      "pubdate": 1795241880,
+      "published_utc": "2026-11-21T06:18:00.000Z",
+      "duration": 151,
+      "cid": 43788402996,
+      "summary": "大家侦查 GPT 的手机失踪案，手机其实在她手上；GLM 早看到，却以为大家在玩游戏",
+      "observed_heading": null
     }
   ]
 }

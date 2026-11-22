@@ -39,6 +39,10 @@ ZipZipPipe p12／第 13 张，原视频 53 秒可核对：蓝紫长发与编发�
 
 来源台账：[N07–N09](../research/2026-10-27/SOURCE_LEDGER.md)。
 
+## 与《AI GIRLS》分开的店长版本
+
+华好好过[《AI公寓》第 05 集](https://www.bilibili.com/video/BV1cZsV6MEVF/)的千问在古玩店做店主，面对有人强请 Claude 回家，她站出来拦住。适合对照「照顾客人但不替客人决定」的处理。这是该篇简介中的职业和剧情，与萤火之森的千问篇分开。[全系列目录](../research/2026-11-22/HUA_AI_APARTMENT.md)
+
 ## 已发表作品：《AI GIRLS》中的千问篇
 
 **[《千问也有不会的事》](https://www.bilibili.com/video/BV1iKHN6FEpr/)**是萤火之森QWQ 的《AI GIRLS》作品，2026-10-24 发布，画内第 26 话、合集第 27 条。已有指定画面核对：千问坦然承认不会修音响，随后查说明、与室友共同排查并修好；可靠感来自愿意学习与合作，而不是无所不知。详见[该系列实看记录](../research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md#5-千问也有不会的事承认未知仍然可靠)。这些表现属于本系列，不推定为千问的统一性格。

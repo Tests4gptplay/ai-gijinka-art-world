@@ -16,10 +16,10 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 |---|---|
 | 认识每个人物，找对应参考 | [14 位人物档案](characters/README.md) · [视觉图鉴总表](CHARACTER_ATLAS.md) |
 | 理解昵称、梗和人物关系 | [社区印象与关系](COMMUNITY_IMPRESSIONS.md) · [不同作者的世界线](WORLDVIEW_AND_FANON.md) |
-| 查 AI 娘中转站／《AI GIRLS》系列 | [冬冰《AI 中转站公寓》16 集](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) · [《AI GIRLS》33 条目录、人物互动与重点剧情](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) |
+| 查 AI 娘中转站／《AI GIRLS》系列 | [冬冰《AI 中转站公寓》23 集](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md) · [萤火之森《AI GIRLS》52 条](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md) · [华好好过《AI公寓》7 集＋短片](research/2026-11-22/HUA_AI_APARTMENT.md) |
 | 查《world.execute(me);》AI 制作 MV 热潮 | [世界观里的创作潮与模型对照](WORLDVIEW_AND_FANON.md) · [完整起因、时间线与各模型 MV 列表](research/2026-10-27/WORLD_EXECUTE_ME_MV_WAVE.md) |
 | 查看已收录的角色歌曲 | [DeepSeek《Let Me Go》](characters/deepseek/music/Let-Me-Go-大肥鱼摸鱼歌.md) · [GPT《您的账号没有降智》](characters/gpt/music/风霜秋雨-您的账号没有降智.md) · [Claude《您的账号已被封禁》](characters/claude/music/风霜秋雨-您的账号已被封禁.md) |
-| 画得像所选角色，不串色串设定 | [视觉基准与错画对照](VISUAL_REFERENCE_NOTES.md) · [美术语言](ART_DIRECTION.md) |
+| 画得像所选角色，不串色串设定 | [视觉基准与错画对照](VISUAL_REFERENCE_NOTES.md) · [换装、工具娘与透明素材](research/2026-11-22/VISUAL_ADDENDUM.md) · [美术语言](ART_DIRECTION.md) |
 | 从立绘制作有真实动作的角色 | [桌宠动作资料说明](ANIMATION_REFERENCE.md) · [创作前核对](GENERATION_CHECKLIST.md) |
 | 查某条结论从哪里来 | [2026-10-27 增量台账](research/2026-10-27/SOURCE_LEDGER.md) · [2026-10-24 来源台账](research/2026-10-24/SOURCE_LEDGER.md) · [视频核对记录](research/2026-10-24/VIDEO_REVIEW.md) · [较早来源](SOURCES.md) |
 | 查梗背后的公司、营销与用户实践 | [真实组织与模型／产品对照、六组梗的现实来源链](research/2026-10-31/REAL_WORLD_MEME_ORIGINS.md) |
@@ -33,6 +33,8 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 **视频制作方法：** [高品质 AI 辅助视频与 MV 制作方案库](video-production/README.md)保留现有制作路线、案例和待实验方案；资料收录不表示相关路线都已完成成片验收。
 
 ## 本轮补充了什么
+
+2026-11-22 全库增补：更新 [冬冰公寓 23 集](research/2026-10-27/AI_RELAY_STATION_APARTMENT.md)和 [萤火之森《AI GIRLS》52 条](research/2026-10-27/AI_GIRLS_YINGHUO_COLLECTION.md)，另建 [华好好过《AI公寓》7 集＋1 条短片](research/2026-11-22/HUA_AI_APARTMENT.md)目录。补录 [ZipZipPipe 换装、工具娘及独立衍生素材](research/2026-11-22/VISUAL_ADDENDUM.md)，包括 1017 小肥鱼、万圣节、Suno、Claude 透明差分、CrossPet 和音乐 MV；[社区印象](COMMUNITY_IMPRESSIONS.md)增加元素名与“基米”的实用例。
 
 2026-11-22：补齐 ZipZipPipe 的 [Gemini 4 新设计](characters/gemini.md#zipzippipe-的-gemini-4-新设计)：Argon、Carbon、Hydrogen 三款单图，以及 5.5 万粉贺图、Argon 焊接场景等参考。基础 p04 保留；原帖和配图见[本轮台账](research/2026-11-22/SOURCE_LEDGER.md)。
 
