@@ -14,7 +14,7 @@
 
 shuaizenge 固定版本将 p10 标成 Gemini 变体；SelinLee 的固定 manifest 则把同一原始文件归为 zipzippipe-doubao，选定页为 11。两边涉及的原图 SHA-256 为 `a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce`。[R01、R02]
 
-本库沿用 SEED 对应的归档判断，并把原始冲突公开保存。本轮 Pixiv 全页不可达，没有将其表述为刚取得作者逐页文字确认，也没有删掉冲突的一方来制造“无争议”。
+2026-11-22 复核了 Pixiv p10 和 ZipZipPipe 的[《AI娘第二批，有Seed（豆包底模）》](https://www.bilibili.com/opus/1236803362705375305)第 1 张：两张图是同一构图，均可见 SEED 字样和豆包玩偶。B 站原帖的题名和正文明示 Seed，支持本库的归类；上面的两份旧标签保留作归档记录。[复核台账 G08](../research/2026-11-22/SOURCE_LEDGER.md)
 
 ## 社区认识与关系
 
@@ -28,6 +28,6 @@ shuaizenge 固定版本将 p10 标成 Gemini 变体；SelinLee 的固定 manifes
 
 ## 新增九人群像作品线索（2026-10-27）
 
-[《九位 AI 娘化 world.execute(me);》（2026-10-13）](https://www.bilibili.com/video/BV1ARpZ6wEB7/) 与 [GPT-6 Astra 修订版（2026-10-14）](https://www.bilibili.com/video/BV1Qhpy6uE1s/) 的公开简介均列出“豆包”为九位登场形象之一，并列出素材来源（N18–N19）。本条只记录出场名称，不根据未逐帧核对的画面来裁决本档案既有的 Pixiv p10 标签冲突。
+[《九位 AI 娘化 world.execute(me);》（2026-10-13）](https://www.bilibili.com/video/BV1ARpZ6wEB7/) 与 [GPT-6 Astra 修订版（2026-10-14）](https://www.bilibili.com/video/BV1Qhpy6uE1s/) 的公开简介均列出“豆包”为九位登场形象之一，并列出素材来源（N18–N19）。本条只记录出场名称，不把未逐帧核对的视频画面作为 Pixiv p10 归类的证据。
 
 来源台账：[N18–N19](../research/2026-10-27/SOURCE_LEDGER.md)。

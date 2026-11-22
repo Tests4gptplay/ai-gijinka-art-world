@@ -358,7 +358,7 @@
   ],
   "excluded_conflicted_asset": {
     "path_in_other_catalog": "previews/gemini-adult-zipzippipe-pixiv-148186519-p10-variant.jpg",
-    "reason": "Other catalog marks Pixiv p10 (full SHA256 a923dd...) Gemini variant, while independent Pixiv page audit and visible SEED motifs map that exact file to Doubao/Seed. Excluded as Gemini; source comparison needed.",
+    "reason": "A third-party catalog labeled Pixiv p10 a Gemini variant. ZipZipPipe's Seed post (Bilibili opus 1236803362705375305), first image, matches the Pixiv p10 composition and SEED motifs. The existing Doubao/Seed classification stands; see research/2026-11-22/SOURCE_LEDGER.md (G08).",
     "original_sha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
   },
   "chibi_video": "https://www.bilibili.com/video/BV1tE9XBbErS/",

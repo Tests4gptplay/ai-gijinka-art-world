@@ -10,6 +10,22 @@ ZipZipPipe p04／第 5 张与原视频 11 秒样本：蓝、紫、粉渐变长�
 
 有星饰不等于所有衣服都要布满发光星云；猫耳猫尾与彩色头发比背景特效更能认人。与 GLM 的黑白、狐系母题及 Z 标记区分。
 
+## ZipZipPipe 的 Gemini 4 新设计
+
+三款都是作者单独发布的 Gemini 娘设计；上面的 p04 仍是基础版。需要画指定版本时，先选对应立绘：
+
+| 版本 | 识别要点 | 原帖与配图 |
+|---|---|---|
+| **Argon（氩）** | 紫色护目镜、黑色工装、淡紫发光线、金属护手、手持氩弧焊枪。淡紫光带来自作者对通电氩气灯管的联想。 | [10-15 原帖](https://www.bilibili.com/opus/1259436942689304579) · [查看立绘](https://i0.hdslb.com/bfs/new_dyn/ac599e0be5f90f23dadbb99b5383b8164168597.png) |
+| **Carbon（碳）** | 深色长卷发、黑色猫耳、泛虹彩的黑色叠层裙、六边形腰饰和手持折光饰件。作者列出的灵感是石墨、金刚石和 C60。 | [11-11 原帖](https://www.bilibili.com/opus/1269437134073233414) · [查看立绘](https://i0.hdslb.com/bfs/new_dyn/84abb12c85d75bf974afbd41d98469e04168597.png) |
+| **Hydrogen（氢）** | 蓝底虹彩长发、浅色薄纱叠裙、紫色腰结、赤足悬浮，手持印有白色原子图样的红气球。 | [11-22 原帖](https://www.bilibili.com/opus/1273367321200558082) · [查看立绘](https://i0.hdslb.com/bfs/new_dyn/745a3212e04727bd57d03bf5758e3b244168597.png) |
+
+[11-22《5.5万粉丝贺图——哈基米们》](https://www.bilibili.com/opus/1273349110528737288)（[看合照](https://i0.hdslb.com/bfs/new_dyn/1cb3841c25e2acf0c02eed85e60a45454168597.png)）从左到右是 Hydrogen、Carbon、Argon、基础 Gemini、Antigravity。最右是同作者的代码工具娘化，不计入 Gemini 版本。
+
+**画异色眼时按图选边：** 以观者视角，基础 p04、Argon 和 Carbon 的立绘左红／粉、右金；Hydrogen 的单图与合照中是左金、右粉。不是所有服装共用一组固定左右眼色。
+
+[原作来源台账](../research/2026-11-22/SOURCE_LEDGER.md)还收录了 Argon 的焊接场景图和 40K 贺图，两张都不另计为换装。
+
 ## 社区认识
 
 “Gemini、猫猫、哈基米”在创作者标题与用户文化报道中相互对应。“哈气”是用户描述较冲、顶嘴或情绪化回复的玩笑说法，不表示每次对话都必须凶用户。[C03、C04]
@@ -36,7 +52,7 @@ ZipZipPipe p04／第 5 张与原视频 11 秒样本：蓝、紫、粉渐变长�
 
 ## 索引冲突
 
-Pixiv p10 被一份第三方索引称作 Gemini 变体，但另一份原帖归档把同一图归为 Seed／豆包，且本库已有 SEED 对应记录。此处继续采用明确猫系 p04，不把冲突图混作 Gemini 基准。见 [Seed／豆包](doubao.md)。
+一份第三方索引曾把 Pixiv p10（第 11 张）标为 Gemini 变体。现已核对 ZipZipPipe 的[《AI娘第二批，有Seed（豆包底模）》](https://www.bilibili.com/opus/1236803362705375305)：首图与 p10 同构图，并有 SEED 字样及豆包玩偶，故不计入 Gemini。旧索引的不同标签保留在 [Seed／豆包](doubao.md)。
 
 ## 新增作品中的登场用例（2026-10-27）
 

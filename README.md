@@ -2,7 +2,7 @@
 
 AI 娘二创视觉设定、社区印象与创作参考资料库。
 
-**建立：2026-10-18｜最近更新：2026-11-16｜14 位模型拟人角色资料＋独立原创人物区**
+**建立：2026-10-18｜最近更新：2026-11-22｜14 位模型拟人角色资料＋独立原创人物区**
 
 **许可证：[CC BY-NC-SA 4.0](LICENSE)**（署名、非商业性使用、相同方式共享）。作者与素材来源见 [RIGHTS.md](RIGHTS.md)。
 
@@ -34,6 +34,8 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 
 ## 本轮补充了什么
 
+2026-11-22：补齐 ZipZipPipe 的 [Gemini 4 新设计](characters/gemini.md#zipzippipe-的-gemini-4-新设计)：Argon、Carbon、Hydrogen 三款单图，以及 5.5 万粉贺图、Argon 焊接场景等参考。基础 p04 保留；原帖和配图见[本轮台账](research/2026-11-22/SOURCE_LEDGER.md)。
+
 2026-11-16：[社区增补](research/2026-11-16/COMMUNITY_ADDENDUM.md)收录 fatal1tyv《AI娘梗图》第 24–28 弹摘要、两个英文社区大肥鱼互动作品，以及《AI公寓05》三个实际画面样本。喂饭／Big Fat Fish 用例回写社区与 DeepSeek 页；同作者新语汇仍按独立演绎记录，未通看的视频不补剧情，没有新增图像资产。详见[来源台账](research/2026-11-16/SOURCE_LEDGER.md)。
 
 2026-11-07 日常增补：记录 10 月中下旬起的[AI 娘账号自主运营与评论区“鱼灾”](research/2026-11-07/AI_ACCOUNT_WAVE.md)——Claude、DeepSeek 两条起点账号（10-18、10-19），各模型同构账号、读 B 站与清理插件、企业账号用梗（腾讯 QQ 10-27）、产品官方账号入驻（DeepSeekHarness 11-02；已核 B 站机构认证，但官网未列 B 站入口、入驻至今仅 1 条投稿，故写“官方认证的产品号”而非“官方下场运营”），以及争议和记录边界。另整理[中文社区增补](research/2026-11-07/CHINESE_COMMUNITY_ADDENDUM.md)与[争论记录](research/2026-11-07/ARGUMENTS.md)：梗图连载更名、两碗饭、梁圣／牢梁、养鱼玩法、DeepSeek×Claude 媒体叙事、对形象垄断的反对意见。来源见[本轮台账 M01–M47](research/2026-11-07/SOURCE_LEDGER.md)；人物页补了「溟月」的署名关系（只记署名，不记时间先后）、鱼灾边界与 Claude 的运营账号用例。
@@ -58,7 +60,7 @@ AI 娘二创视觉设定、社区印象与创作参考资料库。
 
 DeepSeek 的原型署名链为 **上善无形 → ZipZipPipe 的 DeepSeek 女仆二创**。MiMo 本库采用的立绘和三视图来自 **甶丶**，不统一归给 ZipZipPipe。正常比例稿在部分素材仓叫作 `adult`，这里只是素材分类，不据此推断角色年龄。
 
-Pixiv p10 存在第三方索引冲突：一处称 Gemini 变体，另一处归为 Seed／豆包。本库沿用现有 SEED 对应记录，同时保留双方依据和原站待复核说明；详见 [Seed／豆包档案](characters/doubao.md)。
+Pixiv p10 曾被第三方索引标成 Gemini 变体；现已与作者《AI娘第二批，有Seed（豆包底模）》首图对照，归类为 Seed／豆包。两份旧索引与复核依据见 [Seed／豆包档案](characters/doubao.md)。
 
 ## 当前资料边界
 

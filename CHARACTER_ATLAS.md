@@ -12,7 +12,7 @@ Pixiv 下标 `p00` 为第 1 张；“第几张”不等于视频出场次序。
 |---|---|---|---|
 | DeepSeek | 蓝长发、鳍形侧部、蓝白女仆服、单条宽鲸尾 | 上善无形原型 → ZipZipPipe；148186519 p00、p01 变体 | [档案](characters/deepseek.md) · [预览](assets/references/deepseek.jpg) |
 | GPT / ChatGPT | 银白发、双龙角、浅紫膜翼、白色分段鳞尾、白紫裙 | ZipZipPipe 148186519 p03／第 4 张 | [档案](characters/gpt.md) · [预览](assets/references/gpt.jpg) |
-| Gemini | 蓝紫粉渐变长发、猫耳猫尾、异色眼、星饰、紫蓝短裙 | ZipZipPipe 148186519 p04／第 5 张 | [档案](characters/gemini.md) · [预览](assets/references/gemini.jpg) |
+| Gemini | 蓝紫粉渐变长发、猫耳猫尾、异色眼、星饰、紫蓝短裙 | ZipZipPipe 148186519 p04／第 5 张 | [档案](characters/gemini.md) · [基础预览](assets/references/gemini.jpg) · [Argon／Carbon／Hydrogen](characters/gemini.md#zipzippipe-的-gemini-4-新设计) |
 | Claude | 橙红长发、日轮式花饰、米白黑橙长裙、书 | ZipZipPipe 148186519 p02／第 3 张 | [档案](characters/claude.md) · [预览](assets/references/claude.jpg) |
 | Grok | 金双马尾、黑蝠翼、黑红哥特裙、X 巨斧 | ZipZipPipe 148186519 p07／第 8 张 | [档案](characters/grok.md) · [预览](assets/references/grok.jpg) |
 | GLM / 智谱 | 黑长发、黑白层叠裙、Z 与书；狐系母题按具体图版核对 | ZipZipPipe 148186519 p06／第 7 张 | [档案](characters/glm.md) · [预览](assets/references/glm.jpg) |
@@ -61,7 +61,7 @@ Llama、Seed、Mistral、混元和 MiMo 不在这个九人视频中，不能为�
 
 一份 shuaizenge 归档将 Pixiv `148186519_p10.jpg` 标为 Gemini 变体；SelinLee 的 manifest 将同一原图归为 Seed／豆包。原图 SHA-256 都指向 `a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce`。
 
-本库沿用已有的 SEED 对应记录，同时保留两份标签与出处。原站本轮不可达，所以不声称获得了新的原作者逐页文字确认；Gemini 的基准继续使用明确的猫系 p04。详见 [人物档案](characters/doubao.md)与来源 R01／R02。
+2026-11-22 已核对 p10 与 ZipZipPipe 的《AI娘第二批，有Seed（豆包底模）》首图，支持 Seed／豆包的归类。Gemini 的基准仍是猫系 p04；两份旧索引与新复核见 [Seed／豆包档案](characters/doubao.md)和 [台账 G08](research/2026-11-22/SOURCE_LEDGER.md)。
 
 ## 外观之外
 
